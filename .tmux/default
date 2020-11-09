@@ -1,0 +1,56 @@
+rename-session -t 0 default
+
+# FENSTER 1
+
+rename-window -t 0 shell
+
+splitw -h -p 38
+splitw -v -p 62
+
+selectp -t 0 
+send-keys " cd ~dok" C-m 
+send-keys " flatpak update" C-m 
+
+selectp -t 1
+send-keys " journalctl -f" C-m 
+
+selectp -t 2
+send-keys " df -h" C-m 
+
+# FENSTER 2
+
+new-window -t default:1 -n system
+
+splitw -h -p 68 
+splitw -v -p 50
+splitw -h -p 50
+
+selectp -t 0
+#send-keys " glances --disable-process -5" C-m 
+
+selectp -t 1
+send-keys " sudo nethogs" C-m 
+
+selectp -t 2
+send-keys " sudo iftop -P -i wlp2s0" C-m
+send-keys "t"
+
+selectp -t 3
+send-keys " sudo iftop -P -i tun0" C-m
+send-keys "t"
+
+# FENSTER 3 
+
+new-window -t default:2 -n chat
+send-keys " weechat" C-m 
+
+# FENSTER 4 
+
+new-window -t default:3 -n ssh
+
+# return to main window
+select-window -t default:0
+
+# Select pane 1
+selectp -t 0
+

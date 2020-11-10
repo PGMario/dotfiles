@@ -1,0 +1,223 @@
+2020-02-04 15:10:22	-->	dewowzer (~dewowzer@37.58.58.230) hat den Channel #debian betreten
+2020-02-04 15:10:22	--	Das Thema von #debian lautet: "Current Debian release is buster, 10.2 point release /msg dpkg 10.2; /msg dpkg buster; /msg dpkg stretch->buster; /msg dpkg apt suite changed | Oldstable Stretch: /msg dpkg stretch ; /msg dpkg 9.11 ; 9.11 needs dist-upgrade | NO FLOOD: /msg dpkg paste | offtopic: #debian-offtopic | testing/unstable: #debian-next | chanlogs: /msg dpkg irclog"
+2020-02-04 15:10:22	--	Thema wurde festgelegt von somiaj (~jaimos@0001c892.user.oftc.net) am Di, 19 Nov 2019 00:55:00
+2020-02-04 15:10:22	--	Channel #debian: 640 Nicks (2 Operatoren, 0 ge-voice-te, 638 normale)
+2020-02-04 15:10:22	--	PvHinweis(ChanServ): Welcome to #debian! Please see /topic for current information. This channel may be publicly logged. NO FLOOD: /msg dpkg paste | /msg bots NOT people | offtopic: #debian-offtopic
+2020-02-04 15:10:24	--	Channel erstellt am Di, 16 Sep 2008 04:59:50
+2020-02-04 15:13:13	<--	teokoles (~quassel@41.207.165.43) hat den IRC verlassen (Ping timeout: 480 seconds)
+2020-02-04 15:14:36	-->	alain (~alain@217.136.241.212) hat den Channel #debian betreten
+2020-02-04 15:16:46	<--	andi- (~andi-@2a00:e67:1a6:0:d889:2be5:997d:afbd) hat den IRC verlassen (Ping timeout: 480 seconds)
+2020-02-04 15:18:07	<--	towo^work (~towo@00012f0f.user.oftc.net) hat den IRC verlassen (Ping timeout: 480 seconds)
+2020-02-04 15:18:13	-->	Xellophane (~Xellophan@c-73-243-175-57.hsd1.co.comcast.net) hat den Channel #debian betreten
+2020-02-04 15:18:18	<--	debhead (~debhead@dslb-178-007-236-073.178.007.pools.vodafone-ip.de) verließ #debian (WeeChat 2.3)
+2020-02-04 15:20:58	<--	mschuurmans (~michiel@prox3.cust.proxsys.net) hat den IRC verlassen (Ping timeout: 480 seconds)
+2020-02-04 15:21:36	-->	jhutchins_wk (~jonathan@00011b69.user.oftc.net) hat den Channel #debian betreten
+2020-02-04 15:21:49	-->	el3ktr4 (~el3ktr4@p5497BE07.dip0.t-ipconnect.de) hat den Channel #debian betreten
+2020-02-04 15:22:46	<--	el3ktr4 (~el3ktr4@p5497BE07.dip0.t-ipconnect.de) hat den IRC verlassen
+2020-02-04 15:24:24	-->	bodiccea (~bodiccea@home.raoult.com) hat den Channel #debian betreten
+2020-02-04 15:27:17	-->	andi- (~andi-@185.104.140.198) hat den Channel #debian betreten
+2020-02-04 15:29:14	-->	el3ktr4 (~el3ktr4@p5497BE07.dip0.t-ipconnect.de) hat den Channel #debian betreten
+2020-02-04 15:31:14	<--	rd235 (~renzo@2001:760:2e00:f002:82fa:5bff:fe0b:a702) hat den IRC verlassen (Ping timeout: 480 seconds)
+2020-02-04 15:31:41	<--	mosasaur (~mosasaur@0001f293.user.oftc.net) hat den IRC verlassen (Remote host closed the connection)
+2020-02-04 15:31:56	-->	mschuurmans (~michiel@prox3.cust.proxsys.net) hat den Channel #debian betreten
+2020-02-04 15:32:00	-->	sanjay (~sanjay@27.5.200.187) hat den Channel #debian betreten
+2020-02-04 15:32:06	sanjay	hi
+2020-02-04 15:32:11	sanjay	gugguogg
+2020-02-04 15:32:12	sanjay	hihiih
+2020-02-04 15:32:14	sanjay	o[pphovygb
+2020-02-04 15:32:17	sanjay	\p[phojoj\\\\\\\\
+2020-02-04 15:32:17	<--	debhelper hat sanjay gekickt (flood)
+2020-02-04 15:37:46	<--	dvs (~hibbard@00012127.user.oftc.net) hat den IRC verlassen (Remote host closed the connection)
+2020-02-04 15:42:08	-->	Kruppt (~Kruppt@50.111.11.225) hat den Channel #debian betreten
+2020-02-04 15:44:36	-->	blaknrg (~blaknrg@42.104.76.242) hat den Channel #debian betreten
+2020-02-04 15:44:42	<--	blaknrg (~blaknrg@42.104.76.242) hat den IRC verlassen
+2020-02-04 15:47:28	-->	whitedevil (~whitedevi@47.30.169.191) hat den Channel #debian betreten
+2020-02-04 15:50:44	whitedevil	in3gt@i
+2020-02-04 15:54:49	duclicsic	oops
+2020-02-04 15:55:17	-->	ach- (~spo@ipb218fadd.dynamic.kabel-deutschland.de) hat den Channel #debian betreten
+2020-02-04 15:55:59	-->	Etua (~Mapminik@danelski.pl) hat den Channel #debian betreten
+2020-02-04 15:56:33	-->	mbond (~mbond@75.28.41.105) hat den Channel #debian betreten
+2020-02-04 15:56:47	<--	ach (~spo@ipb218fade.dynamic.kabel-deutschland.de) hat den IRC verlassen (Ping timeout: 480 seconds)
+2020-02-04 15:56:48	--	ach- ist nun als ach bekannt
+2020-02-04 16:00:18	<--	alain (~alain@217.136.241.212) verließ #debian (Leaving)
+2020-02-04 16:02:39	nyov	oops? was that a password? :>
+2020-02-04 16:02:52	nyov	better: pwgen -s 36 -1
+2020-02-04 16:04:04	-->	oschraml- (~oschraml@sons-of-sparda.at) hat den Channel #debian betreten
+2020-02-04 16:04:04	<--	oschraml (~oschraml@sons-of-sparda.at) hat den IRC verlassen (Remote host closed the connection)
+2020-02-04 16:04:06	--	oschraml- ist nun als oschraml bekannt
+2020-02-04 16:05:07	<--	mschuurmans (~michiel@prox3.cust.proxsys.net) hat den IRC verlassen (Ping timeout: 480 seconds)
+2020-02-04 16:05:34	grove	nyov: Why the last - (in front of the "1")?
+2020-02-04 16:05:59	nyov	oh. good catch, grove 
+2020-02-04 16:06:03	<--	narispo (~narispo@37.120.204.10) hat den IRC verlassen (Read error: Connection reset by peer)
+2020-02-04 16:06:03	nyov	typo
+2020-02-04 16:06:04	-->	benji (~DepQ@148.0.247.231) hat den Channel #debian betreten
+2020-02-04 16:06:07	benji	hola
+2020-02-04 16:07:24	StrangePanda	Hey benji
+2020-02-04 16:07:34	nyov	grove: though there is a -1 flag that prints passwords in single column
+2020-02-04 16:07:44	benji	hi 
+2020-02-04 16:07:50	nyov	aloha
+2020-02-04 16:07:50	<--	benji (~DepQ@148.0.247.231) hat den IRC verlassen
+2020-02-04 16:08:55	--	czesmir_ ist nun als czesmir bekannt
+2020-02-04 16:11:10	-->	Nevo (~quassel@2605:a000:1110:193:b092:3ff1:239d:8a26) hat den Channel #debian betreten
+2020-02-04 16:12:07	-->	yotee (~canis@00029e14.user.oftc.net) hat den Channel #debian betreten
+2020-02-04 16:13:42	<--	whitedevil (~whitedevi@47.30.169.191) hat den IRC verlassen (Ping timeout: 480 seconds)
+2020-02-04 16:14:12	-->	Xellophane_ (~Xellophan@c-73-243-175-57.hsd1.co.comcast.net) hat den Channel #debian betreten
+2020-02-04 16:15:12	Celelibi	nyov, I have reported it, indeed.
+2020-02-04 16:15:48	nyov	Celelibi: oh cool. I didn't find the report; why I asked. thanks
+2020-02-04 16:16:20	-->	andre_ (~smuxi@46.183.103.17) hat den Channel #debian betreten
+2020-02-04 16:16:51	nyov	I didn't know that manpages can include binaries though, does that not sound bad?
+2020-02-04 16:17:49	nyov	< Celelibi> man: can't open /usr/share/man/./version: No such file or directory
+2020-02-04 16:19:05	Celelibi	I think they can only include more troff/nroff/whatever.
+2020-02-04 16:19:09	<--	wytchmaster (~wytchmast@2003:a:a13:3002:8d6c:bc87:dcb7:c9c9) hat den IRC verlassen (Quit: http://quassel-irc.org - Chat comfortably. Anywhere.)
+2020-02-04 16:19:56	Celelibi	https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=950601
+2020-02-04 16:19:57	judd	Bug https://bugs.debian.org/950601 in lsof (open): «lsof: Unreadable manpage»; severity: normal; opened: 2020-02-04; last modified: 2020-02-04.
+2020-02-04 16:20:16	nyov	okay
+2020-02-04 16:21:32	<--	Xellophane (~Xellophan@c-73-243-175-57.hsd1.co.comcast.net) hat den IRC verlassen (Ping timeout: 480 seconds)
+2020-02-04 16:25:05	<--	Otter (~Otter@00012030.user.oftc.net) hat den IRC verlassen (Quit: .)
+2020-02-04 16:25:25	-->	Otter (~Otter@83-84-252-244.cable.dynamic.v4.ziggo.nl) hat den Channel #debian betreten
+2020-02-04 16:27:27	-->	dvs (~hibbard@00012127.user.oftc.net) hat den Channel #debian betreten
+2020-02-04 16:28:42	<--	peterS (~peter@ip68-102-170-208.ks.ok.cox.net) hat den IRC verlassen (Read error: Connection reset by peer)
+2020-02-04 16:31:06	-->	root (~quassel@2a02:1205:34e0:9da0:221:6aff:fe0a:ef1e) hat den Channel #debian betreten
+2020-02-04 16:31:10	-->	Tuxist (~quassel@b9168f4f.cgn.dg-w.de) hat den Channel #debian betreten
+2020-02-04 16:31:23	--	root ist nun als Guest15450 bekannt
+2020-02-04 16:31:27	<--	Guest15450 (~quassel@2a02:1205:34e0:9da0:221:6aff:fe0a:ef1e) hat den IRC verlassen (Remote host closed the connection)
+2020-02-04 16:36:27	-->	troys (~troys@000293b5.user.oftc.net) hat den Channel #debian betreten
+2020-02-04 16:38:48	-->	Fraykjdse (~Fraykjdse@59.red-83-51-71.dynamicip.rima-tde.net) hat den Channel #debian betreten
+2020-02-04 16:39:32	-->	NLewis (~user@2a03:1b20:9:f011::a01d) hat den Channel #debian betreten
+2020-02-04 16:39:37	<--	Fraykjdse (~Fraykjdse@59.red-83-51-71.dynamicip.rima-tde.net) hat den IRC verlassen
+2020-02-04 16:40:37	<--	XeryusTC (~XeryusTC@000128e4.user.oftc.net) hat den IRC verlassen (autokilled: Spambot. Don't mail support@oftc.net if you think this is in error. (2020-02-04 15:40:37))
+2020-02-04 16:40:37	<--	planetmaker (~planetmak@188.cimarosa.openttdcoop.org) hat den IRC verlassen (autokilled: Spambot. Don't mail support@oftc.net if you think this is in error. (2020-02-04 15:40:37))
+2020-02-04 16:43:02	-->	planetmaker (~pmfreenod@aeolus.geophys.nat.tu-bs.de) hat den Channel #debian betreten
+2020-02-04 16:43:33	--	planetmaker ist nun als Guest15453 bekannt
+2020-02-04 16:44:44	-->	rd235 (~renzo@94-33-52-139.static.clienti.tiscali.it) hat den Channel #debian betreten
+2020-02-04 16:45:52	-->	gareth_ (~gareth@host-92-4-140-238.as43234.net) hat den Channel #debian betreten
+2020-02-04 16:46:07	<--	gareth_ (~gareth@host-92-4-140-238.as43234.net) hat den IRC verlassen
+2020-02-04 16:46:25	--	Guest15453 ist nun als pm bekannt
+2020-02-04 16:47:03	--	pm ist nun als Guest15454 bekannt
+2020-02-04 16:48:45	--	Guest15454 ist nun als planetm- bekannt
+2020-02-04 16:52:17	-->	whitedevil (~whitedevi@47.30.169.191) hat den Channel #debian betreten
+2020-02-04 16:52:21	whitedevil	fi3gt@inef
+2020-02-04 16:52:31	whitedevil	n3th3rlands
+2020-02-04 16:53:32	minikdo	Hi, is the a way to change screen brightness in initramfs. The LUKS prompt is too dark.
+2020-02-04 16:53:35	minikdo	?
+2020-02-04 16:54:25	whitedevil	g0 f0r chu4gt b2098brit
+2020-02-04 16:55:25	StrangePanda	minikdo:  The easiest way is to install xbacklight in Synaptic. Then open the Terminal and type: $ xbacklight -set 80 
+2020-02-04 16:56:07	minikdo	StrangePanda: I mean in initramfs duing boot, later is fine
+2020-02-04 16:57:44	-->	user (~user@2401:4900:315b:f8fd:28ba:7650:53e2:a7fa) hat den Channel #debian betreten
+2020-02-04 16:57:54	--	user ist nun als Guest15455 bekannt
+2020-02-04 16:58:20	Guest15455	hallo
+2020-02-04 16:59:01	--	Modus #debian [+l 661] durch debhelper
+2020-02-04 17:00:02	whitedevil	check details @inrto980
+2020-02-04 17:00:19	grove	whitedevil: Stop it
+2020-02-04 17:00:21	<--	Guest15455 (~user@2401:4900:315b:f8fd:28ba:7650:53e2:a7fa) hat den IRC verlassen
+2020-02-04 17:00:25	<--	StrangePanda (~StrangePa@45.135.104.65) hat den IRC verlassen
+2020-02-05 14:14:30	-->	dewowzer (~dewowzer@37.120.217.163) hat den Channel #debian betreten
+2020-02-05 14:14:30	--	Das Thema von #debian lautet: "Current Debian release is buster, 10.2 point release /msg dpkg 10.2; /msg dpkg buster; /msg dpkg stretch->buster; /msg dpkg apt suite changed | Oldstable Stretch: /msg dpkg stretch ; /msg dpkg 9.11 ; 9.11 needs dist-upgrade | NO FLOOD: /msg dpkg paste | offtopic: #debian-offtopic | testing/unstable: #debian-next | chanlogs: /msg dpkg irclog"
+2020-02-05 14:14:30	--	Thema wurde festgelegt von somiaj (~jaimos@0001c892.user.oftc.net) am Di, 19 Nov 2019 00:55:00
+2020-02-05 14:14:30	--	Channel #debian: 636 Nicks (1 Operator, 0 ge-voice-te, 635 normale)
+2020-02-05 14:14:30	--	PvHinweis(ChanServ): Welcome to #debian! Please see /topic for current information. This channel may be publicly logged. NO FLOOD: /msg dpkg paste | /msg bots NOT people | offtopic: #debian-offtopic
+2020-02-05 14:14:32	--	Channel erstellt am Di, 16 Sep 2008 04:59:50
+2020-02-05 14:16:36	-->	fanto666 (fantomas@fantomas.fantomas.sk) hat den Channel #debian betreten
+2020-02-05 14:17:14	-->	mift (~mtift@173-16-220-119.client.mchsi.com) hat den Channel #debian betreten
+2020-02-05 14:17:44	fanto666	Hello, there's bug 943692 in squid, that was fixed in sid but not in buster. There are new security bugs in squid. Does it make sense to send new bugreport to debian, asking for fix of bug 943692 ?
+2020-02-05 14:21:47	-->	biggie (~biggie@41.80.202.217) hat den Channel #debian betreten
+2020-02-05 14:22:37	biggie	okay . so whats the drill in here
+2020-02-05 14:24:00	ach	!ask
+2020-02-05 14:24:01	dpkg	If you have a question, just ask! For example: "I have a problem with ___; I'm running Debian version ___. When I try to do ___ I get the following output ___. I expected it to do ___." Don't ask if you can ask, if anyone uses it, or pick one person to ask. We're all volunteers; make it easy for us to help you. If you don't get an answer try a few hours later or on debian-user@lists.debian.org. See <smart questions><errors>.
+2020-02-05 14:25:45	grove	fanto666: No. If you believe a fix is insufficient (for instancve by not being applied to stable) add a comment to the bug report, not a new bug
+2020-02-05 14:26:58	fanto666	grove: I did, however after bug was closed (so apparently nobody got it) and the bug is now archived.
+2020-02-05 14:27:27	biggie	i am asking this to find out how much you guys can bend your rules
+2020-02-05 14:30:03	ach	!debian-offtopic
+2020-02-05 14:30:16	ach	!#debian-offtopic
+2020-02-05 14:30:40	biggie	and what does that mean??!!
+2020-02-05 14:30:56	fanto666	try joining #debian-offtopic channel
+2020-02-05 14:32:06	blast007	!offtopic
+2020-02-05 14:32:06	dpkg	#debian is primarily a support channel for Debian users.  Please keep the discussions in #debian on-topic and take longer discussions and non-support questions to #debian-offtopic.  Imagine the chaos if each of the hundreds of people in the channel felt the need to wander off topic for a few minutes every day.
+2020-02-05 14:32:57	fanto666	grove: in this case opening new bugreport could be logical, correct? 
+2020-02-05 14:33:31	cpaelzer_	Myon: I'm looking at he remaining postgresql-11 revers dependencies again today
+2020-02-05 14:33:47	cpaelzer_	Myon: I'm pingin a few upstreams and have to get some things Debian has done into Ubutnu still
+2020-02-05 14:33:47	Myon	cpaelzer_: just saw your github note, yes
+2020-02-05 14:34:01	Myon	cpaelzer_: Devrim and I are close to kicking the offenders completely
+2020-02-05 14:34:02	cpaelzer_	Myon: but one thing I found that I haven't seen before, nor have I found a bug by you
+2020-02-05 14:34:10	-->	master (~master@181.127.114.243) hat den Channel #debian betreten
+2020-02-05 14:34:15	cpaelzer_	Myon: src:pg-fact-loader
+2020-02-05 14:34:24	<--	biggie (~biggie@41.80.202.217) hat den IRC verlassen (Quit: Leaving)
+2020-02-05 14:34:38	Myon	cpaelzer_: that depends on pglogical
+2020-02-05 14:34:50	cpaelzer_	oh another one, :-/
+2020-02-05 14:35:04	Myon	I added a bts "affects" just earlier today
+2020-02-05 14:35:16	cpaelzer_	like pglogical-ticker and pgl-ddl-deploy which also depend on pglogical
+2020-02-05 14:35:21	Myon	there's 3 packages depending on pglogical, yes
+2020-02-05 14:36:01	cpaelzer_	let me at least ping the upstream pglogical issue then
+2020-02-05 14:36:17	Myon	tbh, just kick PG11 from focal, and we should do the same in bullseye
+2020-02-05 14:36:38	cpaelzer_	Myon: I'm close to do so
+2020-02-05 14:36:42	Myon	I'll file a bug now
+2020-02-05 14:36:47	cpaelzer_	doing a ping on the usptream issue and wait 48 for an answer
+2020-02-05 14:36:53	cpaelzer_	and otherwise removals on ~Friday
+2020-02-05 14:37:09	cpaelzer_	But honestly they can come back into the archive if they care, so I'm not opposed to a removal now
+2020-02-05 14:37:23	cpaelzer_	Myon: when you open a bug please pass me the number for tracking
+2020-02-05 14:37:29	Myon	they've been pinged several times, but maybe a Ping of Death would at least get us a new answer
+2020-02-05 14:39:45	cpaelzer_	Myon: for the sake of not doing things silently I updated the upstream issue https://github.com/2ndQuadrant/pglogical/issues/223#issuecomment-582411275
+2020-02-05 14:40:50	<--	master (~master@181.127.114.243) hat den IRC verlassen (Remote host closed the connection)
+2020-02-05 14:41:11	<--	mosasaur (~mosasaur@0001f293.user.oftc.net) hat den IRC verlassen (Remote host closed the connection)
+2020-02-05 14:42:07	-->	Gromit (~jpalic@89.245.191.140) hat den Channel #debian betreten
+2020-02-05 14:42:44	<--	mift (~mtift@173-16-220-119.client.mchsi.com) hat den IRC verlassen (Quit: Leaving)
+2020-02-05 14:42:55	<--	intro (intro@s1.ct8.pl) hat den IRC verlassen (Quit: .)
+2020-02-05 14:42:59	-->	mift (~mtift@173-16-220-119.client.mchsi.com) hat den Channel #debian betreten
+2020-02-05 14:43:55	-->	intro (intro@s1.ct8.pl) hat den Channel #debian betreten
+2020-02-05 14:46:14	cpaelzer_	Myon: just saw "Added indication that 948942 affects pg-fact-loader" which is what you mentioned before
+2020-02-05 14:46:19	grove	- fanto666: If you believe a bug was wrongly closed, reopen it, don't open a new. Read: https://www.debian.org/Bugs/server-control
+2020-02-05 14:47:12	<--	przemoc (~przemoc@000175f9.user.oftc.net) hat den IRC verlassen (Remote host closed the connection)
+2020-02-05 14:47:34	-->	przemoc (~przemoc@000175f9.user.oftc.net) hat den Channel #debian betreten
+2020-02-05 14:49:12	Myon	cpaelzer_: #950734
+2020-02-05 14:49:16	-->	domovoy (~domovoy@37.165.59.197) hat den Channel #debian betreten
+2020-02-05 14:49:23	<--	nyov (~nyov@nyov.user.oftc.net) hat den IRC verlassen (Ping timeout: 480 seconds)
+2020-02-05 14:50:10	cpaelzer_	thank you Myon
+2020-02-05 14:50:48	Myon	fwiw, I'll add focal on apt.postgresql.org next week just after the 9.4 EOL
+2020-02-05 14:51:06	<--	dewowzer (~dewowzer@37.120.217.163) verließ #debian
+2020-02-05 20:50:06	-->	dewowzer (~dewowzer@00029e17.user.oftc.net) hat den Channel #debian betreten
+2020-02-05 20:50:06	--	Das Thema von #debian lautet: "Current Debian release is buster, 10.2 point release /msg dpkg 10.2; /msg dpkg buster; /msg dpkg stretch->buster; /msg dpkg apt suite changed | Oldstable Stretch: /msg dpkg stretch ; /msg dpkg 9.11 ; 9.11 needs dist-upgrade | NO FLOOD: /msg dpkg paste | offtopic: #debian-offtopic | testing/unstable: #debian-next | chanlogs: /msg dpkg irclog"
+2020-02-05 20:50:06	--	Thema wurde festgelegt von somiaj (~jaimos@0001c892.user.oftc.net) am Di, 19 Nov 2019 00:55:00
+2020-02-05 20:50:06	--	Channel #debian: 637 Nicks (1 Operator, 0 ge-voice-te, 636 normale)
+2020-02-05 20:50:06	--	PvHinweis(ChanServ): Welcome to #debian! Please see /topic for current information. This channel may be publicly logged. NO FLOOD: /msg dpkg paste | /msg bots NOT people | offtopic: #debian-offtopic
+2020-02-05 20:50:08	--	Channel erstellt am Di, 16 Sep 2008 04:59:50
+2020-02-05 20:50:15	<--	futune_ (~futune@95.82.134.30) hat den IRC verlassen (Remote host closed the connection)
+2020-02-05 20:50:21	<--	Oebele (~quassel@219-8-201-31.ftth.glasoperator.nl) hat den IRC verlassen (Quit: https://quassel-irc.org - Chat comfortably. Anywhere.)
+2020-02-05 20:51:50	-->	texou (~jp@000178ec.user.oftc.net) hat den Channel #debian betreten
+2020-02-05 20:53:19	-->	futune (~futune@95.82.134.30) hat den Channel #debian betreten
+2020-02-05 20:53:43	<--	pavlushka (~pavlushka@00021abb.user.oftc.net) hat den IRC verlassen (Remote host closed the connection)
+2020-02-05 20:55:27	-->	bogdan_ (~quassel@82.78.89.31) hat den Channel #debian betreten
+2020-02-05 21:00:31	<--	andre_ (~smuxi@46.183.103.8) hat den IRC verlassen (Ping timeout: 480 seconds)
+2020-02-05 21:01:09	<--	troys (~troys@000293b5.user.oftc.net) hat den IRC verlassen (Quit: WeeChat 2.3)
+2020-02-05 21:06:17	<--	ol (~quassel@2406:e003:837:3a01:8e89:a5ff:feca:57fe) hat den IRC verlassen (Ping timeout: 480 seconds)
+2020-02-05 21:07:24	<--	maschinenhans (~Hans@200116b82aff1000480fb2b40ff13618.dip.versatel-1u1.de) hat den IRC verlassen (Quit: Leaving)
+2020-02-05 21:09:57	<--	Talkless (~Talkless@hst-227-49.splius.lt) hat den IRC verlassen (Quit: Konversation terminated!)
+2020-02-05 21:10:21	-->	nowhere_man (~pierre@2a01:e35:2fb8:7200:8a10:192c:5bd9:fc09) hat den Channel #debian betreten
+2020-02-05 21:15:27	-->	imega (~coma@51.154.62.166) hat den Channel #debian betreten
+2020-02-05 21:17:31	<--	mbond (~mbond@75.28.41.105) hat den IRC verlassen (Quit: mbond)
+2020-02-05 21:17:33	<--	flound1129 (~adam@halibut.multipool.us) hat den IRC verlassen (Quit: leaving)
+2020-02-05 21:18:39	<--	thomasross (~thomasros@CPEbc4dfb93c813-CMbc4dfb93c810.cpe.net.cable.rogers.com) hat den IRC verlassen (Ping timeout: 480 seconds)
+2020-02-05 21:20:06	<--	badpixel (~badpixel@badpixel.user.oftc.net) hat den IRC verlassen
+2020-02-05 21:27:33	-->	Seti__ (~Guy@71-13-59-169.dhcp.bycy.mi.charter.com) hat den Channel #debian betreten
+2020-02-05 21:28:02	-->	thomasross (~thomasros@CPEbc4dfb93c813-CMbc4dfb93c810.cpe.net.cable.rogers.com) hat den Channel #debian betreten
+2020-02-05 21:28:57	<--	Seti__ (~Guy@71-13-59-169.dhcp.bycy.mi.charter.com) hat den IRC verlassen
+2020-02-05 21:29:43	-->	aloo_shu (~aloo_shu@195.135.248.230) hat den Channel #debian betreten
+2020-02-05 21:30:49	-->	andre_ (~smuxi@2a01:598:b00e:a98:e6a4:71ff:fef8:45d) hat den Channel #debian betreten
+2020-02-05 21:35:32	-->	badpixel (~badpixel@badpixel.user.oftc.net) hat den Channel #debian betreten
+2020-02-05 21:37:22	<--	annadane (~annadane@00025aa4.user.oftc.net) hat den IRC verlassen (Quit: Leaving)
+2020-02-05 21:37:40	-->	ansel (~ansel@tmo-115-16.customers.d1-online.com) hat den Channel #debian betreten
+2020-02-05 21:37:47	-->	annadane (~annadane@00025aa4.user.oftc.net) hat den Channel #debian betreten
+2020-02-05 21:39:41	<--	nowhere_man (~pierre@2a01:e35:2fb8:7200:8a10:192c:5bd9:fc09) hat den IRC verlassen (Ping timeout: 480 seconds)
+2020-02-05 21:42:51	-->	verdasko (~verdasko@p200300E29F02680034A9262CC99EFFF6.dip0.t-ipconnect.de) hat den Channel #debian betreten
+2020-02-05 21:43:43	<--	verdasko (~verdasko@p200300E29F02680034A9262CC99EFFF6.dip0.t-ipconnect.de) hat den IRC verlassen
+2020-02-05 21:47:08	bogdan_	Any of you folks use chromium with vaapi enabled on debian?
+2020-02-05 21:55:23	<--	alpernebbi (~quassel@00029ccd.user.oftc.net) hat den IRC verlassen (Quit: alpernebbi)
+2020-02-05 21:56:55	<--	bogdan_ (~quassel@82.78.89.31) hat den IRC verlassen (Remote host closed the connection)
+2020-02-05 21:57:03	-->	oo_miguel (~oo_miguel@89-67-252-80.dynamic.chello.pl) hat den Channel #debian betreten
+2020-02-05 21:59:08	-->	el3ktr4 (~el3ktr4@p5497BE07.dip0.t-ipconnect.de) hat den Channel #debian betreten
+2020-02-05 22:00:51	<--	andre_ (~smuxi@2a01:598:b00e:a98:e6a4:71ff:fef8:45d) hat den IRC verlassen (Ping timeout: 480 seconds)
+2020-02-05 22:01:27	<--	Blacker47 (~Blacker47@00014f22.user.oftc.net) hat den IRC verlassen (Quit: Life is short. Get a V.90 modem fast!)
+2020-02-05 22:02:27	-->	sandy (~sandy@2600:1700:ebc0:2cc0:a166:56c6:fddf:29ce) hat den Channel #debian betreten
+2020-02-05 22:03:31	<--	oo_miguel (~oo_miguel@89-67-252-80.dynamic.chello.pl) hat den IRC verlassen (Quit: WeeChat 2.3)
+2020-02-05 22:03:58	<--	RaphGro (~raphgro@2a02:8070:8788:3900:6f7c:cb6c:f393:8aa3) hat den IRC verlassen
+2020-02-05 22:08:42	-->	ao2 (~ao2@host204-88-dynamic.36-79-r.retail.telecomitalia.it) hat den Channel #debian betreten
+2020-02-05 22:12:54	-->	troys (~troys@23-24-139-177-static.hfc.comcastbusiness.net) hat den Channel #debian betreten

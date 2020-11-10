@@ -1,0 +1,1183 @@
+2020-03-21 19:41:34	-->	dewowzer (~dewowzer@x4d0dd12c.dyn.telefonica.de) hat den Channel ##crawl betreten
+2020-03-21 19:41:34	--	Das Thema von ##crawl lautet: "Play Dungeon Crawl Stone Soup online now! Type ??servers for instructions. | http://crawl.develz.org | FooTV: http://termcast.develz.org - ??footv for instructions | See also ##crawl-offtopic"
+2020-03-21 19:41:34	--	Thema wurde festgelegt von advil (~advil@tomenet.skepticalfamily.com) am Do, 02 Aug 2018 20:13:20
+2020-03-21 19:41:34	--	Channel ##crawl: 108 Nicks (1 Operator, 0 ge-voice-te, 107 normale)
+2020-03-21 19:41:36	--	Channel erstellt am Sa, 02 Dez 2006 01:01:58
+2020-03-21 19:53:01	cjm	I phantom mirrored Lerny and my mirror just shattered :(
+2020-03-21 19:54:19	thrig	what's that, seven years of bad luck?
+2020-03-21 20:01:46	gammafunk	phantom mirrors are single use though
+2020-03-21 20:02:02	cjm	I don't think I got a lerny clone at all
+2020-03-21 20:02:04	-->	joemaro (~joemaro@222.red-37-12-176.dynamicip.rima-tde.net) hat den Channel ##crawl betreten
+2020-03-21 20:04:21	gammafunk	did lerny kill it immediately? that can happen
+2020-03-21 20:04:38	cjm	if it did it happened out of sight
+2020-03-21 20:04:48	gammafunk	message log would say; either way, check your message log for the messages after the usage
+2020-03-21 20:05:08	gammafunk	yeah, it shouldn't create the summon out of los; would have to check if it could do that
+2020-03-21 20:19:48	cjm	bleh lost another draconian in vaults
+2020-03-21 20:20:07	cjm	this is the first race I've ever had trouble with after 2 runes
+2020-03-21 20:20:10	cjm	I'm so squishy
+2020-03-21 20:21:33	Amnesiac	dracs shouldn't be especially squishy tho
+2020-03-21 20:21:44	Amnesiac	they get more ac than a robed caster
+2020-03-21 20:21:45	cjm	yeah I have a good HP pool but terrible defenses
+2020-03-21 20:21:47	Amnesiac	plus more hp
+2020-03-21 20:21:56	Amnesiac	a bit low dex tho
+2020-03-21 20:22:05	Amnesiac	!gameinfo cjm
+2020-03-21 20:22:08	Sequell	copt the L18 DrGl^Gozag in Vaults:1 (cao tiles), 1:43:36, T:47329, runes: 2 (gossamer, decaying), defenses: 16/16/15, stats: 21/13/15, >15 skills: Fighting,Shields
+2020-03-21 20:22:11	Amnesiac	oh
+2020-03-21 20:22:17	Amnesiac	well I mean
+2020-03-21 20:22:39	Pinkbeast	I finished DrWz with 25/22/8 which wasn't _terrible_ with 250 HP
+2020-03-21 20:22:41	Amnesiac	dr are most suited to be hybrids or casters imo
+2020-03-21 20:23:16	Amnesiac	because they have more ac than robed casters and can't have armour penalty (shields aside)
+2020-03-21 20:23:32	cjm	yeah I had BVC and death channel online
+2020-03-21 20:23:36	Amnesiac	but as pure melee they are bad kinda
+2020-03-21 20:23:38	Amnesiac	oh
+2020-03-21 20:23:55	Amnesiac	well
+2020-03-21 20:24:04	Amnesiac	!apt dr
+2020-03-21 20:24:05	Sequell	Dr: Fighting: 1, Short: 0, Long: 0, Axes: 0, Maces: 0, Polearms: 0, Staves: 0, Slings: -1, Bows: -1, Xbows: -1, Throw: -1, Armour: N/A, Dodge: -1, Stealth: 0, Shields: 0, UC: 0, Splcast: -1, Conj: 0, Hexes: -1, Charms: -1, Summ: 0, Nec: 0, Tloc: 0, Tmut: 0, Fire: 0, Ice: 0, Air: 0, Earth: 0, Poison: 0, Inv: 1, Evo: 0, Exp: -1, HP: 1, MP: 0
+2020-03-21 20:24:11	cjm	hunger was a big concern because I was gozag tho
+2020-03-21 20:24:28	Pinkbeast	!log cjm 
+2020-03-21 20:24:29	Sequell	791. copt, XL19 DrGl, T:47808: http://crawl.akrasiac.org/rawdata/copt/morgue-copt-20200321-191920.txt
+2020-03-21 20:24:59	cjm	probably should have bribed Vaults?
+2020-03-21 20:25:00	Amnesiac	you neglected dodging way too much imo
+2020-03-21 20:25:06	Amnesiac	you could have
+2020-03-21 20:25:08	Pinkbeast	Hunger's not really a problem with Gozag, you just have to do corpse->gold->buy rations not corpse->chunk
+2020-03-21 20:25:39	Amnesiac	with 19 fighting and 15 shields you should have gotten like 12 dodge at least imo
+2020-03-21 20:25:55	Amnesiac	your dex was even decent
+2020-03-21 20:26:04	cjm	6 more dodging is like... 4 EV?
+2020-03-21 20:26:22	Amnesiac	maybe, it's not bad tho :)
+2020-03-21 20:26:25	Pinkbeast	I agree with Amnesiac too, why _not_ cast spells on Dr when you get AC, no armour penalty, and some solid apt assistance
+2020-03-21 20:26:54	Amnesiac	well this one had 2 good spells but maybe you didn't cast them enough? :)
+2020-03-21 20:27:28	cjm	this death was more of a straight misplay than a strategic dead end
+2020-03-21 20:27:36	Amnesiac	probably
+2020-03-21 20:27:49	cjm	but I've lost more than 2 dracs after 2 runes and have basically never had that problem with other races
+2020-03-21 20:28:00	cjm	🤔
+2020-03-21 20:28:02	Amnesiac	wardens hit pretty hard
+2020-03-21 20:28:08	Pinkbeast	!gamesby cjm urune=2
+2020-03-21 20:28:08	Sequell	cjm (urune=2) has played 13 games, between 2015-05-05 07:42:57 and 2020-03-21 19:19:20, won 0, high score 514502, total score 4331058, total turns 685772, play-time/day 0:01:18, total time 1d+15:01:47.
+2020-03-21 20:28:12	Amnesiac	so need to be careful with thos
+2020-03-21 20:28:26	Amnesiac	%??vault warden
+2020-03-21 20:28:26	Cheibriados	vault warden (p) | Spd: 10 | HD: 16 | HP: 72-104 | AC/EV: 10/10 | Dam: 36 | weapons, items, doors, fighter, see invisible | Res: magic(60) | XP: 1690 | Sp: seal doors | Sz: Medium | Int: human.
+2020-03-21 20:28:36	Amnesiac	%??stone giant
+2020-03-21 20:28:36	Cheibriados	stone giant (C) | Spd: 10 | HD: 16 | HP: 73-102 | AC/EV: 12/2 | Dam: 45 | items, doors | Res: magic(80), drown | XP: 1422 | Sz: Giant | Int: human.
+2020-03-21 20:28:50	Amnesiac	basically same thing lol
+2020-03-21 20:28:59	Pinkbeast	I have 11 2-rune splats. I feel (in both cases) with so small a sample size it could just be random chance.
+2020-03-21 20:29:03	cjm	is it just me or are Charms just overall quite bad right now?
+2020-03-21 20:29:04	Amnesiac	tho they come with shields
+2020-03-21 20:29:33	cjm	losing regen and ozo's really made the school feel bad to me
+2020-03-21 20:29:34	Amnesiac	charms are... well they are good but not something you would main
+2020-03-21 20:29:43	cjm	what spells stand out as staples?
+2020-03-21 20:29:43	Amnesiac	ozo's is still in tho isn't it
+2020-03-21 20:29:49	cjm	yes but it's bad now
+2020-03-21 20:30:08	Amnesiac	it's kinda good because you don't lose speed :)
+2020-03-21 20:30:14	cjm	you can't move with it
+2020-03-21 20:30:25	cjm	rather, you lose it if you move
+2020-03-21 20:30:27	Amnesiac	you can move you just lose it :D
+2020-03-21 20:30:27	Pinkbeast	I'm pretty sure Amnesiac knows that
+2020-03-21 20:30:50	Amnesiac	it's still good in some good killhole
+2020-03-21 20:30:59	Amnesiac	and maybe even handier if you decide to retreat
+2020-03-21 20:31:18	cjm	what charms are reliably good now?
+2020-03-21 20:31:51	Amnesiac	ozo is, dmsl is awesome, spectral weapon is free double damage kinda, ddoor is invincibility :)
+2020-03-21 20:32:01	Amnesiac	that said
+2020-03-21 20:32:09	Amnesiac	there are very few of them 
+2020-03-21 20:32:10	cjm	yeah necro has a ton of good stuff, I know ddoor is good
+2020-03-21 20:32:24	cjm	is dmsl that much better than rmsl?
+2020-03-21 20:32:26	Amnesiac	so I wouldn't mind them merged back with hexes
+2020-03-21 20:32:34	Amnesiac	dmsl is much better yes
+2020-03-21 20:32:44	Amnesiac	have you fought a monster with rmsl or dmsl :)
+2020-03-21 20:33:00	Amnesiac	basically impossible to hit a spriggan air mage with ranged
+2020-03-21 20:33:11	Amnesiac	but you can hit an elven archer 
+2020-03-21 20:33:19	Amnesiac	same on the player
+2020-03-21 20:33:23	cjm	makes sense
+2020-03-21 20:33:36	cjm	that's a lot of investment for just dmsl tho
+2020-03-21 20:33:37	Amnesiac	I mean
+2020-03-21 20:34:06	Amnesiac	rmsl sets the hit chance to 50%-100% and dmsl to 0-66% or smth that's quite a difference
+2020-03-21 20:34:10	Amnesiac	??dmsl
+2020-03-21 20:34:10	Sequell	deflect missiles[1/3]: A level 6 Charms/Air spell that helps you dodge enemy ranged attacks (by reducing their to-hit roll (for evasion purposes only) *TO* a random amount between: 0% and 66% for penetrating beams, 0% and 50% for single-target missiles). In the books of Enchantments and Sky. Overrides Repel Missiles (rMsl).
+2020-03-21 20:34:16	Amnesiac	whew
+2020-03-21 20:34:43	Amnesiac	basically -75% to hit on single target missiles
+2020-03-21 20:34:47	Amnesiac	on average
+2020-03-21 20:35:04	Amnesiac	??rmsl
+2020-03-21 20:35:04	Sequell	repel missiles[1/2]: Active effect that reduces the chance for enemy ranged attacks to hit you. Granted by the L2 Charms/Air spell, with a chance to lose the status for each hit repelled. In 0.20, the spell is removed and the {repulsion} {scarf} ego grants the status when worn.
+2020-03-21 20:35:07	Amnesiac	??rmsl[2
+2020-03-21 20:35:07	Sequell	repel missiles[2/2]: Reduces incoming missile to-hit roll (for evasion purposes only) *TO* a random amount between: 50% and 100% for penetrating beams, 0% and 100% for single-target missiles.
+2020-03-21 20:35:29	cjm	I'm only meh on that because I feel like good tactics are mostly a replacement
+2020-03-21 20:35:35	Amnesiac	so 2-3 times better than rmsl
+2020-03-21 20:36:16	cjm	I like BVC and it feels good, I wish other level 5 split school spells were brought up to feel as good
+2020-03-21 20:36:20	Amnesiac	well dmsl is a really powerful buff tho because of how ranged is more dangerous and you can prevent melee 10 times easier
+2020-03-21 20:36:44	Amnesiac	it's pretty damn amazing even
+2020-03-21 20:37:01	cjm	like compare alistair's intoxication, fireball, metabolic englaciation, yara's unravelling to BVC
+2020-03-21 20:37:02	Amnesiac	tho it's badly designed so they might cut it
+2020-03-21 20:37:16	Amnesiac	well there are lrd and irradiate
+2020-03-21 20:37:26	Amnesiac	fireball is pretty solid
+2020-03-21 20:37:42	Amnesiac	alistairs and englaciation are really good but nobody uses them :D
+2020-03-21 20:38:03	Amnesiac	yara's is kinda like anti-elf spell so it's niche
+2020-03-21 20:38:13	cjm	englaciation doesn't work on anything with rC right? it seems so middling
+2020-03-21 20:38:16	cjm	BVC is good all ame
+2020-03-21 20:38:18	cjm	all game
+2020-03-21 20:38:39	Amnesiac	well doesn't work on porcupines tho =3=
+2020-03-21 20:38:56	cjm	yes, the ever looming threat of porcupines
+2020-03-21 20:39:36	Amnesiac	jokes aside it doesn't work on ghosts, wisps and jellies too, but yeah it's very solid 
+2020-03-21 20:40:17	cjm	like it's indisputably mechanically good, but it also _feels_ good
+2020-03-21 20:40:23	Amnesiac	especially good for combining with other things thanks to nuking evasion
+2020-03-21 20:40:27	cjm	I'm never like "why did I invest in these skills, BVC is garbage"
+2020-03-21 20:40:42	Amnesiac	well some spells are good like that :)
+2020-03-21 20:40:55	Amnesiac	can't have too many good things tho, according to devs :3
+2020-03-21 20:41:26	Amnesiac	they decided to suddenly fuck up most direct damage spells and buff potions
+2020-03-21 20:41:38	Amnesiac	I really hate that tbh
+2020-03-21 20:42:01	cjm	yeah nobody has won a DrGl according to Sequell since regen was taken out T_T
+2020-03-21 20:42:03	Amnesiac	potion of wizardry was mostly useful on warriors
+2020-03-21 20:42:32	Amnesiac	well for emergency nukes too
+2020-03-21 20:42:45	Amnesiac	now it just stays on the floor
+2020-03-21 20:43:05	Amnesiac	potion of stabbing basically doesn't exist for me 
+2020-03-21 20:43:52	Amnesiac	potion of might just slightly nerfed to comply
+2020-03-21 20:43:57	cjm	potion of stabbing confuses me, not sure who it's meant for
+2020-03-21 20:44:09	cjm	enchanters don't seem to need the help
+2020-03-21 20:44:11	Amnesiac	for uh stabbers who are bad at stabbing
+2020-03-21 20:45:22	Amnesiac	I've only had use for it on emperor scorps in webs 
+2020-03-21 20:45:38	Amnesiac	and maybe a bit for recite-stabbing
+2020-03-21 20:45:51	cjm	ah I don't think I've ever played a Zin char
+2020-03-21 20:46:10	Amnesiac	I really really hope they reconsider with the changes but they usually don't
+2020-03-21 20:46:22	Amnesiac	at least not immediately
+2020-03-21 20:46:44	cjm	the whole archetype of skalds just seems to be in a bad place rn
+2020-03-21 20:46:46	Amnesiac	the potion of stabbing feel like a joke
+2020-03-21 20:46:50	cjm	hasn't been fun for me to play :/
+2020-03-21 20:46:56	Amnesiac	tho potion of agility wasn't all that great either
+2020-03-21 20:47:31	Amnesiac	for me skalds were always melee dudes with spectral weapon
+2020-03-21 20:47:54	Amnesiac	tho I hate use-every-battle buffs
+2020-03-21 20:48:00	cjm	yeah I don't mean literally Sk just any role that primarily fights and augments the fighting with a bit of magic
+2020-03-21 20:48:17	Amnesiac	that one could be salvaged with implementing permabuffs/autorebuffs
+2020-03-21 20:48:20	cjm	hybrid fighty bois
+2020-03-21 20:48:51	<--	OICU812 (~Euph0ria@2600:8804:3f05:200:6d49:20de:2949:c4ad) hat den IRC verlassen (Quit: Leaving)
+2020-03-21 20:49:11	Amnesiac	in hellcrawl it's sl5 without damage sharing that autocasts on first hit
+2020-03-21 20:49:17	Amnesiac	pretty bonkers tbh
+2020-03-21 20:49:26	Amnesiac	but more at the right place
+2020-03-21 20:49:48	-->	Euph0ria (~Euph0ria@2600:8804:3f05:200:6d49:20de:2949:c4ad) hat den Channel ##crawl betreten
+2020-03-21 20:49:57	--	Euph0ria ist nun als OICU812 bekannt
+2020-03-21 21:03:44	joemaro	somehow i always regard transmutation as an all-or-nothing school, but i think i should change that perspective
+2020-03-21 21:04:58	joemaro	i think it's because apart from the forms (which i don't want because no UC training) there's Yara's unravelling only ... or what else is good there?
+2020-03-21 21:05:23	joemaro	statue form i guess
+2020-03-21 21:19:36	<--	Psymania (~tehgeek@ip184-176-88-58.ph.ph.cox.net) hat den IRC verlassen (Quit: Leaving)
+2020-03-21 21:21:13	-->	Psymania (~tehgeek@ip184-176-88-58.ph.ph.cox.net) hat den Channel ##crawl betreten
+2020-03-21 21:22:14	OICU812	Good day all.
+2020-03-21 21:24:09	Psymania	oy
+2020-03-21 21:24:13	Psymania	wotsup, catsup
+2020-03-21 21:24:24	<--	joemaro (~joemaro@222.red-37-12-176.dynamicip.rima-tde.net) hat den IRC verlassen (Ping timeout: 250 seconds)
+2020-03-21 21:39:55	OICU812	:)
+2020-03-21 21:43:11	Psymania	just got a +1 robe of the archmagi dropped on D:4...in a run directly following one where I got a ring of wizardry obtained+identified on D:1
+2020-03-21 21:43:26	Psymania	I think the RNG gods are looking with favour upon my attempting to learn how to play a DE like a not-idiot
+2020-03-21 21:44:26	Psymania	Temple has neither Sif *nor* Veh
+2020-03-21 21:44:42	Psymania	guess the RNG gods decided they were being too kind :)
+2020-03-21 21:44:54	thrig	DE chei when
+2020-03-21 21:47:52	-->	joemaro (~joemaro@222.red-37-12-176.dynamicip.rima-tde.net) hat den Channel ##crawl betreten
+2020-03-21 21:51:29	Psymania	thrig, I'm only as obsessed with Chei as I am with gnolls. I cheat on gnoll = I cheat on Chei too
+2020-03-21 21:52:21	-->	killozap (5cc1a0e6@port-92-193-160-230.dynamic.as20676.net) hat den Channel ##crawl betreten
+2020-03-21 21:52:36	Psymania	would I be doing the math right to conclude that in the interests of reducing a spell's failure chance as quickly as possible, I'd want to focus training whichever involved spell school has the lowest "Cost" to train?
+2020-03-21 21:55:49	killozap	hi. since I learned CBL my spellforged servitor doesn't attack at all anymore. spell info says it should be using CBL. before it used lightning bolt
+2020-03-21 21:56:29	killozap	it's good that it doesnt use it.. but also seems like a bug? on 0.25-git
+2020-03-21 21:58:05	Psymania	??CBL
+2020-03-21 21:58:05	Sequell	ball lightning[1/3]: A projectile monster that explodes for 3d20 elec damage. They don't exist naturally, but Conjure Ball Lightning (L6 C/A in Sky) can make them, and are also in rare abyss, swamp, and aerie vaults. Cannot be conjured over water or lava. Remember that ones conjured will explode when they time out!
+2020-03-21 21:59:00	Psymania	I wonder if maybe it's not using it because of the danger, and the bug is that the spell info says it will use it, when instead it should say something like "You have no conjuration spells that a servitor is able to use"
+2020-03-21 22:01:01	killozap	but it could still be using lightning bolt if it doesn't like cbl
+2020-03-21 22:02:20	killozap	like, learning cbl broke the thing. I learned chain lightning now to have a higher lvl spell it could use, but it sticks to cbl. weird
+2020-03-21 22:05:18	<--	MikZyth (~MikZyth@85.115.224.155) hat den IRC verlassen (Read error: Connection reset by peer)
+2020-03-21 22:07:33	-->	MikZyth (~MikZyth@85.115.224.155) hat den Channel ##crawl betreten
+2020-03-21 22:08:11	<--	MikZyth (~MikZyth@85.115.224.155) hat den IRC verlassen (Client Quit)
+2020-03-21 22:38:51	<--	jfcaron (~jfcaron@unaffiliated/jfcaron) hat den IRC verlassen (Quit: jfcaron)
+2020-03-21 22:39:12	-->	jfcaron (~jfcaron@unaffiliated/jfcaron) hat den Channel ##crawl betreten
+2020-03-21 22:40:25	<--	joemaro (~joemaro@222.red-37-12-176.dynamicip.rima-tde.net) hat den IRC verlassen (Ping timeout: 264 seconds)
+2020-03-21 22:42:31	killozap	oh, chain lightning is not a servitor spell
+2020-03-21 22:58:34	-->	MikZyth (~MikZyth@85.115.224.155) hat den Channel ##crawl betreten
+2020-03-21 23:01:09	Psymania	??spellforged servitor
+2020-03-21 23:01:09	Sequell	spellforged servitor[1/4]: Level 7 Summoning/Conjurations spell which summons a golem-like monster which knows a deterministic subset of your own spells. Tends to have around 3 bolt spells and 2 AoE/support spells, and won't pick some things like Shatter that could hurt you.
+2020-03-21 23:01:18	Psymania	??spellforged servitor[2]
+2020-03-21 23:01:19	Sequell	spellforged servitor[2/4]: Eligible spells: {lcs}, {iood}, iron shot, bolt of fire/cold/magma/draining/lightning/venom, poison arrow, throw icicle, stone arrow, {imb}, {cbl}, fireball, airstrike, {lrd}, freezing/poisonous cloud, force lance, dazzling spray, mephitic cloud, sticky flame, throw flame/frost, freeze, flame tongue, sting, sandblast, magic dart.
+2020-03-21 23:01:22	Psymania	??spellforged servitor[3]
+2020-03-21 23:01:22	Sequell	spellforged servitor[3/4]: Can use spells that you can cast with less than 50% fail rate.
+2020-03-21 23:01:23	Psymania	??spellforged servitor[4]
+2020-03-21 23:01:23	Sequell	spellforged servitor[4/4]: Don't get between a servitor and its iood targets: !lg * killer=spellforged_servitor 5 -tv:<0.3
+2020-03-21 23:01:47	Psymania	killozap, yeah, I'm standing by my theory that there's nothing you have that your servitor can cast and the bug is in it reporting that it will cast something
+2020-03-21 23:01:53	Psymania	maybe chat up ##crawl-dev about it?
+2020-03-21 23:11:39	Psymania	The +7 pair of quick blades "Gyre" and "Gimble" {protect}
+2020-03-21 23:11:45	Psymania	this is fucking cool, both the item and the name
+2020-03-21 23:11:58	Psymania	'Twas brillig, and the slithy toves did gyre and gimble in the wabe
+2020-03-21 23:12:04	Psymania	??gyre and gimble
+2020-03-21 23:12:04	Sequell	gyre and gimble[1/1]: A pair of +5 vorpal {quick blade}s. Essentially gives you a double-attack every time you swing them. Takes both of your hands to wield, of course!
+2020-03-21 23:13:42	killozap	hm yeah, maybe because im lacking relec. thanks
+2020-03-21 23:13:50	killozap	bye :)
+2020-03-21 23:13:58	<--	killozap (5cc1a0e6@port-92-193-160-230.dynamic.as20676.net) hat den IRC verlassen (Remote host closed the connection)
+2020-03-21 23:18:46	-->	oni-on-ion (~oni-on-io@2001:1970:57e0:4100::133f) hat den Channel ##crawl betreten
+2020-03-21 23:25:24	SeianVerian	omg dual-wielding in Crawl???
+2020-03-21 23:25:32	SeianVerian	Even if just in a single artefact
+2020-03-21 23:33:28	<--	MikZyth (~MikZyth@85.115.224.155) hat den IRC verlassen (Quit: WeeChat 2.7.1)
+2020-03-21 23:34:23	Psymania	SeianVerian, yes, and perfect on my DE who otherwise wasn't using any weapon and shield, to supplement all the casting
+2020-03-21 23:34:42	Psymania	apt is 0 for short blades too, and only takes 8 levels to get to mindelay of 0.3
+2020-03-21 23:35:25	SeianVerian	Yeah that's pretty great
+2020-03-21 23:35:37	SeianVerian	Really good vs. enemies that don't have high AC
+2020-03-21 23:43:11	Psymania	great for stabbing too, and I'm training stealth (which may be a mistake, idk)
+2020-03-21 23:43:33	Psymania	I'm in Lair, this is the furthest I've ever taken a DE
+2020-03-21 23:43:40	Psymania	trying to decide whether I want to chance a gauntlet
+2020-03-21 23:43:58	Psymania	there's some pretty nasty things, and not a huge amount of really compelling loot
+2020-03-21 23:44:07	Psymania	kind of leaning towards bowing out
+2020-03-21 23:47:22	-->	ConBadger (615ac498@97-90-196-152.dhcp.losa.ca.charter.com) hat den Channel ##crawl betreten
+2020-03-21 23:48:16	ConBadger	What's the best way to get a draconian character started? I find them to be fragile, probably cause no armor
+2020-03-21 23:49:05	Pinkbeast	Spells - after all, any book start has no or little armour
+2020-03-22 00:02:05	Zeor	??bows
+2020-03-22 00:02:05	Sequell	bow[1/2]: (acc,dam,delay,mindelay): short bow (+2/9/1.3/0.6), longbow (+0/15/1.7/0.7). All bows are two-handed and fire arrows.
+2020-03-22 00:24:39	Psymania	In the description for Ozo's armour: "...granting a substantial bonus to armour as long as they remain in their current location."
+2020-03-22 00:25:16	Psymania	Maybe others interpret that differently; to me it seems to imply that the *only* way it will go away is if you move. But it can expire even if you don't move.
+2020-03-22 00:25:18	thrig	>0 is substrantial by some accounts
+2020-03-22 00:26:03	Psymania	thrig, oh, I'm appreciating the AC gain, my gripe is with the "as long as they remain in their current position" part
+2020-03-22 00:27:59	thrig	maybe someone forgot to update the description
+2020-03-22 00:30:19	Amnesiac	well
+2020-03-22 00:32:16	SeianVerian	It should maybe be "...bonus to armour for a time, or until they leave their current location."
+2020-03-22 00:32:18	SeianVerian	Possibly?
+2020-03-22 00:32:23	Psymania	is Spellcasting skill the biggest reducer of spell hunger? or do magic school skills contribute similarly
+2020-03-22 00:32:28	Psymania	SeianVerian, yes, I think so
+2020-03-22 00:32:54	SeianVerian	??spell hunger
+2020-03-22 00:32:54	Sequell	spell hunger[1/2]: Casting a spell lowers your nutrition by an amount varying with the spell's level: (1) 50, (2) 100, (3) 150, (4) 250, (5) 400, (6) 550, (7) 700, (8) 850, (9) 1000. This amount is lowered by the product of your Intelligence and Spellcasting. (For rods, your Evocation skill * 10, with a minimum of 10.)
+2020-03-22 00:33:21	Amnesiac	as long as you don't move or wait too long :D
+2020-03-22 00:34:02	SeianVerian	Psymania: Yeah, according to this it hasn't changed since last I checked it- Intelligence and Spellcasting, nothing else
+2020-03-22 00:34:04	Amnesiac	schools don't reduce hunger at allm Psymania 
+2020-03-22 00:34:17	Amnesiac	what he said
+2020-03-22 00:34:32	Amnesiac	s/m/,
+2020-03-22 00:43:33	<--	Amnesiac (~cang@176-35-89-190.xdsl.murphx.net) hat den IRC verlassen (Read error: Connection reset by peer)
+2020-03-22 00:44:39	Psymania	okay
+2020-03-22 00:44:41	Psymania	thanks yous
+2020-03-22 00:49:34	gammafunk	!nick dietDew sunbeam
+2020-03-22 00:49:35	Sequell	Mapping dietdew => sunbeam
+2020-03-22 00:55:30	ConBadger	Oh, which order does that command go in? I'm Con Badger here but concrocotta on the server
+2020-03-22 00:56:06	gammafunk	it maps what the arrow shows, queries by dietdew will use account name sunbeam
+2020-03-22 00:56:26	ConBadger	!nick ConBadger concrocotta
+2020-03-22 00:56:26	Sequell	Mapping conbadger => concrocotta
+2020-03-22 00:56:29	ConBadger	ty
+2020-03-22 00:56:30	gammafunk	yeah should work
+2020-03-22 00:56:42	ConBadger	!wins
+2020-03-22 00:56:46	ConBadger	!win
+2020-03-22 00:56:47	Sequell	ConBadger has won 4 times in 854 games (0.47%): 2xMiBe 1xGrFi 1xMfGl
+2020-03-22 00:56:54	ConBadger	works :D
+2020-03-22 01:03:59	Psymania	including one 15-rune win that they don't remember :D
+2020-03-22 01:04:16	Psymania	staff of poison: "If the wielder is skilled in Evocations and Poison Magic, they can poison creatures struck by it — even if the victims are normally resistant."
+2020-03-22 01:04:19	Psymania	well that is kind of kickass
+2020-03-22 01:04:38	Psymania	I've never made it far enough with a character type that can make much use of staves, to really care about staves :P
+2020-03-22 01:04:40	Psymania	until now
+2020-03-22 01:05:12	Psymania	also I've just cleared Lair:6 O_O
+2020-03-22 01:05:17	Psymania	I've never made it *nearly* this far with a DE before
+2020-03-22 01:06:57	ConBadger	I don't remember it x.x but there's a chat log and everything lol
+2020-03-22 01:16:59	Psymania	omg, I just barely survived encounter with Snorg
+2020-03-22 01:17:05	Psymania	and got +3 troll leather armour out of it
+2020-03-22 01:17:36	Psymania	does the {Snorg} do anything? It seems like usually things in between { and } mean something...but I can't tell that it's anything more than flavor and a reminder where I got it
+2020-03-22 01:29:21	thrig	all flavor (if you like Troll flavor...)
+2020-03-22 01:33:50	SeianVerian	mmm delicious troll steak
+2020-03-22 01:38:13	Psymania	Philly cheese-troll
+2020-03-22 01:49:31	<--	Chryslos_ (~Buhnonymo@2605:a000:71cd:7f00:5dd0:2fdc:b0cc:707) hat den IRC verlassen (Quit: Namaste!)
+2020-03-22 02:00:34	-->	EuphOria (~Euph0ria@2600:8804:3f05:200:6d49:20de:2949:c4ad) hat den Channel ##crawl betreten
+2020-03-22 02:01:17	<--	OICU812 (~Euph0ria@2600:8804:3f05:200:6d49:20de:2949:c4ad) hat den IRC verlassen (Read error: Connection reset by peer)
+2020-03-22 02:16:24	<--	SeianVerian (~Seian@47-34-97-172.dhcp.blvl.il.charter.com) hat den IRC verlassen (Quit: Leaving)
+2020-03-22 02:20:22	<--	Fixer (~quassel@unaffiliated/fixer) hat den IRC verlassen (Ping timeout: 250 seconds)
+2020-03-22 02:26:42	<--	Raichvent (~Raichvent@sb-217-129-112-18.netvisao.pt) hat den IRC verlassen (Quit: Out)
+2020-03-22 02:34:04	Psymania	I seem to be inclined to evaluate spell desirability the same way I do when playing gnoll
+2020-03-22 02:34:25	Psymania	...but obviously that's not accurate here
+2020-03-22 02:43:41	thrig	a) firestorm b) other
+2020-03-22 02:52:00	Psymania	no firestorm yet
+2020-03-22 02:57:14	Psymania	piss
+2020-03-22 02:57:15	Psymania	RIP
+2020-03-22 02:57:25	Psymania	but I did way better on that guy than I'd ever done on a DE before
+2020-03-22 02:57:28	Psymania	I is a proud
+2020-03-22 02:57:57	thrig	the Cult of Yasd welcomes all comers
+2020-03-22 02:58:10	Psymania	http://crawl.akrasiac.org/rawdata/Psymania/morgue-Psymania-20200322-015702.txt
+2020-03-22 02:59:51	Psymania	"Xom the Unpredictable, chaotic god of chaos"
+2020-03-22 02:59:57	Psymania	so, not the chaotic god of non-chaos
+2020-03-22 03:11:08	Psymania	!whichrace Lugonu
+2020-03-22 03:11:10	Sequell	408 recent wins: 72x Demonspawn, 55x Formicid, 32x Hill Orc, 22x Gnoll, 22x Minotaur, 22x Merfolk, 17x Barachi, 14x Gargoyle, 13x Centaur, 13x Troll, 11x Octopode, 11x Spriggan, 11x Halfling, 10x Human, 10x Deep Elf, 10x Ghoul, 10x Kobold, 9x Ogre, 8x Naga, 8x Mummy, 7x Vine Stalker, 6x Tengu, 6x Draconian, 3x Deep Dwarf, 3x Vampire, 3x Felid
+2020-03-22 03:18:19	Psymania	!log * won FoCK
+2020-03-22 03:18:20	Sequell	87. shummie, XL27 FoCK, T:111950: https://crawl.kelbi.org/crawl/morgue/shummie/morgue-shummie-20200305-203136.txt
+2020-03-22 03:18:22	Psymania	!log * won FoCK -2
+2020-03-22 03:18:23	Sequell	86/87. ArbitUH, XL27 FoCK, T:74198: http://crawl.akrasiac.org/rawdata/ArbitUH/morgue-ArbitUH-20200207-215021.txt
+2020-03-22 03:18:24	Psymania	!log * won FoCK -3
+2020-03-22 03:18:25	Sequell	85/87. EthnicCake, XL27 FoCK, T:82140: https://crawl.kelbi.org/crawl/morgue/EthnicCake/morgue-EthnicCake-20191208-011619.txt
+2020-03-22 03:39:36	Cheibriados	New branch created: pull/1327 (1 commit) https://github.com/crawl/crawl/pull/1327
+2020-03-22 03:40:04	oni-on-ion	how do i quit and save progress
+2020-03-22 03:47:02	ConBadger	oni-on-ion ctrl-s
+2020-03-22 03:47:54	oni-on-ion	ConBadger, oh! i was not sure it existed because ctrl-q did not suggest so. thanks =)
+2020-03-22 03:48:06	ConBadger	np :)
+2020-03-22 03:49:40	<--	ConBadger (615ac498@97-90-196-152.dhcp.losa.ca.charter.com) hat den IRC verlassen (Remote host closed the connection)
+2020-03-22 03:51:07	EuphOria	??quokkas
+2020-03-22 03:51:07	Sequell	quokkas ~ quokka[1/5]: Some Australian cat or something?
+2020-03-22 03:51:35	EuphOria	??quokkas[5
+2020-03-22 03:51:35	Sequell	quokkas ~ quokka[5/5]: https://www.theatlantic.com/photo/2019/12/photos-week-wayward-tee-pollution-pod-windy-wall/603298/#img25
+2020-03-22 03:51:45	EuphOria	https://www.boredpanda.com/cute-smiling-happy-quokkas/
+2020-03-22 03:53:31	Cheibriados	gammafunk * 0.25-a0-652-gc9638ee: Simplify and rebalance Frozen Ramparts (70 minutes ago, 2 files, 15+ 20-) https://github.com/crawl/crawl/commit/c9638ee9a8ed
+2020-03-22 04:19:58	dioxide	?? bone dragon
+2020-03-22 04:19:58	Sequell	bone dragon[1/1]: Undead dragon with no breath weapon but good AC, resists, and melee damage. One of the two best (and capped) gifts Yred can grant.
+2020-03-22 04:21:52	<--	Frederic (~frdrc@2a02:908:2e36:900:c08b:20a3:342b:cb3b) hat den IRC verlassen (Quit: wf!)
+2020-03-22 04:26:27	<--	Tiobot_ (Tiobot@31.135.134.105) hat den IRC verlassen
+2020-03-22 04:54:25	Cheibriados	Aidan Holm * 0.25-a0-653-g6245e20: Add requirements.txt tools, formatting, and linting (3 weeks ago, 9 files, 229+ 0-) https://github.com/crawl/crawl/commit/6245e20cc037
+2020-03-22 04:54:26	Cheibriados	Aidan Holm * 0.25-a0-654-g6255c8b: Fix lint errors (2 weeks ago, 1 file, 110+ 55-) https://github.com/crawl/crawl/commit/6255c8be1604
+2020-03-22 04:54:33	Cheibriados	Aidan Holm * 0.25-a0-655-g74e85d6: Refactor userdb.py with a context manager (2 weeks ago, 1 file, 138+ 215-) https://github.com/crawl/crawl/commit/74e85d6d0855
+2020-03-22 04:54:40	Cheibriados	Aidan Holm * 0.25-a0-656-gecb0247: Extract cookie authentication logic to its own file (12 days ago, 3 files, 73+ 34-) https://github.com/crawl/crawl/commit/ecb0247d0508
+2020-03-22 04:54:48	Cheibriados	Aidan Holm * 0.25-a0-657-ge95d391: Add some test cases for cookie authentication (8 days ago, 1 file, 77+ 0-) https://github.com/crawl/crawl/commit/e95d391c2009
+2020-03-22 04:56:53	<--	muffindrake (~muffindra@unaffiliated/muffindrake) hat den IRC verlassen (Ping timeout: 246 seconds)
+2020-03-22 04:59:19	-->	muffindrake (~muffindra@unaffiliated/muffindrake) hat den Channel ##crawl betreten
+2020-03-22 05:03:32	jfcaron	My OgBe with 8 base Int got malmutated with Dopey (Int -2)...probably not worth curing.
+2020-03-22 05:04:09	Psymania	No. On an OgBe I think your only concern is making sure you don't stat zero
+2020-03-22 05:04:12	Psymania	(re: Int)
+2020-03-22 05:04:55	jfcaron	And 6 isn't too low?
+2020-03-22 05:06:05	Psymania	I mean
+2020-03-22 05:06:10	Psymania	I would *watch* it
+2020-03-22 05:06:13	Psymania	carefully
+2020-03-22 05:06:19	jfcaron	Weird, Oka altar in Abyss.
+2020-03-22 05:06:24	Psymania	but I wouldn't quaff mut pots trying to get rid of it unless you've got like 30 mut pots
+2020-03-22 05:07:29	jfcaron	There are 10 of them in my game. =p
+2020-03-22 05:07:35	jfcaron	And I have rMut from Hat of the Alchemist.
+2020-03-22 05:11:47	jfcaron	C'mon abyssal rune...
+2020-03-22 05:16:20	Psymania	Oh, maybe worth it, then? I don't know. I still don't think I'd do it just for that. I'd wait until it gets a bit uglier than just that
+2020-03-22 05:16:34	Psymania	damn I'm jealous, I love that hat
+2020-03-22 05:16:42	Psymania	only gotten it once, from Fleshworks
+2020-03-22 05:20:33	<--	tonehack (~greqrg@050-089-182-236.res.spectrum.com) hat den IRC verlassen (Quit: Leaving)
+2020-03-22 05:24:58	jfcaron	woot, finally got out of the abyss, with the rune.
+2020-03-22 05:25:02	jfcaron	5 runes, my highest ever. ^_^
+2020-03-22 05:26:46	jfcaron	!dump .
+2020-03-22 05:26:47	Sequell	http://crawl.berotato.org/crawl/morgue/jfcaron/jfcaron.txt
+2020-03-22 05:32:03	dioxide	hm should i continue training shields, axes, and slings beyond min
+2020-03-22 05:32:39	jfcaron	Not before 27 fighting and armour/dodging I think.
+2020-03-22 05:32:46	jfcaron	Dump?
+2020-03-22 05:33:05	dioxide	http://crawl.akrasiac.org/rawdata/dioxide/dioxide.txt
+2020-03-22 05:34:57	dioxide	not sure what i should bring evo up to either, just left it at 10
+2020-03-22 05:35:12	jfcaron	Nice shield, I love that one.
+2020-03-22 05:35:21	jfcaron	Whoa and Brooch of Shielding too, nice.
+2020-03-22 05:36:00	jfcaron	Yeah I'd just continue fighting+armour+dodging.
+2020-03-22 05:36:08	dioxide	roger
+2020-03-22 05:36:13	jfcaron	Do you have any evocables like Lamp of Fire?
+2020-03-22 05:36:26	dioxide	not at the moment
+2020-03-22 05:36:44	jfcaron	Then I wouldn't bother getting any more evoc.
+2020-03-22 05:37:19	jfcaron	You only used a wand once according to the dump. =p  10 skill for a single use!
+2020-03-22 05:37:30	jfcaron	Use your wands more!
+2020-03-22 05:38:21	dioxide	i will now.  ive tabbed through everything until i hit the snake pit
+2020-03-22 05:38:27	jfcaron	Yar.
+2020-03-22 05:38:48	jfcaron	Yeah I'd say train fighting+armour+dodging, but focus fighting and armour.  Dodging can be secondary.
+2020-03-22 05:38:59	jfcaron	!apt mi
+2020-03-22 05:38:59	Sequell	Mi: Fighting: 2, Short: 1, Long: 2, Axes: 2, Maces: 2, Polearms: 2, Staves: 2, Slings: 1, Bows: 1, Xbows: 1, Throw: 0, Armour: 2, Dodge: 1, Stealth: -1, Shields: 2, UC: 1, Splcast: -4, Conj: -3*, Hexes: -4*, Charms: -4*, Summ: -3*, Nec: -3*, Tloc: -3*, Tmut: -2, Fire: -3*, Ice: -3*, Air: -3, Earth: -2, Poison: -3*, Inv: 0, Evo: -1, Exp: -1, HP: 1, MP: -1*
+2020-03-22 05:39:16	jfcaron	And you've got a better armour aptitude than dodge anyways.
+2020-03-22 05:42:36	dioxide	fan of gales now
+2020-03-22 05:49:52	<--	jfcaron (~jfcaron@unaffiliated/jfcaron) hat den IRC verlassen (Quit: jfcaron)
+2020-03-22 05:51:59	-->	jfcaron (~jfcaron@unaffiliated/jfcaron) hat den Channel ##crawl betreten
+2020-03-22 05:52:06	<--	jfcaron (~jfcaron@unaffiliated/jfcaron) hat den IRC verlassen (Client Quit)
+2020-03-22 06:00:13	Cheibriados	Aidan Holm [stone_soup-0.10] * 0.10.5: Update changelog (40 minutes ago, 1 file, 7+ 0-) https://github.com/crawl/crawl/commit/be2c4dcd139f
+2020-03-22 06:00:13	Cheibriados	Aidan Holm [stone_soup-0.11] * 0.11.4: Update changelog (41 minutes ago, 1 file, 7+ 0-) https://github.com/crawl/crawl/commit/6f1d72f467cb
+2020-03-22 06:00:42	Cheibriados	Aidan Holm [stone_soup-0.12] * 0.12.4: Update changelog (41 minutes ago, 1 file, 7+ 0-) https://github.com/crawl/crawl/commit/636f0b8afc05
+2020-03-22 06:00:42	Cheibriados	Aidan Holm [stone_soup-0.13] * 0.13.3: Update changelog (41 minutes ago, 1 file, 7+ 0-) https://github.com/crawl/crawl/commit/90e77ba6647c
+2020-03-22 06:00:47	Cheibriados	Aidan Holm [stone_soup-0.14] * 0.14.3: Update changelog (41 minutes ago, 1 file, 7+ 0-) https://github.com/crawl/crawl/commit/4d548257b7dd
+2020-03-22 06:00:54	Cheibriados	Aidan Holm [stone_soup-0.15] * 0.15.3: Update changelog (42 minutes ago, 1 file, 7+ 0-) https://github.com/crawl/crawl/commit/a4d6c4232ada
+2020-03-22 06:01:01	Cheibriados	Aidan Holm [stone_soup-0.16] * 0.16.3: Update changelog (42 minutes ago, 2 files, 12+ 0-) https://github.com/crawl/crawl/commit/935a88407664
+2020-03-22 06:01:08	Cheibriados	Aidan Holm [stone_soup-0.17] * 0.17.3: Update changelog (42 minutes ago, 2 files, 12+ 0-) https://github.com/crawl/crawl/commit/8cb77deaa527
+2020-03-22 06:01:15	Cheibriados	Aidan Holm [stone_soup-0.18] * 0.18.2: Update changelog (43 minutes ago, 2 files, 13+ 0-) https://github.com/crawl/crawl/commit/9ad45f3d3d29
+2020-03-22 06:01:22	Cheibriados	Aidan Holm [stone_soup-0.19] * 0.19.6: Update changelog (44 minutes ago, 2 files, 13+ 0-) https://github.com/crawl/crawl/commit/e1550c418854
+2020-03-22 06:01:29	Cheibriados	Aidan Holm [stone_soup-0.20] * 0.20.2: Update changelog (44 minutes ago, 2 files, 13+ 0-) https://github.com/crawl/crawl/commit/0475c4d65ae7
+2020-03-22 06:01:36	Cheibriados	Aidan Holm [stone_soup-0.21] * 0.21.3: Update changelog (44 minutes ago, 2 files, 13+ 0-) https://github.com/crawl/crawl/commit/e33f2bf4e8f8
+2020-03-22 06:01:43	Cheibriados	Aidan Holm [stone_soup-0.22] * 0.22.3: Update changelog (45 minutes ago, 2 files, 12+ 0-) https://github.com/crawl/crawl/commit/6000bec5d9d6
+2020-03-22 06:01:50	Cheibriados	Aidan Holm [stone_soup-0.23] * 0.23.3: Update changelog (45 minutes ago, 2 files, 13+ 0-) https://github.com/crawl/crawl/commit/e53cab806c36
+2020-03-22 06:01:57	Cheibriados	Aidan Holm [stone_soup-0.24] * 0.24.1: Update changelog (47 minutes ago, 2 files, 17+ 0-) https://github.com/crawl/crawl/commit/3008d5f674b2
+2020-03-22 06:23:45	<--	Cerpin (~Cerpin@64.121.124.221) hat den IRC verlassen (Read error: Connection reset by peer)
+2020-03-22 06:24:04	-->	Cerpin (~Cerpin@64.121.124.221) hat den Channel ##crawl betreten
+2020-03-22 07:12:43	-->	joemaro (~joemaro@222.red-37-12-176.dynamicip.rima-tde.net) hat den Channel ##crawl betreten
+2020-03-22 07:21:46	<--	gammafunk (~gammafunk@ics133-97.icsincorporated.com) hat den IRC verlassen (Quit: leaving)
+2020-03-22 07:39:25	Cheibriados	Aidan Holm * 0.25-a0-658-g728da59: Fix lint / type errors for userdb.py (24 minutes ago, 6 files, 124+ 67-) https://github.com/crawl/crawl/commit/728da59b6a10
+2020-03-22 07:39:26	Cheibriados	Aidan Holm * 0.25-a0-659-gdb1d69e: Use single-line style for Python imports (80 seconds ago, 1 file, 1+ 0-) https://github.com/crawl/crawl/commit/db1d69e2aaf8
+2020-03-22 07:40:06	<--	Tuxedo[Qyou] (TuxQyou]@gateway/vpn/privateinternetaccess/tuxqyou/x-46410882) hat den IRC verlassen (Ping timeout: 256 seconds)
+2020-03-22 07:48:54	joemaro	just had Breath Frost (white draconian) knockback a sky beast.... is the knockback new?   
+2020-03-22 07:49:18	joemaro	ahh... i guess it's because the sky beast is flying ....
+2020-03-22 07:54:03	<--	oni-on-ion (~oni-on-io@2001:1970:57e0:4100::133f) hat den IRC verlassen (Remote host closed the connection)
+2020-03-22 07:54:24	-->	oni-on-ion (~oni-on-io@d24-235-145-145.home1.cgocable.net) hat den Channel ##crawl betreten
+2020-03-22 08:36:00	-->	Psymania_ (~tehgeek@ip184-176-88-58.ph.ph.cox.net) hat den Channel ##crawl betreten
+2020-03-22 08:37:34	<--	Psymania (~tehgeek@ip184-176-88-58.ph.ph.cox.net) hat den IRC verlassen (Ping timeout: 240 seconds)
+2020-03-22 08:44:45	-->	joemaro_ (~joemaro@95.red-95-124-50.dynamicip.rima-tde.net) hat den Channel ##crawl betreten
+2020-03-22 08:47:54	<--	joemaro (~joemaro@222.red-37-12-176.dynamicip.rima-tde.net) hat den IRC verlassen (Ping timeout: 240 seconds)
+2020-03-22 09:07:43	-->	MikZyth (~MikZyth@85.115.224.155) hat den Channel ##crawl betreten
+2020-03-22 09:11:50	-->	joemaro- (~joemaro@114.red-95-124-15.dynamicip.rima-tde.net) hat den Channel ##crawl betreten
+2020-03-22 09:15:18	<--	joemaro_ (~joemaro@95.red-95-124-50.dynamicip.rima-tde.net) hat den IRC verlassen (Ping timeout: 256 seconds)
+2020-03-22 09:30:03	<--	MikZyth (~MikZyth@85.115.224.155) hat den IRC verlassen (Quit: WeeChat 2.7.1)
+2020-03-22 09:50:22	-->	Postquell (~Postquell@114.23.142.137) hat den Channel ##crawl betreten
+2020-03-22 10:12:34	<--	yxhuvud (~quassel@2001:1ba8:1424:ea00:35b3:108:5153:5cef) hat den IRC verlassen (Read error: Connection reset by peer)
+2020-03-22 10:13:10	-->	yxhuvud (~quassel@2001:1ba8:1424:ea00:1189:705:3843:9e4b) hat den Channel ##crawl betreten
+2020-03-22 10:17:54	<--	joemaro- (~joemaro@114.red-95-124-15.dynamicip.rima-tde.net) hat den IRC verlassen (Ping timeout: 240 seconds)
+2020-03-22 10:43:01	-->	MikZyth (~MikZyth@85.115.224.155) hat den Channel ##crawl betreten
+2020-03-22 10:48:53	-->	Raichvent (~Raichvent@sb-217-129-112-18.netvisao.pt) hat den Channel ##crawl betreten
+2020-03-22 11:00:58	<--	MikZyth (~MikZyth@85.115.224.155) hat den IRC verlassen (Quit: WeeChat 2.7.1)
+2020-03-22 11:01:28	<--	Raichvent (~Raichvent@sb-217-129-112-18.netvisao.pt) hat den IRC verlassen (Quit: Out)
+2020-03-22 11:11:59	-->	Frederic (~frdrc@2a02:908:2e36:900:d537:443d:9648:26cc) hat den Channel ##crawl betreten
+2020-03-22 11:35:32	<--	Frederic (~frdrc@2a02:908:2e36:900:d537:443d:9648:26cc) hat den IRC verlassen (Ping timeout: 246 seconds)
+2020-03-22 11:47:03	-->	joemaro- (~joemaro@114.red-95-124-15.dynamicip.rima-tde.net) hat den Channel ##crawl betreten
+2020-03-22 11:47:36	Postquell	Inarius the Heavyweight Champion (L27 TrFi) worshipper of Jiyva, escaped with the Orb and 4 runes!, with 2446989 points after 68122 turns and 03:23:49. [CXC 0.25-a0]
+2020-03-22 11:55:22	-->	Fixer (~quassel@unaffiliated/fixer) hat den Channel ##crawl betreten
+2020-03-22 12:06:23	-->	dewowzer (~dewowzer@x4d0dd12c.dyn.telefonica.de) hat den Channel ##crawl betreten
+2020-03-22 12:06:23	--	Das Thema von ##crawl lautet: "Play Dungeon Crawl Stone Soup online now! Type ??servers for instructions. | http://crawl.develz.org | FooTV: http://termcast.develz.org - ??footv for instructions | See also ##crawl-offtopic"
+2020-03-22 12:06:23	--	Thema wurde festgelegt von advil (~advil@tomenet.skepticalfamily.com) am Do, 02 Aug 2018 20:13:20
+2020-03-22 12:06:23	--	Channel ##crawl: 100 Nicks (1 Operator, 0 ge-voice-te, 99 normale)
+2020-03-22 12:06:25	--	Channel erstellt am Sa, 02 Dez 2006 01:01:58
+2020-03-22 12:13:07	-->	Raichvent (~Raichvent@sb-217-129-112-18.netvisao.pt) hat den Channel ##crawl betreten
+2020-03-22 12:17:10	<--	Raichvent (~Raichvent@sb-217-129-112-18.netvisao.pt) hat den IRC verlassen (Client Quit)
+2020-03-22 12:19:22	-->	Raichvent (~Raichvent@sb-217-129-112-18.netvisao.pt) hat den Channel ##crawl betreten
+2020-03-22 12:29:35	-->	Frederic (~frdrc@2a02:908:2e36:900:5d86:d7e1:3e9f:691) hat den Channel ##crawl betreten
+2020-03-22 12:32:07	EuphOria	dioxide: Some wands are more useful early game but not very effective much past that. (wands of flame for example) Other wands/evocables are more useful in mid-late game. (those that have damage that scales with your evo skill)
+2020-03-22 12:53:44	-->	Amnesiac (~cang@176-35-89-190.xdsl.murphx.net) hat den Channel ##crawl betreten
+2020-03-22 13:18:33	<--	joemaro- (~joemaro@114.red-95-124-15.dynamicip.rima-tde.net) hat den IRC verlassen (Ping timeout: 250 seconds)
+2020-03-22 13:23:46	Postquell	Maplein the Conqueror (L27 MiGl) worshipper of Trog, escaped with the Orb and 3 runes!, with 1679395 points after 75435 turns and 08:38:39. [CUE 0.24.0]
+2020-03-22 13:36:15	-->	dewowzer (~dewowzer@x4d0dd12c.dyn.telefonica.de) hat den Channel ##crawl betreten
+2020-03-22 13:36:15	--	Das Thema von ##crawl lautet: "Play Dungeon Crawl Stone Soup online now! Type ??servers for instructions. | http://crawl.develz.org | FooTV: http://termcast.develz.org - ??footv for instructions | See also ##crawl-offtopic"
+2020-03-22 13:36:15	--	Thema wurde festgelegt von advil (~advil@tomenet.skepticalfamily.com) am Do, 02 Aug 2018 20:13:20
+2020-03-22 13:36:15	--	Channel ##crawl: 102 Nicks (1 Operator, 0 ge-voice-te, 101 normale)
+2020-03-22 13:36:17	--	Channel erstellt am Sa, 02 Dez 2006 01:01:58
+2020-03-22 13:46:15	-->	joemaro- (~joemaro@114.red-95-124-15.dynamicip.rima-tde.net) hat den Channel ##crawl betreten
+2020-03-22 13:57:10	<--	SketchFile (~SketchFil@d192-24-103-81.nap.wideopenwest.com) hat den IRC verlassen (Quit: peace)
+2020-03-22 13:57:42	-->	SketchFile (~SketchFil@d192-24-103-81.nap.wideopenwest.com) hat den Channel ##crawl betreten
+2020-03-22 14:07:33	-->	unknownuser00 (~UnknownUs@rrcs-70-125-225-209.sw.biz.rr.com) hat den Channel ##crawl betreten
+2020-03-22 14:07:48	-->	Tux[Qyou] (TuxQyou]@gateway/vpn/privateinternetaccess/tuxqyou/x-46410882) hat den Channel ##crawl betreten
+2020-03-22 14:07:51	unknownuser00	hello, how is everybody doing this morning?
+2020-03-22 14:13:09	<--	Fixer (~quassel@unaffiliated/fixer) hat den IRC verlassen (Ping timeout: 250 seconds)
+2020-03-22 14:18:31	-->	Fixer (~quassel@unaffiliated/fixer) hat den Channel ##crawl betreten
+2020-03-22 14:22:00	Postquell	Thalamas the Warrior (L26 MuFi) worshipper of Gozag, escaped with the Orb and 3 runes!, with 1581279 points after 77354 turns and 05:39:31. [CAO 0.25-a0]
+2020-03-22 14:24:34	<--	Frederic (~frdrc@2a02:908:2e36:900:5d86:d7e1:3e9f:691) hat den IRC verlassen (Read error: Connection reset by peer)
+2020-03-22 14:36:04	unknownuser00	&unknownuser
+2020-03-22 14:40:42	Pinkbeast	unknownuser00: What are you trying to do?
+2020-03-22 14:41:03	unknownuser00	i thought maybe dumps would work here
+2020-03-22 14:41:11	Pinkbeast	!dump unknownuser00 
+2020-03-22 14:41:12	Sequell	No milestones for unknownuser00.
+2020-03-22 14:41:21	Pinkbeast	What's your nom du Crawl?
+2020-03-22 14:41:23	unknownuser00	!dump unkownuser
+2020-03-22 14:41:24	Sequell	No milestones for unkownuser.
+2020-03-22 14:41:46	unknownuser00	which server does sequwll check?
+2020-03-22 14:42:24	Pinkbeast	Do you really play as "unkownuser"?
+2020-03-22 14:42:37	unknownuser00	nope spelled it wrong lol
+2020-03-22 14:42:49	unknownuser00	!dump unknownuser
+2020-03-22 14:42:51	Sequell	http://crawl.akrasiac.org/rawdata/UnknownUser/UnknownUser.txt
+2020-03-22 14:42:54	unknownuser00	there it goes
+2020-03-22 14:43:03	unknownuser00	cool
+2020-03-22 14:48:33	unknownuser00	is there a way to stop rupert form berserking? i dont think there is.
+2020-03-22 14:51:19	<--	|amethyst (neil@104.254.219.213) hat den IRC verlassen (Remote host closed the connection)
+2020-03-22 14:51:42	Pinkbeast	unknownuser00: Not AFAIK.
+2020-03-22 15:01:37	<--	cjm (~cjm@unaffiliated/cjm) hat den IRC verlassen (Ping timeout: 246 seconds)
+2020-03-22 15:07:46	-->	cjm (~cjm@unaffiliated/cjm) hat den Channel ##crawl betreten
+2020-03-22 15:12:44	-->	jfcaron (~jfcaron@unaffiliated/jfcaron) hat den Channel ##crawl betreten
+2020-03-22 15:13:28	-->	tonehack (~greqrg@050-089-182-236.res.spectrum.com) hat den Channel ##crawl betreten
+2020-03-22 15:21:05	-->	mrpond (~mrpond@li178-169.members.linode.com) hat den Channel ##crawl betreten
+2020-03-22 15:26:13	jfcaron	!apt hu
+2020-03-22 15:26:14	Sequell	Hu: Fighting: 0, Short: 0, Long: 0, Axes: 0, Maces: 0, Polearms: 0, Staves: 0, Slings: 0, Bows: 0, Xbows: 0, Throw: 0, Armour: 0, Dodge: 0, Stealth: 1, Shields: 0, UC: 0, Splcast: -1, Conj: 0, Hexes: 0, Charms: 0, Summ: 0, Nec: 0, Tloc: 0, Tmut: 0, Fire: 0, Ice: 0, Air: 0, Earth: 0, Poison: 0, Inv: 1, Evo: 0, Exp: 1!, HP: 0, MP: 0
+2020-03-22 15:27:46	Postquell	Nebukadnezar the Gnoll Blade (L27 GnFi) worshipper of Gozag, escaped with the Orb and 15 runes!, with 18356994 points after 83844 turns and 12:20:22. [CXC 0.24.1]
+2020-03-22 15:35:09	-->	SeianVerian (~Seian@47-34-97-172.dhcp.blvl.il.charter.com) hat den Channel ##crawl betreten
+2020-03-22 15:35:49	jfcaron	!apt Exp
+2020-03-22 15:35:50	Sequell	Exp: Fo: 1!, Ha: 1!, Hu: 1!, Ko: 1!, Gr: 0, Dr[mottled]: N/A, Na: 0, Gn: 0, VS: 0, HO: 0, Og: 0, Op: 0, Ba: 0, Mf: 0, Gh: 0, Te: 0, HE: N/A, Dr: -1, Vp: -1, Ds: -1, Mu: -1, Mi: -1, DD: -1, Ce: -1, Sp: -1, Tr: -1, DE: -1, Fe: -1, Dg: -2*
+2020-03-22 15:36:15	jfcaron	!wtf Dg
+2020-03-22 15:36:16	Sequell	Demigod
+2020-03-22 15:37:14	jfcaron	!apt HP
+2020-03-22 15:37:14	Sequell	HP: Tr: 3!, Og: 3!, Na: 2, DD: 2, Dg: 1, Mi: 1, Dr: 1, HO: 1, Gh: 1, Ce: 1, Mu: 0, HE: N/A, Mf: 0, Fo: 0, Dr[mottled]: N/A, Vp: 0, Ba: 0, Ds: 0, Gn: 0, Hu: 0, Ha: -1, Op: -1, Ko: -2, Te: -2, DE: -2, Gr: -2, VS: -3, Sp: -3, Fe: -4*
+2020-03-22 15:38:55	jfcaron	Is HP aptitude the same as Fighting aptitutde?
+2020-03-22 15:40:24	jfcaron	!apt MP
+2020-03-22 15:40:24	Sequell	MP: Dg: 2!, DE: 2!, Sp: 1, Fe: 1, Te: 1, VS: 1, HE: N/A, Fo: 0, HO: 0, Hu: 0, Op: 0, Gn: 0, Mf: 0, Ha: 0, Mu: 0, Dr: 0, Og: 0, Ce: 0, Vp: 0, Ba: 0, Ko: 0, Ds: 0, DD: 0, Gr: 0, Na: 0, Mi: -1*, Tr: -1*, Gh: -1*
+2020-03-22 15:40:53	unknownuser00	i dont think so
+2020-03-22 15:41:03	unknownuser00	mi is fighting +2
+2020-03-22 15:49:14	unknownuser00	does cancelation remove drain?
+2020-03-22 15:51:08	unknownuser00	nvm, found a better page on the wiki. it does not.
+2020-03-22 15:52:53	joemaro-	jfcaron, the HP isn't really an aptitude ... it's how much percentage of HP the race has in relation to humans ... -2 = -20%
+2020-03-22 15:53:26	joemaro-	i always look at the ingame table which is very good
+2020-03-22 15:56:05	jfcaron	Right.
+2020-03-22 15:56:20	jfcaron	I didn't know demigods got a ton of extra MP.
+2020-03-22 15:56:26	jfcaron	Well, 20% more.
+2020-03-22 15:58:45	unknownuser00	is evocations the only skill governing the abilities gained from items
+2020-03-22 15:59:29	jfcaron	Yeah.
+2020-03-22 16:08:45	--	irc: Vom Server getrennt!
+2020-03-22 16:09:10	-->	dewowzer (~dewowzer@x4d0d36e6.dyn.telefonica.de) hat den Channel ##crawl betreten
+2020-03-22 16:09:10	--	Das Thema von ##crawl lautet: "Play Dungeon Crawl Stone Soup online now! Type ??servers for instructions. | http://crawl.develz.org | FooTV: http://termcast.develz.org - ??footv for instructions | See also ##crawl-offtopic"
+2020-03-22 16:09:10	--	Thema wurde festgelegt von advil (~advil@tomenet.skepticalfamily.com) am Do, 02 Aug 2018 20:13:20
+2020-03-22 16:09:10	--	Channel ##crawl: 107 Nicks (1 Operator, 0 ge-voice-te, 106 normale)
+2020-03-22 16:09:10	--	Channel erstellt am Sa, 02 Dez 2006 01:01:58
+2020-03-22 16:10:40	<--	joemaro- (~joemaro@114.red-95-124-15.dynamicip.rima-tde.net) hat den IRC verlassen (Ping timeout: 256 seconds)
+2020-03-22 16:19:05	Postquell	demonpants the Peltast (L27 DgCj), escaped with the Orb and 5 runes!, with 2575476 points after 110906 turns and 20:19:03. [CAO 0.25-a0]
+2020-03-22 16:19:42	unknownuser00	how do i fix stat drain?
+2020-03-22 16:19:54	jfcaron	Gain more XP, it will go away.
+2020-03-22 16:20:02	thrig	beat people up
+2020-03-22 16:20:05	unknownuser00	thanks, thats what i thought.
+2020-03-22 16:23:28	-->	Chryslos (~Buhnonymo@cpe-184-56-176-92.neo.res.rr.com) hat den Channel ##crawl betreten
+2020-03-22 16:25:42	unknownuser00	anybody ever thought about how shoals has seemingly oceans of water, yet we can just go downstairs?
+2020-03-22 16:27:47	jfcaron	^_^
+2020-03-22 16:28:08	jfcaron	It's almost like the dungeon is an abstract representation and not a real thing.
+2020-03-22 16:28:14	jfcaron	I just one-shot a golden dragon with a large rock.
+2020-03-22 16:28:33	unknownuser00	it does seem like that.... where was he?
+2020-03-22 16:28:41	jfcaron	Zot 1
+2020-03-22 16:32:34	-->	joemaro- (~joemaro@114.red-95-124-15.dynamicip.rima-tde.net) hat den Channel ##crawl betreten
+2020-03-22 16:33:07	Pinkbeast	The stairs have little lips around them, like stairs on a ship
+2020-03-22 16:34:32	Postquell	mive the Slayer (L27 CeHu) worshipper of Fedhas, escaped with the Orb and 4 runes!, with 1655665 points after 150014 turns and 10:42:12. [CUE 0.25-a0]
+2020-03-22 16:39:12	Postquell	eibelandr the Sniper (L27 HuGl) worshipper of Okawaru, escaped with the Orb and 4 runes!, with 2229749 points after 78687 turns and 07:04:31. [CAO 0.25-a0]
+2020-03-22 16:39:14	Postquell	ew1980 the Conqueror (L27 MiFi) worshipper of Okawaru, escaped with the Orb and 4 runes!, with 2157998 points after 92802 turns and 08:28:00. [CBRO 0.25-a0]
+2020-03-22 16:41:56	SeianVerian	??large rock
+2020-03-22 16:41:56	Sequell	large rock[1/2]: (throwing; 20 dam / base delay 2.0 / 0.7 min delay). A very large and very heavy stone. Only large creatures are capable of throwing it.
+2020-03-22 16:42:09	SeianVerian	%?golden dragon
+2020-03-22 16:42:09	Cheibriados	golden dragon (D) | Spd: 10 | HD: 18 | HP: 91-126 | AC/EV: 15/7 | Dam: 40, 20(claw), 20(trample) | see invisible, fly | Res: magic(180), fire, cold, elec, poison, drown | Chunks: noxious | XP: 4175 | Sp: b.fire (3d27) [!AM, !sil, breath], b.cold
+2020-03-22 16:42:09	Cheibriados	..(3d27) [!AM, !sil, breath], poisonous cloud (3d11) [!AM, !sil, breath] | Sz: Giant | Int: animal.
+2020-03-22 16:42:33	SeianVerian	...how the hell do you oneshot a golden dragon with a 20 dam throwing weapon???
+2020-03-22 16:42:49	SeianVerian	Even if they're unaware, does stabbing add to ranged weapons?
+2020-03-22 16:43:01	jfcaron	43 strength and 20 throwing skill...
+2020-03-22 16:43:34	SeianVerian	I wouldn't think that'd be enough for x5 damage though!
+2020-03-22 16:43:45	 *	jfcaron shrugs.
+2020-03-22 16:43:47	SeianVerian	Unless I've really misunderstood the formulas
+2020-03-22 16:43:50	jfcaron	It wasn't unaware.
+2020-03-22 16:44:12	jfcaron	nice, Trog just gifted me a +6 giant spiked club of speed.  Too bad it has -Tele...but that's kinda good for Zot actually.
+2020-03-22 16:46:01	jfcaron	0.5 delay gsc ^_^
+2020-03-22 16:47:03	unknownuser00	as a MiBe is mara worth a silence scroll
+2020-03-22 16:47:04	unknownuser00	?
+2020-03-22 16:47:11	unknownuser00	only have 1
+2020-03-22 16:48:07	jfcaron	Can't read it if you're dead. =p
+2020-03-22 16:48:30	unknownuser00	true, im just scared of the illusion of myself
+2020-03-22 16:48:53	jfcaron	Make sure silence will actually stop Mara's abilities.
+2020-03-22 16:49:08	unknownuser00	welp it wont.
+2020-03-22 16:49:13	unknownuser00	or, didnt.....
+2020-03-22 16:49:37	jfcaron	When you examine the monster with xv it should tell you if silence or antimagic will work.
+2020-03-22 16:50:03	unknownuser00	your right, i should have been a little more careful
+2020-03-22 16:54:58	Postquell	magipi the Slayer (L27 MiNe) worshipper of Gozag, escaped with the Orb and 4 runes!, with 2179273 points after 81164 turns and 04:50:02. [CXC 0.25-a0]
+2020-03-22 17:00:53	jfcaron	omfg I am so stupid
+2020-03-22 17:01:01	jfcaron	I decided to do a teleporter vault before the orb run. =(
+2020-03-22 17:01:06	jfcaron	Died with 5 runes.
+2020-03-22 17:01:08	jfcaron	Fuck.
+2020-03-22 17:01:20	unknownuser00	rip, that sucks.
+2020-03-22 17:03:32	SeianVerian	I'd consider the whole fact of having gotten 5 runes to be at least as significant an achievement as actually winning lol
+2020-03-22 17:06:40	unknownuser00	look at this strange shape i found in shoals, no loot or monsters, just this. https://imgur.com/a/RvTMo0w
+2020-03-22 17:11:35	<--	jfcaron (~jfcaron@unaffiliated/jfcaron) hat den IRC verlassen (Quit: jfcaron)
+2020-03-22 17:23:39	unknownuser00	AC does not affect blocking, is that correct?
+2020-03-22 17:23:50	-->	gammafunk (~gammafunk@ics133-97.icsincorporated.com) hat den Channel ##crawl betreten
+2020-03-22 17:24:18	-->	jfcaron (~jfcaron@unaffiliated/jfcaron) hat den Channel ##crawl betreten
+2020-03-22 17:24:26	jfcaron	cool
+2020-03-22 17:24:31	Postquell	hitsuchi (L27 OgAM) left a ziggurat at level 27. (Zig:27) [CUE 0.24.0]
+2020-03-22 17:43:37	Postquell	neosquad the Dwarven Barricade (L27 DDFi) worshipper of Makhleb, escaped with the Orb and 4 runes!, with 2545810 points after 69107 turns and 08:54:01. [CKO 0.24.1]
+2020-03-22 17:44:59	unknownuser00	a vault warden, wielding a +2 great sword of distortion and wearing a +0 plate armour (sheltered from injuries)
+2020-03-22 17:45:06	unknownuser00	any clues on what "
+2020-03-22 17:45:13	unknownuser00	"sheltered from injuries" means?
+2020-03-22 17:46:17	Pinkbeast	An ironheart preserver is sharing damage dealt to it.
+2020-03-22 17:47:57	unknownuser00	ah alright thanks. we should add a ??sheltered from injuries page to beem
+2020-03-22 17:48:42	Cheibriados	Goratrix {Aidan Holm} * 0.25-a0-660-g7a61802: Add zombie hornet tile (28 hours ago, 3 files, 2+ 0-) https://github.com/crawl/crawl/commit/7a61802294b2
+2020-03-22 17:50:02	<--	Chryslos (~Buhnonymo@cpe-184-56-176-92.neo.res.rr.com) hat den IRC verlassen (Read error: Connection reset by peer)
+2020-03-22 17:50:18	-->	Tiobot (~Tiobot@193.178.228.215) hat den Channel ##crawl betreten
+2020-03-22 17:51:18	-->	Chryslos (~Buhnonymo@cpe-184-56-176-92.neo.res.rr.com) hat den Channel ##crawl betreten
+2020-03-22 17:59:09	Postquell	Rudriger (L27 DECj) left a ziggurat at level 27. (Zig:27) [CUE 0.24.0]
+2020-03-22 18:04:28	unknownuser00	woo that was fun, just popped into vaults 5, quaffed lig, read torment, read immolation, killed just one, everybody explodes, then cancellation for the escape.
+2020-03-22 18:04:32	unknownuser00	worth.
+2020-03-22 18:04:32	<--	Chryslos (~Buhnonymo@cpe-184-56-176-92.neo.res.rr.com) hat den IRC verlassen (Read error: Connection reset by peer)
+2020-03-22 18:05:21	<--	jfcaron (~jfcaron@unaffiliated/jfcaron) hat den IRC verlassen (Quit: jfcaron)
+2020-03-22 18:05:49	-->	Chryslos (~Buhnonymo@cpe-184-56-176-92.neo.res.rr.com) hat den Channel ##crawl betreten
+2020-03-22 18:08:15	unknownuser00	oh im sure 2 pips of RF helped too.
+2020-03-22 18:18:48	unknownuser00	dang, alarm trap got me kill in vaults 5. rip :(
+2020-03-22 18:34:45	<--	Chryslos (~Buhnonymo@cpe-184-56-176-92.neo.res.rr.com) hat den IRC verlassen (Read error: Connection reset by peer)
+2020-03-22 18:36:02	-->	Chryslos (~Buhnonymo@cpe-184-56-176-92.neo.res.rr.com) hat den Channel ##crawl betreten
+2020-03-22 18:37:25	Cheibriados	New branch created: pull/1328 (1 commit) https://github.com/crawl/crawl/pull/1328
+2020-03-22 18:47:30	<--	joemaro- (~joemaro@114.red-95-124-15.dynamicip.rima-tde.net) hat den IRC verlassen (Ping timeout: 250 seconds)
+2020-03-22 18:48:29	Postquell	hitsuchi the Conqueror (L27 OgAM) worshipper of Makhleb, escaped with the Orb and 15 runes!, with 11205388 points after 149073 turns and 09:52:19. [CUE 0.24.0]
+2020-03-22 18:57:53	Postquell	Mandevil the Hawkeye (L27 TrWr) worshipper of Cheibriados, escaped with the Orb and 4 runes!, with 2528964 points after 63773 turns and 05:17:19. [CUE 0.25-a0]
+2020-03-22 19:11:34	<--	Chryslos (~Buhnonymo@cpe-184-56-176-92.neo.res.rr.com) hat den IRC verlassen (Ping timeout: 240 seconds)
+2020-03-22 19:18:38	-->	joemaro- (~joemaro@114.red-95-124-15.dynamicip.rima-tde.net) hat den Channel ##crawl betreten
+2020-03-22 19:19:31	<--	SeianVerian (~Seian@47-34-97-172.dhcp.blvl.il.charter.com) hat den IRC verlassen (Ping timeout: 250 seconds)
+2020-03-22 19:20:37	Postquell	svendre the Meteorologist (L27 TeEE) worshipper of the Shining One, escaped with the Orb and 15 runes!, with 12644011 points after 128873 turns and 19:21:55. [CAO 0.25-a0]
+2020-03-22 19:23:29	-->	Frederic (~frdrc@2a02:908:2e36:900:5004:a1da:6b93:56e8) hat den Channel ##crawl betreten
+2020-03-22 19:28:28	--	Tiobot ist nun als Guest40312 bekannt
+2020-03-22 19:28:47	-->	Tiobot_ (~Tiobot@31.135.142.254) hat den Channel ##crawl betreten
+2020-03-22 19:30:21	<--	Guest40312 (~Tiobot@193.178.228.215) hat den IRC verlassen (Ping timeout: 250 seconds)
+2020-03-22 19:32:36	Cheibriados	gammafunk * 0.25-a0-661-g55ea3d2: Rework trap placement in a Volcano map (SFR) (27 minutes ago, 1 file, 23+ 25-) https://github.com/crawl/crawl/commit/55ea3d2053fb
+2020-03-22 19:33:07	Postquell	AbAeterno the Conqueror (L27 HuFi) worshipper of Wu Jian, escaped with the Orb and 5 runes!, with 2944348 points after 81636 turns and 06:03:10. [CKO 0.25-a0]
+2020-03-22 19:39:19	--	Psymania_ ist nun als Psymania bekannt
+2020-03-22 19:44:11	-->	Tiobot (~Tiobot@31.135.136.61) hat den Channel ##crawl betreten
+2020-03-22 19:45:54	<--	Tiobot_ (~Tiobot@31.135.142.254) hat den IRC verlassen (Ping timeout: 258 seconds)
+2020-03-22 19:55:03	-->	Chryslos (~Buhnonymo@2605:a000:71cd:7f00:64b0:bf2:cb72:2ed4) hat den Channel ##crawl betreten
+2020-03-22 19:57:07	-->	gareppa (~gareppa@unaffiliated/gareppa) hat den Channel ##crawl betreten
+2020-03-23 08:40:04	--	irc: Vom Server getrennt!
+2020-03-23 08:40:30	-->	dewowzer (~dewowzer@x4d0d36e6.dyn.telefonica.de) hat den Channel ##crawl betreten
+2020-03-23 08:40:31	--	Das Thema von ##crawl lautet: "Play Dungeon Crawl Stone Soup online now! Type ??servers for instructions. | http://crawl.develz.org | FooTV: http://termcast.develz.org - ??footv for instructions | See also ##crawl-offtopic"
+2020-03-23 08:40:31	--	Thema wurde festgelegt von advil (~advil@tomenet.skepticalfamily.com) am Do, 02 Aug 2018 20:13:20
+2020-03-23 08:40:31	--	Channel ##crawl: 102 Nicks (1 Operator, 0 ge-voice-te, 101 normale)
+2020-03-23 08:40:31	--	Channel erstellt am Sa, 02 Dez 2006 01:01:58
+2020-03-24 20:24:25	-->	dewowzer (~dewowzer@x590cfb54.dyn.telefonica.de) hat den Channel ##crawl betreten
+2020-03-24 20:24:25	--	Das Thema von ##crawl lautet: "Play Dungeon Crawl Stone Soup online now! Type ??servers for instructions. | http://crawl.develz.org | FooTV: http://termcast.develz.org - ??footv for instructions | See also ##crawl-offtopic"
+2020-03-24 20:24:25	--	Thema wurde festgelegt von advil (~advil@tomenet.skepticalfamily.com) am Do, 02 Aug 2018 20:13:20
+2020-03-24 20:24:25	--	Channel ##crawl: 109 Nicks (1 Operator, 0 ge-voice-te, 108 normale)
+2020-03-24 20:24:27	--	Channel erstellt am Sa, 02 Dez 2006 01:01:58
+2020-03-24 20:27:51	<--	dewowzer (~dewowzer@x590cfb54.dyn.telefonica.de) verließ ##crawl
+2020-03-25 08:58:48	--	irc: Vom Server getrennt!
+2020-03-25 15:30:28	-->	dewowzer_ (dewowzer@gateway/vpn/protonvpn/dewowzer) hat den Channel ##crawl betreten
+2020-03-25 15:30:28	--	Das Thema von ##crawl lautet: "Play Dungeon Crawl Stone Soup online now! Type ??servers for instructions. | http://crawl.develz.org | FooTV: http://termcast.develz.org - ??footv for instructions | See also ##crawl-offtopic"
+2020-03-25 15:30:28	--	Thema wurde festgelegt von advil (~advil@tomenet.skepticalfamily.com) am Do, 02 Aug 2018 20:13:20
+2020-03-25 15:30:28	--	Channel ##crawl: 103 Nicks (1 Operator, 0 ge-voice-te, 102 normale)
+2020-03-25 15:30:30	--	Channel erstellt am Sa, 02 Dez 2006 01:01:58
+2020-03-25 15:48:57	<--	Chryslos (~Buhnonymo@cpe-184-56-176-92.neo.res.rr.com) hat den IRC verlassen (Read error: Connection reset by peer)
+2020-03-25 15:49:19	<--	Tux[Qyou] (TuxQyou]@gateway/vpn/privateinternetaccess/tuxqyou/x-46410882) hat den IRC verlassen (Read error: Connection reset by peer)
+2020-03-25 15:49:39	-->	Tux[Qyou] (TuxQyou]@gateway/vpn/privateinternetaccess/tuxqyou/x-46410882) hat den Channel ##crawl betreten
+2020-03-25 15:50:20	-->	Chryslos (~Buhnonymo@cpe-184-56-176-92.neo.res.rr.com) hat den Channel ##crawl betreten
+2020-03-25 15:58:05	-->	jfcaron (~jfcaron@unaffiliated/jfcaron) hat den Channel ##crawl betreten
+2020-03-25 15:58:28	<--	Fixer (~quassel@unaffiliated/fixer) hat den IRC verlassen (Ping timeout: 256 seconds)
+2020-03-25 16:02:25	<--	Chryslos (~Buhnonymo@cpe-184-56-176-92.neo.res.rr.com) hat den IRC verlassen (Read error: Connection reset by peer)
+2020-03-25 16:02:41	can-of-bees	grmr: nope
+2020-03-25 16:02:52	can-of-bees	you need to throw, or lure, or evoke
+2020-03-25 16:03:03	can-of-bees	or some combination of that
+2020-03-25 16:03:22	-->	Fixer (~quassel@unaffiliated/fixer) hat den Channel ##crawl betreten
+2020-03-25 16:05:09	grmr	OK
+2020-03-25 16:05:17	grmr	then I'll play with the wands
+2020-03-25 16:05:45	grmr	I'm not sure if the orc assholes^Wpriests/wizards/sorcerers have enough MR to defeat wands
+2020-03-25 16:07:03	-->	Chryslos (~Buhnonymo@cpe-184-56-176-92.neo.res.rr.com) hat den Channel ##crawl betreten
+2020-03-25 16:16:37	dog_star	_f - the cursed -6 pair of boots of the Realm of Zot {rCorr Str+4}
+2020-03-25 16:17:27	<--	Chryslos (~Buhnonymo@cpe-184-56-176-92.neo.res.rr.com) hat den IRC verlassen (Read error: Connection reset by peer)
+2020-03-25 16:21:45	<--	oberstein (~ober@2605:6400:20:748::ddee:deee) hat den IRC verlassen (Ping timeout: 272 seconds)
+2020-03-25 16:45:43	<--	joemaro- (~joemaro@250.red-95-124-4.dynamicip.rima-tde.net) hat den IRC verlassen (Ping timeout: 260 seconds)
+2020-03-25 16:47:47	-->	joemaro (~joemaro@250.red-95-124-4.dynamicip.rima-tde.net) hat den Channel ##crawl betreten
+2020-03-25 16:48:57	<--	jfcaron (~jfcaron@unaffiliated/jfcaron) hat den IRC verlassen (Quit: jfcaron)
+2020-03-25 16:56:44	-->	gammafunk (~gammafunk@ics133-97.icsincorporated.com) hat den Channel ##crawl betreten
+2020-03-25 17:07:44	<--	Fixer (~quassel@unaffiliated/fixer) hat den IRC verlassen (Ping timeout: 246 seconds)
+2020-03-25 17:16:42	<--	Amnesiac (~cang@176-35-89-190.xdsl.murphx.net) hat den IRC verlassen (Read error: Connection reset by peer)
+2020-03-25 17:18:15	-->	Fixer (~quassel@unaffiliated/fixer) hat den Channel ##crawl betreten
+2020-03-25 17:20:49	-->	joemaro_ (~joemaro@46.6.163.96) hat den Channel ##crawl betreten
+2020-03-25 17:23:54	<--	joemaro (~joemaro@250.red-95-124-4.dynamicip.rima-tde.net) hat den IRC verlassen (Ping timeout: 240 seconds)
+2020-03-25 17:25:05	-->	jfcaron (~jfcaron@unaffiliated/jfcaron) hat den Channel ##crawl betreten
+2020-03-25 17:25:11	<--	joemaro_ (~joemaro@46.6.163.96) hat den IRC verlassen (Read error: Connection reset by peer)
+2020-03-25 17:37:13	-->	Tiobot_ (Tiobot@31.135.139.228) hat den Channel ##crawl betreten
+2020-03-25 17:43:39	-->	mys (~mys@gateway/tor-sasl/mys) hat den Channel ##crawl betreten
+2020-03-25 17:44:22	jfcaron	Is there a way to query the game for a numerical tension value?  Or some other display?
+2020-03-25 17:44:47	rabbit_	following xom ?
+2020-03-25 17:44:56	jfcaron	No, just regular.
+2020-03-25 17:54:53	-->	SeianVerian (~Seian@47.34.97.172) hat den Channel ##crawl betreten
+2020-03-25 17:58:53	advil	I think that was a suggestion for how to see tension
+2020-03-25 17:59:02	advil	you could also wield the singing sword
+2020-03-25 17:59:04	jfcaron	ah I see.
+2020-03-25 17:59:30	advil	afaik it's not directly exposed
+2020-03-25 17:59:45	advil	it's sort of a bad mechanic so I'm not sure how useful it would be to see
+2020-03-25 18:03:25	jfcaron	??arga
+2020-03-25 18:03:26	Sequell	arga[1/1]: +8 mithril broad axe of speed and MR+. (The "mithril" is just flavor.)
+2020-03-25 18:03:32	jfcaron	Whoa
+2020-03-25 18:04:45	grmr	ain't bad
+2020-03-25 18:21:12	-->	Chryslos (~Buhnonymo@cpe-184-56-176-92.neo.res.rr.com) hat den Channel ##crawl betreten
+2020-03-25 18:25:48	<--	jfcaron (~jfcaron@unaffiliated/jfcaron) hat den IRC verlassen (Quit: jfcaron)
+2020-03-25 18:33:16	<--	Chryslos (~Buhnonymo@cpe-184-56-176-92.neo.res.rr.com) hat den IRC verlassen (Read error: Connection reset by peer)
+2020-03-25 18:35:04	grmr	what does a -2 hat of X mean ?
+2020-03-25 18:35:48	grmr	??alchemist
+2020-03-25 18:35:48	Sequell	alchemist[1/1]: See {alchemist card} or {hat of the alchemist}.
+2020-03-25 18:35:55	grmr	??hat of the alchemist
+2020-03-25 18:35:55	Sequell	hat of the alchemist[1/2]: -2 unrandart hat with rF+ rC+ MR+ rElec rPois rN+ rMut rCorr.
+2020-03-25 18:36:03	grmr	i've got this
+2020-03-25 18:47:46	-->	jfcaron (~jfcaron@unaffiliated/jfcaron) hat den Channel ##crawl betreten
+2020-03-25 19:00:27	-->	muffindrake (~muffindra@unaffiliated/muffindrake) hat den Channel ##crawl betreten
+2020-03-25 19:12:18	-->	joemaro_ (~joemaro@250.red-95-124-4.dynamicip.rima-tde.net) hat den Channel ##crawl betreten
+2020-03-25 19:16:33	can-of-bees	it's a good hat
+2020-03-25 19:18:39	Pinkbeast	grmr: It reduces your AC by 2 points.
+2020-03-25 19:31:19	grmr	OK
+2020-03-25 19:31:26	grmr	I just got killed in swamp
+2020-03-25 19:31:52	grmr	I was in deep shit, then use a scroll of teleportation, which landed me in deeper shit
+2020-03-25 19:31:55	grmr	Swamp:2
+2020-03-25 19:32:07	railbird80	Classic way to die
+2020-03-25 19:32:08	grmr	first time I get that far, it's my best run ever
+2020-03-25 19:39:47	-->	Zeor (~Justin@24.246.253.23.res-cmts.mnh.ptd.net) hat den Channel ##crawl betreten
+2020-03-25 19:49:48	railbird80	??iridescent scales
+2020-03-25 19:49:48	Sequell	scales[2/2]: Molten [2, 3, 4 rF+]; Icy [2, 3, 4 rC+]; Yellow [2, 3, 4 rCorr]; Green [2, 3, 4rPois]; Metallic [2, 3, 4 rElec]; Iridescent [2, 4, 6] Bone Plates [SH+4, 6, 8];  Brown [1 +3% HP, 2 +5% HP, 3 +7% HP]; Repulsion [EV+2, EV+3, EV+4RMsl]; Sturdy [ER-2, ER-4, ER-6]; Sanguine [6, 9, 12 at <67%hp]
+2020-03-25 19:56:57	-->	UnknownUser (~UnknownUs@76-214-158-52.lightspeed.snantx.sbcglobal.net) hat den Channel ##crawl betreten
+2020-03-25 19:57:29	UnknownUser	I had a run yesterday die on the orb run. felt bad. still no wins online.
+2020-03-25 19:58:10	railbird80	how many runes did you collect?
+2020-03-25 19:59:44	<--	Rjs (~user@kekkonen.niksula.hut.fi) hat den IRC verlassen (Remote host closed the connection)
+2020-03-25 19:59:45	UnknownUser	just the 3
+2020-03-25 19:59:55	UnknownUser	vaults was my third
+2020-03-25 19:59:58	railbird80	I actually think it is easier to win a five rune game than a three rune game because of the ascension of the orb run is a bit easier when you've put in the time to get five runes and level your character a bit more.
+2020-03-25 20:00:42	UnknownUser	so you would grab abyss, vaults, S-branches, and slime?
+2020-03-25 20:00:49	railbird80	yes
+2020-03-25 20:01:14	UnknownUser	i will give that a go. i have a a really strong character, but i did yesterday too.
+2020-03-25 20:03:02	UnknownUser	is there a command to see your "milestones" like it shows on the game browser? digging through the ? menu i couldnt find it
+2020-03-25 20:03:31	railbird80	??milestones
+2020-03-25 20:03:31	Sequell	milestones ~ milestone[1/4]: Milestone fields: v, cv, name, race, cls, char, xl, sk, sklev, title, place, br, lvl, ltyp, hp, mhp, mmhp, str, int, dex, god, dur, turn, nrune, urune, time, type, noun, milestone, game_id. game_id points at the game owning the milestone, to see the corresponding game use !lg * id=<1245>
+2020-03-25 20:04:02	railbird80	I don't remember, but you can see it in your morgue file.
+2020-03-25 20:04:17	railbird80	!lg UnknownUser
+2020-03-25 20:04:18	Sequell	215. UnknownUser the Severer (L17 MiBe of Trog), slain by an eight-headed hydra (kmap: swamp_basic_johnstein) on Swamp:3 on 2020-03-25 06:07:07, with 160485 points after 28375 turns and 1:47:28.
+2020-03-25 20:05:05	railbird80	!log UnknownUser
+2020-03-25 20:05:06	Sequell	215. UnknownUser, XL17 MiBe, T:28375: http://crawl.akrasiac.org/rawdata/UnknownUser/morgue-UnknownUser-20200325-060707.txt
+2020-03-25 20:05:34	UnknownUser	cool thankyou
+2020-03-25 20:05:46	railbird80	yw
+2020-03-25 20:06:03	UnknownUser	!lm 
+2020-03-25 20:06:04	Sequell	1809. [2020-03-25 18:58:48] UnknownUser the Warrior (L18 MiBe of Trog) entered the Vaults on turn 39878. (D:13)
+2020-03-25 20:06:15	UnknownUser	thats id :D
+2020-03-25 20:07:36	Psymania	grmr, damn, I love the hat of the alchemist. Turns on all binary resistances, gives one rank of all multi-rank resistances, *and* gives rMut which is very rare and valuable property. I've only ever had it once, got it from Cigotuvi's Fleshworks. Yes the -2 armor value can be a drawback but I almost always play pretty-high-AC characters so I don't mind trading a couple AC for all those resists
+2020-03-25 20:13:50	--	irc: Vom Server getrennt!
+2020-03-25 20:14:18	-->	dewowzer_ (~dewowzer@x4d0d4190.dyn.telefonica.de) hat den Channel ##crawl betreten
+2020-03-25 20:14:18	--	Das Thema von ##crawl lautet: "Play Dungeon Crawl Stone Soup online now! Type ??servers for instructions. | http://crawl.develz.org | FooTV: http://termcast.develz.org - ??footv for instructions | See also ##crawl-offtopic"
+2020-03-25 20:14:18	--	Thema wurde festgelegt von advil (~advil@tomenet.skepticalfamily.com) am Do, 02 Aug 2018 20:13:20
+2020-03-25 20:14:18	--	Channel ##crawl: 106 Nicks (1 Operator, 0 ge-voice-te, 105 normale)
+2020-03-25 20:14:18	--	Channel erstellt am Sa, 02 Dez 2006 01:01:58
+2020-03-25 20:14:23	jfcaron	So if you've got 25 dodging and only 15 shields with a kite shield, I'd train shields for defence.
+2020-03-25 20:17:02	Psymania	just got done telling someone (ConBadger maybe?) that there's rarely a good reason to just grind anywhere, but now I'm mucking around in the Abyss to get my piety back up
+2020-03-25 20:17:48	rabbit_	??curare
+2020-03-25 20:17:48	Sequell	curare[1/2]: A type of poison that will slow you, poison you, and do large impact damage (called asphyxiation). To avoid it you can use eXamine to avoid being in any blowgun wielding creature's line of fire for too long. Poison resistance prevents the poisoning and asphyxiation, as well as the slowing (being undead will too).
+2020-03-25 20:18:03	rabbit_	??curare[2
+2020-03-25 20:18:03	Sequell	curare[2/2]: According to ogaz, you should carry curare around with you so that you can forget to use it and then feel like an idiot when you die.
+2020-03-25 20:18:50	rabbit_	jfcaron: curare darts are giving haste ?
+2020-03-25 20:21:29	Psymania	I feel sort of bad killing starcursed masses. If "starcursed" means that they got all fucked up by those annoying wretched stars, I feel bad for them.
+2020-03-25 20:22:02	Psymania	rabbit_, I think jfcaron was just saying that with Chei, you "should" be able to use curare darts to haste things instead of slowing them, to increase the effectiveness of Slouch
+2020-03-25 20:22:26	railbird80	lol
+2020-03-25 20:23:19	jfcaron	Cuz u know, chei needs buffing.
+2020-03-25 20:23:37	jfcaron	But then again hasting enemies isn't really a buff.
+2020-03-25 20:23:42	-->	joemaro (~joemaro@46.6.223.108) hat den Channel ##crawl betreten
+2020-03-25 20:24:07	rabbit_	Psymania: I don't get it but ok :)
+2020-03-25 20:26:46	<--	joemaro_ (~joemaro@250.red-95-124-4.dynamicip.rima-tde.net) hat den IRC verlassen (Ping timeout: 256 seconds)
+2020-03-25 20:30:17	-->	dewowzer (~dewowzer@37.120.217.163) hat den Channel ##crawl betreten
+2020-03-25 20:30:17	--	Das Thema von ##crawl lautet: "Play Dungeon Crawl Stone Soup online now! Type ??servers for instructions. | http://crawl.develz.org | FooTV: http://termcast.develz.org - ??footv for instructions | See also ##crawl-offtopic"
+2020-03-25 20:30:17	--	Thema wurde festgelegt von advil (~advil@tomenet.skepticalfamily.com) am Do, 02 Aug 2018 20:13:20
+2020-03-25 20:30:17	--	Channel ##crawl: 107 Nicks (1 Operator, 0 ge-voice-te, 106 normale)
+2020-03-25 20:30:19	--	Channel erstellt am Sa, 02 Dez 2006 01:01:58
+2020-03-25 20:37:17	grmr	it's a bit sad that dcss takes so long to get fun
+2020-03-25 20:37:24	-->	Chryslos (~Buhnonymo@cpe-184-56-176-92.neo.res.rr.com) hat den Channel ##crawl betreten
+2020-03-25 20:37:28	UnknownUser	how so? 
+2020-03-25 20:37:30	Psymania	grmr, what do you mean
+2020-03-25 20:37:37	grmr	i'd say I start having fun in the last lair floor
+2020-03-25 20:38:02	UnknownUser	when i was less experienced, i was estatic to even make it to the lair
+2020-03-25 20:38:16	grmr	before that, as a MiBe, its tab-o-berserk
+2020-03-25 20:38:40	grmr	but orc was fun
+2020-03-25 20:38:47	grmr	I had to kite way more
+2020-03-25 20:38:51	Psymania	grmr, if you're bored you can always try a different kind of character :)
+2020-03-25 20:38:57	grmr	same with swamp
+2020-03-25 20:39:30	grmr	nah i'd like to get near a rune first
+2020-03-25 20:40:02	Psymania	I predominantly play Chei gnolls, and I've found that if the game is getting boring, experimenting with some kind(s) of character that I have little or no experience with, even if I'm splatting on D:2 or D:3, is more fun, and after a bit of that, coming back to a Chei gnoll is a lot more fun again
+2020-03-25 20:40:11	grmr	it's frustrating to hear about stuff like Tomb or Pan when your best run had you dying on swamp2
+2020-03-25 20:40:20	grmr	curiosity
+2020-03-25 20:40:38	grmr	ah fair
+2020-03-25 20:40:48	Psymania	yeah, I hear what you're saying too
+2020-03-25 20:41:21	grmr	maybe I should try an interesting character
+2020-03-25 20:41:23	ConBadger	oh, that reminds me, thanks for suggesting gnolls. I'm liking them
+2020-03-25 20:41:49	grmr	how fun are casters to play ?
+2020-03-25 20:41:52	jfcaron	I mean gnolls can get boring if that's all you play, since they completely eliminate one of the strategic elements of the game.
+2020-03-25 20:42:10	jfcaron	Different caster classes can feel very different.
+2020-03-25 20:42:12	ConBadger	casters are so much fun to play, until you run out of mana, then they suck to play :v
+2020-03-25 20:42:22	Psymania	I figure there must be a common root between the "raiju" of DCSS and "Raichu" the Pokemon, given the similarity of names and that both are electric, but I've yet to bother to go and suss out the connection
+2020-03-25 20:42:38	jfcaron	grmr if you're used to O-tabbing I recommend doing a hybrid, like a Skald or something.
+2020-03-25 20:42:40	ConBadger	https://en.wikipedia.org/wiki/Raij%C5%AB
+2020-03-25 20:43:17	grmr	hmm
+2020-03-25 20:43:18	Psymania	grmr, I get my Chei gnolls to Pan/Hell with relatively high frequency, and I was extremely proud recently when I got a DE caster through Lair :P
+2020-03-25 20:43:33	jfcaron	"Raichu" for the pokemon is kind of a pun because "chu" is the japanese sound that squirrels and rats make, and Raiju are those lightining monsters.
+2020-03-25 20:43:39	Psymania	don't know whether that answers the question about how "fun" it is, but if you're used to O-tabbing with MiBes, a caster will be a very different experience
+2020-03-25 20:44:03	grmr	I expect that
+2020-03-25 20:44:21	Psymania	jfcaron, "completely eliminate one of the strategic elements" << yeah, the strategic element that I suck the most at :D
+2020-03-25 20:44:27	grmr	maybe I should try a deep dwarf necro
+2020-03-25 20:44:35	Psymania	although I've been getting a little bit better at it I think
+2020-03-25 20:44:41	Psymania	with recent experimentations
+2020-03-25 20:45:19	Psymania	grmr, that, or if you want something that might be somewhat closer to your comfort zone thus far, try a DD Fighter and worship Makhleb for the HP help
+2020-03-25 20:45:34	grmr	oh nice idea
+2020-03-25 20:46:05	grmr	one thing I found really fun was MiFi of qazlal
+2020-03-25 20:46:05	Psymania	I managed to get a DDFi initially of Makhleb and converting to TSO a ways into Pan before I got frustrated and got him killed with sloppy playing
+2020-03-25 20:46:13	Psymania	I'd never gotten DDs very far before that
+2020-03-25 20:46:30	Psymania	Qazlal is fun as hell
+2020-03-25 20:46:31	grmr	ABSOLUTELY not subtle but it's so fun pissing off the full floor
+2020-03-25 20:46:36	Psymania	once your piety is up
+2020-03-25 20:47:04	grmr	I could also see Xom being fun
+2020-03-25 20:47:24	Psymania	I scored a 7-rune win recently with a DsMo^Qaz using the Shield of the Gong the whole damn time...my first win with more than 6 runes, also my first Ds win, also my first Qaz win...
+2020-03-25 20:47:24	Sequell	SHROANNG!
+2020-03-25 20:47:26	grmr	(if I don't get banished, that is)
+2020-03-25 20:47:42	grmr	ahahah
+2020-03-25 20:47:49	grmr	nice one
+2020-03-25 20:48:17	grmr	oh btw
+2020-03-25 20:48:45	Psymania	I don't have much experience with worshipping Xom but based on what I've inferred, it can only be fun if you're not too desperate to be in good shape :P
+2020-03-25 20:49:00	grmr	regarding tiles vs online, do you feel playing online at my level (consistent lair wins,dies in orc) worthwile ?
+2020-03-25 20:49:17	UnknownUser	i play tiles online
+2020-03-25 20:49:33	grmr	i'd be doing that so that people watch me and give me tips
+2020-03-25 20:49:47	Pinkbeast	I've always played online - why not?
+2020-03-25 20:49:57	grmr	the only reason I don't is that I like the tiles interface a bit better
+2020-03-25 20:50:07	grmr	I don't remember why, it's been a while
+2020-03-25 20:50:10	UnknownUser	somebody ask sequell about my win rate vs number of games
+2020-03-25 20:50:19	Pinkbeast	!gamesby UnknownUser 
+2020-03-25 20:50:20	Sequell	UnknownUser has played 215 games, between 2012-08-08 08:56:05 and 2020-03-25 06:07:07, won 0, high score 752198, total score 6170867, total turns 1907403, play-time/day 0:02:55, total time 5d+15:49:31.
+2020-03-25 20:50:30	ConBadger	!gamesby .
+2020-03-25 20:50:31	Sequell	ConBadger has played 873 games, between 2012-11-14 00:25:35 and 2020-03-25 19:50:11, won 4 (0.5%), high score 9783444, total score 22288162, total turns 5796244, play-time/day 0:08:47, total time 16d+9:39:05.
+2020-03-25 20:50:32	Psymania	grmr, If you're self-conscious about things like win% then no, otherwise there's very little reason not to. my biggest obstacle switching to playing online was the little bit of lag with online play vs local play...I had to train myself to be more patient to see the response of my key-hitting :P
+2020-03-25 20:51:00	ConBadger	0.5% LMAO
+2020-03-25 20:51:07	grmr	i'm not self-conscious, no
+2020-03-25 20:51:26	grmr	i'd just like to get better so that I can see new parts of the game
+2020-03-25 20:51:27	UnknownUser	i have a 0 percent lol
+2020-03-25 20:51:48	grmr	proud 0 percenter here too :D
+2020-03-25 20:52:04	Psymania	grmr, depending on what it is you don't like about the difference between the interfaces, there may be ways to help/mitigate
+2020-03-25 20:52:18	grmr	i'll try anyway
+2020-03-25 20:52:23	ConBadger	I've had two runs recently that shoulda been wins too but I got greedy and wanted to do more than just 3 rune
+2020-03-25 20:52:36	grmr	would you pick the closest server or a server that has more people ?
+2020-03-25 20:52:53	UnknownUser	is zongruldrok worth switching gears from a +13 demon whip? seems amazing on paper
+2020-03-25 20:53:01	UnknownUser	closest server to have minimal lag
+2020-03-25 20:53:09	UnknownUser	??zongruldrok
+2020-03-25 20:53:10	Sequell	zongruldrok ~ zonguldrok[1/1]: You either want {sword of zonguldrok} or {zonguldrok's shrine}.
+2020-03-25 20:53:10	grmr	makes sense
+2020-03-25 20:53:13	Psymania	UnknownUser, I think that Zonguldrok's sword is not as cool as it sounds.
+2020-03-25 20:53:22	grmr	I have one in my city, that's great
+2020-03-25 20:53:34	Psymania	+13 demon whip is good as hell, especially if it's branded well
+2020-03-25 20:53:42	UnknownUser	Freezing
+2020-03-25 20:53:52	ConBadger	>>sword of zongruldrok
+2020-03-25 20:53:53	Psymania	I would recommend just using that
+2020-03-25 20:53:56	ConBadger	??sword of zongruldrok
+2020-03-25 20:53:56	Sequell	sword of zongruldrok ~ sword of zonguldrok[1/3]: +9 double sword {reap} (kills with the sword reanimate as friendly undead).
+2020-03-25 20:54:08	-->	Frederic (~frdrc@2a02:908:2e36:900:adea:4eb6:5444:1e31) hat den Channel ##crawl betreten
+2020-03-25 20:54:22	Psymania	grmr, what city, if you don't mind my asking
+2020-03-25 20:55:18	grmr	paris
+2020-03-25 20:56:59	Psymania	ah
+2020-03-25 20:57:59	<--	ConBadger (615ac498@97-90-196-152.dhcp.losa.ca.charter.com) hat den IRC verlassen (Remote host closed the connection)
+2020-03-25 20:59:19	-->	ConBadger (615ac498@97-90-196-152.dhcp.losa.ca.charter.com) hat den Channel ##crawl betreten
+2020-03-25 21:00:48	<--	Chryslos (~Buhnonymo@cpe-184-56-176-92.neo.res.rr.com) hat den IRC verlassen (Quit: Namaste!)
+2020-03-25 21:00:55	Psymania	okay, done grinding in Abyss, piety and Chei-stats back up to max...and I'm down to 36% fail on my L9 spells in the plate armour I'm using, 14% if I wear my wiz ring
+2020-03-25 21:01:05	Psymania	guess I'll go ahead and learn one or two of them
+2020-03-25 21:02:10	grmr	that sounds like micromanagement
+2020-03-25 21:02:24	ConBadger	!whatgod gnoll
+2020-03-25 21:02:34	ConBadger	!whichgod gnoll
+2020-03-25 21:02:36	Sequell	1093 recent wins for gnoll: 217x Cheibriados, 171x Okawaru, 155x Ashenzari, 130x Gozag, 53x Sif Muna, 42x Vehumet, 35x Xom, 35x Makhleb, 32x The Shining One, 27x Nemelex Xobeh, 23x Zin, 22x Lugonu, 18x Trog, 17x Kikubaaqudgha, 17x Uskayaw, 16x Yredelemnul, 15x Hepliaklqana, 13x Ru, 13x Wu Jian, 11x Fedhas, 10x Qazlal, 10x Dithmenos, 7x Jiyva, 2x, 2x Elyvilon
+2020-03-25 21:02:45	grmr	btw, for plate armour, do you have any rules of thumb for when to pick a lighter armour for a MiBe ?
+2020-03-25 21:04:54	Psymania	if I'm not casting (like an MiBe) I like to just wear whatever gives highest sum of AC+EV
+2020-03-25 21:05:05	UnknownUser	i go lighter if my AC+EV is higher
+2020-03-25 21:05:20	grmr	OK
+2020-03-25 21:05:26	Psymania	that's with all else equal, of course -- other armour properties like resistances and other things for artifacts, can factor into the decision
+2020-03-25 21:05:54	UnknownUser	if they are the same, i lean toward more AC
+2020-03-25 21:06:00	Psymania	unless you're training a lot more dodging than armour, typically I think for a MiBe a heavier armour will almost always be better
+2020-03-25 21:06:25	Psymania	"if they are the same, I lean toward more AC" << I agree with this also
+2020-03-25 21:06:48	Psymania	Is it worth keeping Iron Shot around if I have LCS?
+2020-03-25 21:07:29	Psymania	only one more cell of range, and it doesn't hit as hard as LCS right?
+2020-03-25 21:09:48	jfcaron	I'd say yeah go for maximizing AC+EV with a preference for AC, but at some point a balance is better e.g. 40 AC 0 EV is worse than 20 AC 20 EV imho.
+2020-03-25 21:13:02	grmr	ffs
+2020-03-25 21:13:13	grmr	xtahua makes firefox crash
+2020-03-25 21:13:21	Psymania	Yeah, it's good to have backup in EV. Otherwise when you get spammed with something that pierces armour and you can't possibly dodge them, you're fucked
+2020-03-25 21:13:43	Psymania	lol
+2020-03-25 21:16:07	grmr	hmm
+2020-03-25 21:16:13	grmr	should I play trunk or release ?
+2020-03-25 21:16:53	railbird80	preference really, things could change in trunk
+2020-03-25 21:17:05	railbird80	cause it is still under development.
+2020-03-25 21:17:08	Psymania	grmr, if you want scrolls of acquirement that are way better than the old ones, use trunk :D
+2020-03-25 21:17:17	grmr	trunk it is then
+2020-03-25 21:17:47	jfcaron	But if you want Trog to give you ammo then 0.24.
+2020-03-25 21:18:00	grmr	I don't care much about ammo
+2020-03-25 21:18:05	Psymania	Is it worth keeping Starburst if I can easily cast Ignition?
+2020-03-25 21:18:10	grmr	oh, btw: for mibes, do you prefer axes or maces ?
+2020-03-25 21:18:14	Psymania	that is, does Starburst do substantially more damage?
+2020-03-25 21:18:53	UnknownUser	i like mace, just because it makes killing hydras simple. 
+2020-03-25 21:19:07	UnknownUser	But besides that, i would prefer axes
+2020-03-25 21:19:22	Psymania	grmr, I love cleaving and generally like axes more than maces, but that has much to do with the fact that I play Chei a lot. With maces you can find one-handers that do a bit more base damage than any one-handed axe, like morningstars
+2020-03-25 21:19:47	Psymania	good point about hydras too
+2020-03-25 21:19:59	grmr	for hydras I try to find an axe of flaming
+2020-03-25 21:20:14	Psymania	yes, and if the dungeon doesn't give you one, you try and fail :)
+2020-03-25 21:20:38	Psymania	??starburst
+2020-03-25 21:20:38	Sequell	starburst[1/1]: L6 Fire/Cj spell that fires a bolt of fire in all 8 directions. New in 0.25.
+2020-03-25 21:20:45	Psymania	??ignition
+2020-03-25 21:20:45	Sequell	ignition[1/1]: Level 8 Fire spell that drops a fireball-like explosion on every hostile monster in LOS (except {firewood} and tentacle segments). The explosions can't hurt the player or allies. Replaces Delayed Fireball in 0.20. Damage per explosion is 3d(3.33+power/9).
+2020-03-25 21:21:01	Psymania	okay I'm tossing Starburst
+2020-03-25 21:21:55	grmr	if the dungeon doesn't give me one I keep a flail
+2020-03-25 21:23:56	Cheibriados	gammafunk * 0.25-a0-665-ga69d640: Prevent felid revival in isolated Gauntlet areas (38 minutes ago, 1 file, 13+ 9-) https://github.com/crawl/crawl/commit/a69d64035b8a
+2020-03-25 21:30:35	Psymania	Damn it orange brain, my intellect isn't your dinner
+2020-03-25 21:30:54	ConBadger	is there a way to id a vault?
+2020-03-25 21:32:33	Psymania	I think you find it in your morgue file somewhere?
+2020-03-25 21:33:18	ConBadger	Ah yeah, I found it there. Minmay killed me with a stupidly hard vault. Just wave after wave after wave of enemies, a lot of which were red difficulty
+2020-03-25 21:33:27	Psymania	"You have identified the last amulet. It is an amulet of magic regeneration."
+2020-03-25 21:33:38	Psymania	If it's not an amulet with *two* ring-equippable fingers on it instead of just one, I don't want it :D
+2020-03-25 21:34:06	Psymania	ConBadger, Minmay, as in player ghost?
+2020-03-25 21:34:19	ConBadger	Minmay made the vault, it was a huge vault
+2020-03-25 21:35:08	ConBadger	I mean, I should have run away I guess, but damn, it was nuts
+2020-03-25 21:35:52	Psymania	oh
+2020-03-25 21:36:00	Psymania	was it rune-locked?
+2020-03-25 21:36:05	ConBadger	no
+2020-03-25 21:36:12	Psymania	that's kind of fucked
+2020-03-25 21:36:34	ConBadger	bunch of small rooms with white walls, 1x2 or 2x2, just nonstop enemies
+2020-03-25 21:36:39	Psymania	Okay, gonna quit putting of Dis now
+2020-03-25 21:36:41	Psymania	off*
+2020-03-25 21:38:33	grmr	??ringmail
+2020-03-25 21:38:33	Sequell	ringmail ~ ring mail[1/1]: 5AC, 7ER.
+2020-03-25 21:38:52	grmr	??scale
+2020-03-25 21:38:52	Sequell	scale ~ scales[1/2]: A group of resistance-related scales mutations. Includes molten scales (rF+), icy blue scales (rC+), yellow scales (rCorr), green scales (rPois), or metallic scales (rElec). The resistance is gained at mutation level 3. Different colours have different levels of AC, and some colours don't give a resistance.
+2020-03-25 21:39:01	grmr	??scalemail
+2020-03-25 21:39:01	Sequell	scalemail ~ scale mail[1/1]: 6AC, 10 ER.
+2020-03-25 21:39:54	Psymania	my stealth has gotten ridiculous...seven +'s, eight if I have my dagger wielded
+2020-03-25 21:39:59	Psymania	that's in plate armour
+2020-03-25 21:40:11	Psymania	makes part of me feel like I should be wearing shadow scales
+2020-03-25 21:40:16	Psymania	but this plate armour is too good
+2020-03-25 21:46:55	-->	Rjs (~user@kekkonen.niksula.hut.fi) hat den Channel ##crawl betreten
+2020-03-25 21:47:24	<--	rabbit_ (~rabbit@lfbn-mon-1-1470-175.w92-167.abo.wanadoo.fr) hat den IRC verlassen (Ping timeout: 246 seconds)
+2020-03-25 21:49:05	Psymania	gripe: If a "turn" is a player action, and not a unit of time, then "turn" is being used incorrectly on the % screen for HP and MP regen. I'm quite sure that's talking about per 10 auts, or per 1.0 unnamed unit of time, and not per player action
+2020-03-25 21:50:20	thrig	time management is a bit tricky
+2020-03-25 21:51:54	Psymania	But really, it's an inconsistency/contradiction all within a single screen...at the top of the % screen it says "Turns: " and then the number of actions you have done so far, which is different than the amount of game *time* that has elapsed
+2020-03-25 21:52:10	Psymania	and in the bottom left of that very same screen, it uses the word "turn" to refer to a 10-aut period (right?)
+2020-03-25 21:53:05	UnknownUser	why are speedruns done on turns and not aut? aut makes way more sense to me. also bread-swinging is silly.
+2020-03-26 09:00:33	-->	dewowzer (dewowzer@gateway/vpn/protonvpn/dewowzer) hat den Channel ##crawl betreten
+2020-03-26 09:00:33	--	Das Thema von ##crawl lautet: "Play Dungeon Crawl Stone Soup online now! Type ??servers for instructions. | http://crawl.develz.org | FooTV: http://termcast.develz.org - ??footv for instructions | See also ##crawl-offtopic"
+2020-03-26 09:00:33	--	Thema wurde festgelegt von advil (~advil@tomenet.skepticalfamily.com) am Do, 02 Aug 2018 20:13:20
+2020-03-26 09:00:33	--	Channel ##crawl: 102 Nicks (1 Operator, 0 ge-voice-te, 101 normale)
+2020-03-26 09:00:35	--	Channel erstellt am Sa, 02 Dez 2006 01:01:58
+2020-03-26 09:04:06	Psymania	FoFi
+2020-03-26 09:04:13	Psymania	there should be a god named Fum
+2020-03-26 09:04:26	Psymania	and a character called Fe, FoFi^Fum
+2020-03-26 09:06:26	<--	NitrousPG (~Nitrous@2a01:4f8:141:6006::2) hat den IRC verlassen (*.net *.split)
+2020-03-26 09:06:26	<--	yxhuvud (~quassel@2001:1ba8:1424:ea00:a03a:b0c0:efb5:d8c1) hat den IRC verlassen (*.net *.split)
+2020-03-26 09:06:26	<--	krator44 (~krator44@unaffiliated/krator44) hat den IRC verlassen (*.net *.split)
+2020-03-26 09:06:26	<--	EuphOria (~Euph0ria@2600:8804:3f05:200:6d49:20de:2949:c4ad) hat den IRC verlassen (*.net *.split)
+2020-03-26 09:06:26	<--	behalebabo (~behalebab@unaffiliated/behalebabo) hat den IRC verlassen (*.net *.split)
+2020-03-26 09:06:26	<--	misha (sid11718@lykos/werekitten) hat den IRC verlassen (*.net *.split)
+2020-03-26 09:06:36	-->	xyhuvud (~quassel@2001:1ba8:1424:ea00:7090:7e4c:8c4a:1c01) hat den Channel ##crawl betreten
+2020-03-26 09:06:45	-->	misha (sid11718@lykos/werekitten) hat den Channel ##crawl betreten
+2020-03-26 09:07:11	-->	EuphOria (~Euph0ria@2600:8804:3f05:200:6d49:20de:2949:c4ad) hat den Channel ##crawl betreten
+2020-03-26 09:07:53	-->	NitrousPG (~Nitrous@2a01:4f8:141:6006::2) hat den Channel ##crawl betreten
+2020-03-26 09:07:59	-->	krator44 (~krator44@unaffiliated/krator44) hat den Channel ##crawl betreten
+2020-03-26 09:13:08	-->	joemaro (~joemaro@31.221.174.131) hat den Channel ##crawl betreten
+2020-03-26 09:17:56	<--	joemaro (~joemaro@31.221.174.131) hat den IRC verlassen (Read error: Connection reset by peer)
+2020-03-26 09:37:35	-->	Raichvent (~Raichvent@sb-217-129-112-18.netvisao.pt) hat den Channel ##crawl betreten
+2020-03-26 09:51:43	<--	eki (~eki@dsl-hkibng41-54f858-46.dhcp.inet.fi) hat den IRC verlassen (Quit: leaving)
+2020-03-26 09:57:29	-->	eki (~eki@dsl-hkibng41-54f858-46.dhcp.inet.fi) hat den Channel ##crawl betreten
+2020-03-26 10:05:08	-->	rabbit_ (~rabbit@lfbn-mon-1-1470-175.w92-167.abo.wanadoo.fr) hat den Channel ##crawl betreten
+2020-03-26 10:40:12	<--	krator44 (~krator44@unaffiliated/krator44) hat den IRC verlassen (Quit: --)
+2020-03-26 10:40:27	-->	krator44 (~krator44@unaffiliated/krator44) hat den Channel ##crawl betreten
+2020-03-26 11:28:27	--	irc: Vom Server getrennt!
+2020-03-26 11:28:52	-->	dewowzer (dewowzer@gateway/vpn/protonvpn/dewowzer) hat den Channel ##crawl betreten
+2020-03-26 11:28:52	--	Das Thema von ##crawl lautet: "Play Dungeon Crawl Stone Soup online now! Type ??servers for instructions. | http://crawl.develz.org | FooTV: http://termcast.develz.org - ??footv for instructions | See also ##crawl-offtopic"
+2020-03-26 11:28:52	--	Thema wurde festgelegt von advil (~advil@tomenet.skepticalfamily.com) am Do, 02 Aug 2018 20:13:20
+2020-03-26 11:28:53	--	Channel ##crawl: 104 Nicks (1 Operator, 0 ge-voice-te, 103 normale)
+2020-03-26 11:28:53	--	Channel erstellt am Sa, 02 Dez 2006 01:01:58
+2020-03-26 11:34:34	-->	Postquell (~Postquell@114.23.142.137) hat den Channel ##crawl betreten
+2020-03-26 11:34:53	<--	Postquell (~Postquell@114.23.142.137) hat den IRC verlassen (Remote host closed the connection)
+2020-03-26 11:35:21	-->	Postquell (~Postquell@114.23.142.137) hat den Channel ##crawl betreten
+2020-03-26 11:35:49	<--	Postquell (~Postquell@114.23.142.137) hat den IRC verlassen (Remote host closed the connection)
+2020-03-26 11:36:04	-->	Postquell (~Postquell@114.23.142.137) hat den Channel ##crawl betreten
+2020-03-26 11:52:19	Postquell	Ge0ff the Cardsharp (L27 DrMo) worshipper of Nemelex Xobeh, escaped with the Orb and 3 runes!, with 1617958 points after 80660 turns and 04:23:08. [CXC 0.25-a0]
+2020-03-26 11:53:23	Amnesiac	can be a fefe^fed
+2020-03-26 11:54:54	<--	joemaro (~joemaro@137.red-95-124-18.dynamicip.rima-tde.net) hat den IRC verlassen (Ping timeout: 240 seconds)
+2020-03-26 12:03:44	grmr	covfe^fed ?
+2020-03-26 12:04:21	<--	mys (~mys@gateway/tor-sasl/mys) hat den IRC verlassen (Remote host closed the connection)
+2020-03-26 12:09:37	-->	mys (~mys@gateway/tor-sasl/mys) hat den Channel ##crawl betreten
+2020-03-26 12:19:38	Postquell	cheonsa the Slayer (L27 TrEE) worshipper of Cheibriados, escaped with the Orb and 4 runes!, with 2435978 points after 70281 turns and 06:09:14. [CXC 0.24.1]
+2020-03-26 12:26:16	-->	joemaro (~joemaro@137.red-95-124-18.dynamicip.rima-tde.net) hat den Channel ##crawl betreten
+2020-03-26 12:44:29	-->	Fixer (~quassel@unaffiliated/fixer) hat den Channel ##crawl betreten
+2020-03-26 13:17:16	<--	krator44 (~krator44@unaffiliated/krator44) hat den IRC verlassen (Quit: --)
+2020-03-26 13:17:34	-->	krator44 (~krator44@unaffiliated/krator44) hat den Channel ##crawl betreten
+2020-03-26 13:18:05	<--	krator44 (~krator44@unaffiliated/krator44) hat den IRC verlassen (Client Quit)
+2020-03-26 13:18:23	-->	krator44 (~krator44@unaffiliated/krator44) hat den Channel ##crawl betreten
+2020-03-26 13:19:04	<--	krator44 (~krator44@unaffiliated/krator44) hat den IRC verlassen (Client Quit)
+2020-03-26 13:19:23	-->	krator44 (~krator44@unaffiliated/krator44) hat den Channel ##crawl betreten
+2020-03-26 13:20:23	<--	krator44 (~krator44@unaffiliated/krator44) hat den IRC verlassen (Max SendQ exceeded)
+2020-03-26 13:20:44	-->	krator44 (~krator44@unaffiliated/krator44) hat den Channel ##crawl betreten
+2020-03-26 13:21:45	<--	krator44 (~krator44@unaffiliated/krator44) hat den IRC verlassen (Max SendQ exceeded)
+2020-03-26 13:22:07	-->	krator44 (~krator44@unaffiliated/krator44) hat den Channel ##crawl betreten
+2020-03-26 13:22:44	<--	krator44 (~krator44@unaffiliated/krator44) hat den IRC verlassen (Max SendQ exceeded)
+2020-03-26 13:23:13	-->	krator44 (~krator44@unaffiliated/krator44) hat den Channel ##crawl betreten
+2020-03-26 13:24:28	<--	krator44 (~krator44@unaffiliated/krator44) hat den IRC verlassen (Max SendQ exceeded)
+2020-03-26 13:25:03	-->	krator44 (~krator44@unaffiliated/krator44) hat den Channel ##crawl betreten
+2020-03-26 13:26:02	<--	krator44 (~krator44@unaffiliated/krator44) hat den IRC verlassen (Max SendQ exceeded)
+2020-03-26 13:26:25	-->	krator44 (~krator44@unaffiliated/krator44) hat den Channel ##crawl betreten
+2020-03-26 13:26:34	-->	Chryslos (~Buhnonymo@2605:a000:71cd:7f00:384d:6d03:903b:9e9c) hat den Channel ##crawl betreten
+2020-03-26 13:27:00	<--	krator44 (~krator44@unaffiliated/krator44) hat den IRC verlassen (Max SendQ exceeded)
+2020-03-26 13:27:31	-->	krator44 (~krator44@unaffiliated/krator44) hat den Channel ##crawl betreten
+2020-03-26 13:48:24	-->	ektor (~Ektor@35.1.5.109.rev.sfr.net) hat den Channel ##crawl betreten
+2020-03-26 13:52:33	-->	jfcaron (~jfcaron@unaffiliated/jfcaron) hat den Channel ##crawl betreten
+2020-03-26 22:38:15	--	irc: Vom Server getrennt!
+2020-03-26 22:39:18	-->	dewowzer (~dewowzer@x4db77d96.dyn.telefonica.de) hat den Channel ##crawl betreten
+2020-03-26 22:39:18	--	Das Thema von ##crawl lautet: "Play Dungeon Crawl Stone Soup online now! Type ??servers for instructions. | http://crawl.develz.org | FooTV: http://termcast.develz.org - ??footv for instructions | See also ##crawl-offtopic"
+2020-03-26 22:39:18	--	Thema wurde festgelegt von advil (~advil@tomenet.skepticalfamily.com) am Do, 02 Aug 2018 20:13:20
+2020-03-26 22:39:18	--	Channel ##crawl: 111 Nicks (1 Operator, 0 ge-voice-te, 110 normale)
+2020-03-26 22:39:18	--	Channel erstellt am Sa, 02 Dez 2006 01:01:58
+2020-03-26 22:39:19	dog_star	it's a gozag vault with stores in the vaults
+2020-03-26 22:39:57	Pinkbeast	grmr: You were not trying to use a wand of clouds; you were trying to use a phantom mirror.
+2020-03-26 22:40:02	Amnesiac	well yeah, now that I think about it, the stores near gozag altars often have ridicuous prices
+2020-03-26 22:40:10	Pinkbeast	And you can't phantom mirror a spellcasting enemy with Trog.
+2020-03-26 22:40:22	grmr	aaah
+2020-03-26 22:40:26	Amnesiac	wow
+2020-03-26 22:40:26	grmr	OK
+2020-03-26 22:40:35	grmr	fat fingers, I thought I was using a wand
+2020-03-26 22:40:37	Amnesiac	arigato sensei
+2020-03-26 22:40:42	dog_star	yeah, there was a gozag store early in the dungeon that had a great cape that i will probably be able to use by zot 
+2020-03-26 22:40:51	dog_star	s/use/afford
+2020-03-26 22:41:09	grmr	btw, do you think my character might be able to get out of the abyss ?
+2020-03-26 22:41:43	dog_star	using teleport scrolls liberally will give you a better shot
+2020-03-26 22:41:44	Pinkbeast	Any character can get lucky and get out.
+2020-03-26 22:42:47	Amnesiac	if you have a low experience level and a high stealth level you can walk out pretty safely I think
+2020-03-26 22:43:51	grmr	i've got low stealth
+2020-03-27 15:04:34	--	irc: Vom Server getrennt!
+2020-03-27 15:05:02	-->	dewowzer (dewowzer@gateway/vpn/protonvpn/dewowzer) hat den Channel ##crawl betreten
+2020-03-27 15:05:02	--	Das Thema von ##crawl lautet: "Play Dungeon Crawl Stone Soup online now! Type ??servers for instructions. | http://crawl.develz.org | FooTV: http://termcast.develz.org - ??footv for instructions | See also ##crawl-offtopic"
+2020-03-27 15:05:02	--	Thema wurde festgelegt von advil (~advil@tomenet.skepticalfamily.com) am Do, 02 Aug 2018 20:13:20
+2020-03-27 15:05:02	--	Channel ##crawl: 105 Nicks (1 Operator, 0 ge-voice-te, 104 normale)
+2020-03-27 15:05:02	--	Channel erstellt am Sa, 02 Dez 2006 01:01:58
+2020-03-27 15:07:24	-->	joemaro (~joemaro@46.222.47.170) hat den Channel ##crawl betreten
+2020-03-27 15:25:56	-->	Postquell (~Postquell@114.23.142.137) hat den Channel ##crawl betreten
+2020-03-27 15:28:38	Postquell	Paroid the Eclecticist (L27 DgSu), escaped with the Orb and 3 runes!, with 1549075 points after 97562 turns and 10:01:32. [CBRO 0.25-a0]
+2020-03-27 15:30:05	Postquell	PaperRat the Evangelist (L27 HOWn) worshipper of Beogh, escaped with the Orb and 4 runes!, with 2130459 points after 87099 turns and 13:20:54. [CXC 0.25-a0]
+2020-03-27 15:43:54	Postquell	Rudriger (L27 DECj) left a ziggurat at level 27. (Zig:27) [CUE 0.24.1]
+2020-03-27 15:48:38	<--	joemaro (~joemaro@46.222.47.170) hat den IRC verlassen (Read error: No route to host)
+2020-03-27 15:50:59	-->	joemaro (~joemaro@46.222.47.170) hat den Channel ##crawl betreten
+2020-03-27 15:52:11	<--	joemaro (~joemaro@46.222.47.170) hat den IRC verlassen (Read error: No route to host)
+2020-03-27 15:54:40	<--	ektor (~Ektor@35.1.5.109.rev.sfr.net) hat den IRC verlassen (Quit: leaving)
+2020-03-27 15:55:14	-->	ektor (~Ektor@35.1.5.109.rev.sfr.net) hat den Channel ##crawl betreten
+2020-03-27 17:41:19	--	irc: Vom Server getrennt!
+2020-03-27 17:41:46	-->	dewowzer (~dewowzer@37.120.217.165) hat den Channel ##crawl betreten
+2020-03-27 17:41:46	--	Das Thema von ##crawl lautet: "Play Dungeon Crawl Stone Soup online now! Type ??servers for instructions. | http://crawl.develz.org | FooTV: http://termcast.develz.org - ??footv for instructions | See also ##crawl-offtopic"
+2020-03-27 17:41:46	--	Thema wurde festgelegt von advil (~advil@tomenet.skepticalfamily.com) am Do, 02 Aug 2018 20:13:20
+2020-03-27 17:41:46	--	Channel ##crawl: 107 Nicks (1 Operator, 0 ge-voice-te, 106 normale)
+2020-03-27 17:41:46	--	Channel erstellt am Sa, 02 Dez 2006 01:01:58
+2020-03-27 17:42:21	dog_star	thrig: omg incredible, i was wondering if people had been doing this
+2020-03-27 17:42:59	dog_star	lmao https://i.imgur.com/ktYKkl8.jpg
+2020-03-27 17:43:19	jfcaron	Punk is one of the best weapons in the game btw.
+2020-03-27 17:43:40	rabbit_	Selles-sur-Cher
+2020-03-27 17:43:47	thrig	well you could defend against it by making the seed larger, or by having the combat system use a different seed from the "make the dungeon" seed
+2020-03-27 17:43:48	dog_star	yeah i think once my gnoll gets to mindelay with it it'll be extremely good 
+2020-03-27 17:44:03	dog_star	because it's already quite good
+2020-03-27 17:45:02	dog_star	the only thing i'm not sure about is sling bullet supply
+2020-03-27 17:45:18	dog_star	i know there's absurd bolts in the vaults and arrows in the dungeon/depths in general
+2020-03-27 17:45:28	dog_star	haven't paid attention to sling bullets before
+2020-03-27 17:45:45	rabbit_	tons 
+2020-03-27 17:46:03	jfcaron	Use stones for easy mobs, switch to bullets for anything yellow or above.
+2020-03-27 17:46:08	jfcaron	If you feel the need to conserve.
+2020-03-27 17:46:42	dog_star	yeah that's the plan i've been working with 
+2020-03-27 17:51:01	dog_star	and just got portal projectile too
+2020-03-27 17:51:04	dog_star	incoming acid rain
+2020-03-27 17:52:48	jfcaron	My SpWp win was with Punk+PProj
+2020-03-27 17:53:02	jfcaron	!log . won SpWp
+2020-03-27 17:53:03	Sequell	No keyword 'SpWp'
+2020-03-27 17:53:10	jfcaron	!lg . won SpWp
+2020-03-27 17:53:11	Sequell	No keyword 'SpWp'
+2020-03-27 17:53:14	Postquell	Gerad the Slayer (L27 TeWn) worshipper of Ru, escaped with the Orb and 3 runes!, with 1846425 points after 58774 turns and 02:53:09. [CAO 0.25-a0]
+2020-03-27 17:53:16	jfcaron	!wtf SpWp
+2020-03-27 17:53:16	Sequell	Unemployed Spriggan
+2020-03-27 17:53:20	jfcaron	!wtf SpWr
+2020-03-27 17:53:20	Sequell	Spriggan Warper
+2020-03-27 17:53:24	jfcaron	Oh
+2020-03-27 17:53:28	jfcaron	!lg . won SpWr
+2020-03-27 17:53:29	Sequell	1. jfcaron the Intangible (L27 SpWr of Hepliaklqana), escaped with the Orb and 3 runes on 2019-10-22 03:18:21, with 1627817 points after 81305 turns and 11:07:39.
+2020-03-27 17:53:36	jfcaron	!lg . won SpWr log
+2020-03-27 17:53:37	Sequell	1. jfcaron, XL27 SpWr, T:81305: http://crawl.berotato.org/crawl/morgue/jfcaron/morgue-jfcaron-20191022-031821.txt
+2020-03-27 17:54:04	jfcaron	Punk, Warlock's Mirror, enchantress' faerie dragon scales, Amulet of the Four Winds, lol.
+2020-03-27 17:55:43	<--	Raichvent (~Raichvent@sb-217-129-112-18.netvisao.pt) hat den IRC verlassen (Remote host closed the connection)
+2020-03-27 17:55:55	-->	Raichvent (~Raichvent@sb-217-129-112-18.netvisao.pt) hat den Channel ##crawl betreten
+2020-03-27 17:57:48	dog_star	"Unemployed Spriggan" lol
+2020-03-27 17:58:09	dog_star	wow nice faerie dragon scales too
+2020-03-27 17:58:16	dog_star	SpWr sounds like a fun combo
+2020-03-27 17:58:41	jfcaron	Yeah it was fun
+2020-03-27 17:59:32	dog_star	 ??order
+2020-03-27 17:59:33	Sequell	hyperelliptic[1/2]: Lair -> D:12 -> Orc -> D:15 -> S:3 -> maybe other S:3 -> maybe Elf:1-2 -> get one S rune -> Vaults:4 -> get second S rune -> maybe Crypt -> Depths:5 -> get three runes -> Zot ("S" means Shoals/Snake/Spider/Swamp)
+2020-03-27 17:59:34	dog_star	 ??order[2
+2020-03-27 17:59:35	Sequell	sorear[6/7]: Do the closest level that you can handle. Use your brain.
+2020-03-27 17:59:48	dog_star	 ??order[3
+2020-03-27 17:59:48	Sequell	I don't have a page labeled order[3] in my learndb.
+2020-03-27 18:00:44	<--	ektor (~Ektor@35.1.5.109.rev.sfr.net) hat den IRC verlassen (Quit: leaving)
+2020-03-27 18:08:51	Postquell	sirser the Slayer (L26 OpCK) worshipper of Okawaru, escaped with the Orb and 3 runes!, with 1674724 points after 66667 turns and 01:56:51. [CUE 0.25-a0]
+2020-03-27 18:14:15	jfcaron	??sorear
+2020-03-27 18:14:15	Sequell	sorear[1/7]: Compulsive abbreviator
+2020-03-27 18:14:23	jfcaron	??sorear[2
+2020-03-27 18:14:23	Sequell	sorear[2/7]: Has been known to attempt to kill liches with a butchering tool
+2020-03-27 18:14:30	jfcaron	??sorear[3
+2020-03-27 18:14:30	Sequell	sorear[3/7]: Used to not be one, but after years of pretending to be, even dpeg is now fooled and "accidentally" gave him a commit bit.
+2020-03-27 18:14:40	jfcaron	??sorear[4
+2020-03-27 18:14:41	Sequell	sorear[4/7]: Is apparently a god, judging from the existance of {sorear_wrath}
+2020-03-27 18:14:50	jfcaron	??sorear wrath
+2020-03-27 18:14:50	Sequell	sorear wrath[1/1]: ABANDONMENT: doesn't care. MISREADING SOMETHING: 500 penance. RETRIBUTION: (severity/2)% chance of cruel, derisive mockery.
+2020-03-27 18:25:36	-->	joemaro (~joemaro@37.29.157.36) hat den Channel ##crawl betreten
+2020-03-27 18:26:44	Postquell	jt the Sorcerer (L27 DEIE) worshipper of Gozag, escaped with the Orb and 4 runes!, with 1843435 points after 117008 turns and 09:03:04. [CXC 0.25-a0]
+2020-03-27 18:30:08	joemaro	asterion, frederick and sojobo in one berserk ... nice
+2020-03-28 09:25:44	--	irc: Vom Server getrennt!
+2020-03-28 09:26:13	-->	dewowzer (dewowzer@gateway/vpn/protonvpn/dewowzer) hat den Channel ##crawl betreten
+2020-03-28 09:26:13	--	Das Thema von ##crawl lautet: "Play Dungeon Crawl Stone Soup online now! Type ??servers for instructions. | http://crawl.develz.org | FooTV: http://termcast.develz.org - ??footv for instructions | See also ##crawl-offtopic"
+2020-03-28 09:26:13	--	Thema wurde festgelegt von advil (~advil@tomenet.skepticalfamily.com) am Do, 02 Aug 2018 20:13:20
+2020-03-28 09:26:13	--	Channel ##crawl: 103 Nicks (1 Operator, 0 ge-voice-te, 102 normale)
+2020-03-28 09:26:13	--	Channel erstellt am Sa, 02 Dez 2006 01:01:58
+2020-03-28 09:30:35	-->	joemaro (~joemaro@183.red-2-142-182.dynamicip.rima-tde.net) hat den Channel ##crawl betreten
+2020-03-28 09:40:51	<--	barmaley (~barmaley@94.228.207.217) hat den IRC verlassen (Quit: Leaving)
+2020-03-28 09:53:43	<--	joemaro (~joemaro@183.red-2-142-182.dynamicip.rima-tde.net) hat den IRC verlassen (Remote host closed the connection)
+2020-03-28 09:59:46	--	Amnesiac_ ist nun als Amnesiac bekannt
+2020-03-28 11:07:35	--	irc: Vom Server getrennt!
+2020-03-28 11:08:02	-->	dewowzer (dewowzer@gateway/vpn/protonvpn/dewowzer) hat den Channel ##crawl betreten
+2020-03-28 11:08:02	--	Das Thema von ##crawl lautet: "Play Dungeon Crawl Stone Soup online now! Type ??servers for instructions. | http://crawl.develz.org | FooTV: http://termcast.develz.org - ??footv for instructions | See also ##crawl-offtopic"
+2020-03-28 11:08:02	--	Thema wurde festgelegt von advil (~advil@tomenet.skepticalfamily.com) am Do, 02 Aug 2018 20:13:20
+2020-03-28 11:08:02	--	Channel ##crawl: 102 Nicks (1 Operator, 0 ge-voice-te, 101 normale)
+2020-03-28 11:08:02	--	Channel erstellt am Sa, 02 Dez 2006 01:01:58
+2020-03-28 11:50:16	--	irc: Vom Server getrennt!
+2020-03-28 11:50:42	-->	dewowzer (~dewowzer@37.120.217.165) hat den Channel ##crawl betreten
+2020-03-28 11:50:42	--	Das Thema von ##crawl lautet: "Play Dungeon Crawl Stone Soup online now! Type ??servers for instructions. | http://crawl.develz.org | FooTV: http://termcast.develz.org - ??footv for instructions | See also ##crawl-offtopic"
+2020-03-28 11:50:42	--	Thema wurde festgelegt von advil (~advil@tomenet.skepticalfamily.com) am Do, 02 Aug 2018 20:13:20
+2020-03-28 11:50:42	--	Channel ##crawl: 103 Nicks (1 Operator, 0 ge-voice-te, 102 normale)
+2020-03-28 11:50:42	--	Channel erstellt am Sa, 02 Dez 2006 01:01:58
+2020-03-28 11:54:27	-->	Frederic (~frdrc@2a02:908:2e36:900:94b5:33c4:db63:b63d) hat den Channel ##crawl betreten
+2020-03-28 12:03:45	<--	TAS_2012v (~2012@c188-151-62-253.bredband.comhem.se) hat den IRC verlassen (Read error: Connection reset by peer)
+2020-03-28 12:04:04	-->	TAS_2012v (~2012@c188-151-62-253.bredband.comhem.se) hat den Channel ##crawl betreten
+2020-03-28 12:11:46	<--	rabbit_ (~rabbit@lfbn-mon-1-1470-175.w92-167.abo.wanadoo.fr) hat den IRC verlassen (Ping timeout: 256 seconds)
+2020-03-28 15:45:53	--	irc: Vom Server getrennt!
+2020-03-28 15:46:19	-->	dewowzer (~dewowzer@37.120.217.163) hat den Channel ##crawl betreten
+2020-03-28 15:46:19	--	Das Thema von ##crawl lautet: "Play Dungeon Crawl Stone Soup online now! Type ??servers for instructions. | http://crawl.develz.org | FooTV: http://termcast.develz.org - ??footv for instructions | See also ##crawl-offtopic"
+2020-03-28 15:46:19	--	Thema wurde festgelegt von advil (~advil@tomenet.skepticalfamily.com) am Do, 02 Aug 2018 20:13:20
+2020-03-28 15:46:19	--	Channel ##crawl: 105 Nicks (1 Operator, 0 ge-voice-te, 104 normale)
+2020-03-28 15:46:19	--	Channel erstellt am Sa, 02 Dez 2006 01:01:58
+2020-03-28 16:07:32	joemaro	finally won an ogre! yay!
+2020-03-28 16:10:08	joemaro	5 races left ...
+2020-03-28 16:13:40	tmass	good job
+2020-03-28 16:13:54	tmass	ogres are a little annoying to get off the ground
+2020-03-28 16:14:27	grmr	\o/
+2020-03-28 16:14:33	grmr	what background ?
+2020-03-28 16:14:39	joemaro	i did the easiest one i guess .... OgHu^Oka
+2020-03-28 16:15:02	joemaro	Orbs of fire are so easy with the silver javs
+2020-03-28 16:15:16	joemaro	great rocks are crazy when skill 27
+2020-03-28 16:16:10	joemaro	the thing about ogres is the armor ... once i got +11 golden dragon scales the rest was a LOT easier
+2020-03-28 16:17:09	joemaro	it's odd that you can only wear the light stuff that hardly gives any AC and then you can wear one of the best armors in the game ... odd gap
+2020-03-28 16:18:44	thrig	#crawlphysics
+2020-03-28 16:24:46	tmass	well, you can wear dragon armor which is not that uncommon
+2020-03-28 16:25:32	tmass	shield is more important though
+2020-03-28 16:26:18	joemaro	yea i guess you're right there tmass , they have quite some options that i wasn't considering there...
+2020-03-28 16:29:36	<--	joemaro (~joemaro@37.29.204.54) hat den IRC verlassen (Read error: Connection reset by peer)
+2020-03-28 16:36:21	grmr	gold dragon scales are so nice for tanky characters
+2020-03-28 16:36:44	grmr	even +0 gold dragon scales are nice, with a few scrolls of enchant armour it's scary effective
+2020-03-28 16:40:27	dog_star	_the +4 robe of Daffodils {*Drain rN++}
+2020-03-28 16:40:31	dog_star	a cute name for a robe i won't use
+2020-03-28 16:44:13	<--	flappity_ (~wolf@172-221-242-216.res.spectrum.com) hat den IRC verlassen (Read error: Connection reset by peer)
+2020-03-28 16:47:26	-->	joemaro (~joemaro@183.red-2-142-182.dynamicip.rima-tde.net) hat den Channel ##crawl betreten
+2020-03-28 18:05:23	--	irc: Vom Server getrennt!
+2020-03-28 18:05:52	-->	dewowzer (~dewowzer@37.120.217.165) hat den Channel ##crawl betreten
+2020-03-28 18:05:52	--	Das Thema von ##crawl lautet: "Play Dungeon Crawl Stone Soup online now! Type ??servers for instructions. | http://crawl.develz.org | FooTV: http://termcast.develz.org - ??footv for instructions | See also ##crawl-offtopic"
+2020-03-28 18:05:52	--	Thema wurde festgelegt von advil (~advil@tomenet.skepticalfamily.com) am Do, 02 Aug 2018 20:13:20
+2020-03-28 18:05:52	--	Channel ##crawl: 106 Nicks (1 Operator, 0 ge-voice-te, 105 normale)
+2020-03-28 18:05:52	--	Channel erstellt am Sa, 02 Dez 2006 01:01:58
+2020-03-28 18:11:21	-->	gammafunk (~gammafunk@ics133-97.icsincorporated.com) hat den Channel ##crawl betreten
+2020-03-28 18:16:56	-->	tonehack (~greqrg@050-089-182-236.res.spectrum.com) hat den Channel ##crawl betreten
+2020-03-28 18:22:54	dog_star	a daeva, wielding a +3 eudemon blade of holy wrath and wearing the cursed -11 large shield of the Forest {rCorr Dex+4 Stlth+} (haloed)
+2020-03-28 18:23:02	dog_star	all suited up to fight the unholy
+2020-03-28 18:24:25	jfcaron	Minus 11?
+2020-03-28 18:24:30	jfcaron	??large shield
+2020-03-28 18:24:30	Sequell	large shield[1/1]: A big {shield}. SH 13, EV -5.
+2020-03-28 18:24:33	dog_star	yeah
+2020-03-28 18:24:37	jfcaron	That means it has less SH than a buckler.
+2020-03-28 18:24:39	dog_star	worse than a buckler
+2020-03-28 18:24:40	dog_star	lmao
+2020-03-28 18:25:00	jfcaron	The bonus from high Shields skill might make it better than buckler, but then EV-5 too, lol.
+2020-03-28 18:25:17	jfcaron	I'm agonizing over purchases in a Bazaar.
+2020-03-28 18:25:55	jfcaron	There's a ring of {rElec rPois Int+8 Dex+3 Stlth-} which normally would be amazing, but I am a Statue Form guy so rElec and rPois are meaningless.  Is Int+8 worth it?
+2020-03-28 18:26:23	dog_star	uh depends on your build but i would say so
+2020-03-28 18:26:30	dog_star	i would love some stuff with big int bonuses rn
+2020-03-28 18:29:06	jfcaron	Oh god there is an armour shop on Vaults 2 that is behind some diggable statues, but I sacrificed artifice to Ru.
+2020-03-28 18:29:26	jfcaron	I don't have random blink.
+2020-03-28 18:30:51	dog_star	does shatter destroy shops?
+2020-03-28 18:31:21	Pinkbeast	dog_star: No.
+2020-03-28 18:31:42	jfcaron	No shatter in my game so far, and no blink spell.
+2020-03-28 18:31:42	dog_star	i guess you could shatter your way into it at some point, then :p 
+2020-03-28 18:31:56	jfcaron	oh wait..can I Ru power leap past a satue?
+2020-03-28 18:32:03	Pinkbeast	Especially with Int+8
+2020-03-28 18:32:05	jfcaron	I could use a blink scroll in, then teleport scroll out. =p
+2020-03-28 18:32:14	jfcaron	I didn't buy the +8 Int ring, and it was in a Bazaar.
+2020-03-28 18:32:25	jfcaron	But I have archmagi+staff+ring of wizardry.
+2020-03-28 18:32:48	jfcaron	Oh I can totally Ru power leap past these things, nice.
+2020-03-28 18:33:00	jfcaron	Another level had a stash behind glass walls though, so I'd still like shatter. =p
+2020-03-28 18:33:20	jfcaron	Armour shop has nothing this Ogre can wear except a +0 robe. ^_^
+2020-03-28 18:39:50	jfcaron	Oh shit Mennas.
+2020-03-28 18:39:53	jfcaron	He killed me last time.
+2020-03-28 18:41:54	jfcaron	I teleported away and he tracked me down while I was stuck with a Vault Guard and he got silence up.  So I YOLOed and quaffed berserk rage, killed him. ^_^
+2020-03-28 19:12:14	-->	Tiobot (Tiobot@31.135.152.101) hat den Channel ##crawl betreten
+2020-03-28 19:13:59	<--	Tiobot_ (Tiobot@31.135.137.129) hat den IRC verlassen (Ping timeout: 252 seconds)
+2020-03-28 19:18:13	dog_star	if i'm trying to scum the abyss for potions of mutation, does it matter what level i'm on? like does rarer loot spawn more frequently deeper in the abyss?
+2020-03-28 19:18:23	dog_star	or does it only affect monster/exit/rune spawn rate?
+2020-03-28 19:23:53	Pinkbeast	??abyss scumming
+2020-03-28 19:23:53	Sequell	abyss scumming[1/1]: Doing this is a sure sign that you are playing like an idiot. Stop it.
+2020-03-28 19:24:30	Pinkbeast	... I'd probably stay on A:1 since the principal factor that would concern me is the chance of being overwhelmed and killed
+2020-03-28 19:25:02	Pinkbeast	In particular on A:3 and below you can get teleported into rune vaults with often-hilarious consequences.
+2020-03-28 19:25:49	Pinkbeast	dog_star: I guess you're a Zinnie?
+2020-03-28 19:26:02	dog_star	hahah
+2020-03-28 19:26:13	dog_star	no i'm just playing a ddfi of makhleb as a change of pace
+2020-03-28 19:26:22	dog_star	trying a kind of goofy build to see if it works
+2020-03-28 19:26:28	dog_star	i just want to stop having berserkitis
+2020-03-28 20:39:46	--	irc: Vom Server getrennt!
+2020-03-28 20:40:14	-->	dewowzer (dewowzer@gateway/vpn/protonvpn/dewowzer) hat den Channel ##crawl betreten
+2020-03-28 20:40:14	--	Das Thema von ##crawl lautet: "Play Dungeon Crawl Stone Soup online now! Type ??servers for instructions. | http://crawl.develz.org | FooTV: http://termcast.develz.org - ??footv for instructions | See also ##crawl-offtopic"
+2020-03-28 20:40:14	--	Thema wurde festgelegt von advil (~advil@tomenet.skepticalfamily.com) am Do, 02 Aug 2018 20:13:20
+2020-03-28 20:40:14	--	Channel ##crawl: 110 Nicks (1 Operator, 0 ge-voice-te, 109 normale)
+2020-03-28 20:40:14	--	Channel erstellt am Sa, 02 Dez 2006 01:01:58
+2020-03-28 20:45:33	jfcaron	ConBadger: try doing e.g. ??long blades, they are effectively sorted first by 1H, 2H, then by goodness.
+2020-03-28 20:45:48	ConBadger	ooh, thank you :D
+2020-03-28 20:46:16	jfcaron	But yes it's effecrtively the base damage.  Quick blades are an exception depending on the brand, sometimes they are better than rapiers, and daggers have a bonus to stabbing.
+2020-03-28 20:46:29	jfcaron	??maces
+2020-03-28 20:46:29	Sequell	maces & flails[1/2]: club (+3/5/1.3/0.6), whip (+2/6/1.1/0.5), hammer (+3/7/1.3/0.6), mace (+3/8/1.4/0.7), flail (+0/10/1.4/0.7), demon whip (+1/11/1.1/0.5), sacred scourge (+0/12/1.1/0.5), morningstar (-2/13/1.5/0.7), eveningstar (-1/15/1.5/0.7), dire flail (-3/13/1.3/0.6) [2], great mace (-4/17/1.7/0.7) [2], giant club (-6/20/1.7/0.7) [2], giant spiked club (-7/22/1.8/0.7) [2]
+2020-03-28 21:11:08	<--	AltReality (~noneya@99-57-74-231.lightspeed.frokca.sbcglobal.net) hat den IRC verlassen (Ping timeout: 256 seconds)
+2020-03-28 21:19:29	joemaro-	!rng yes no
+2020-03-28 21:19:29	Sequell	The RNG chooses: no.
+2020-03-28 21:19:34	joemaro-	thought so

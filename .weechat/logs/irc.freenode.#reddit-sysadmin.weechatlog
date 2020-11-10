@@ -1,0 +1,1025 @@
+2020-02-06 17:02:18	-->	dewowzer (dewowzer@gateway/vpn/protonvpn/dewowzer) hat den Channel #reddit-sysadmin betreten
+2020-02-06 17:02:18	--	Das Thema von #reddit-sysadmin lautet: ""Home of r/sysadmin | No Politics | Can't speak? Register! https://goo.gl/Pp1KQj | New? Try #reddit-sysadmin-support | /r/sysadmingaming | Keep it safe for work. | Don't post personal info."
+2020-02-06 17:02:18	--	Thema wurde festgelegt von ravioli (~ravioli@donger/pasta) am Fr, 24 Jan 2020 18:58:50
+2020-02-06 17:02:18	--	Channel #reddit-sysadmin: 500 Nicks (7 Operatoren, 15 ge-voice-te, 478 normale)
+2020-02-06 17:02:20	--	Channel erstellt am Do, 29 Dez 2011 19:56:36
+2020-02-06 17:02:23	Lysdexia	Never tried a thin mousepad, that could be quite nice :)
+2020-02-06 17:02:27	ihre	oh
+2020-02-06 17:02:31	ihre	the v2 is tacky as fuck though
+2020-02-06 17:02:45	ihre	unless you have 30k rgb leds in your case/mouse/keyboard/headset/???
+2020-02-06 17:03:05	<--	FizzMo (~FizzMo@142.93.1.204) hat den IRC verlassen (Quit: Lost terminal)
+2020-02-06 17:03:18	-->	FizzMo (~FizzMo@142.93.1.204) hat den Channel #reddit-sysadmin betreten
+2020-02-06 17:03:25	Alternity	rate my build https://pcpartpicker.com/list/ZdJbTC
+2020-02-06 17:03:54	ihre	are you going to OC?
+2020-02-06 17:04:00	+AnonymooseReddtr	250gb HDD is tiny
+2020-02-06 17:04:07	Kb03	really?
+2020-02-06 17:04:08	Hatter	Lysdexia: just a moment please, I'm on a conference call
+2020-02-06 17:04:38	Lysdexia	Not enough RGB Alternity, you'll see approximately 500fps less without it
+2020-02-06 17:04:49	Lysdexia	No worries Hatter :D
+2020-02-06 17:05:08	ihre	besides the gaming mobo, id say 4/7
+2020-02-06 17:05:08	Kb03	Lysdexia: 110% yes
+2020-02-06 17:05:13	Kb03	no RGB=not a gaming OC
+2020-02-06 17:05:15	Kb03	PC*
+2020-02-06 17:05:30	hxcsp	i bought an rgb keyboard
+2020-02-06 17:05:34	hxcsp	just so i could have a gaming pc
+2020-02-06 17:05:48	Kb03	i have RGB RAM, RGB Case, RGB Keyboard, RGB mouse, RGB headset stand
+2020-02-06 17:05:51	Kb03	RGB all the things
+2020-02-06 17:05:53	hxcsp	forget the gfx card, and overclocked cpu. the keyboard is what makes it
+2020-02-06 17:05:55	ihre	;_;
+2020-02-06 17:06:12	hxcsp	Kb03: how many upvotes do you have on /r/battlestations though?
+2020-02-06 17:06:13	Kb03	hxcsp: that's the truth
+2020-02-06 17:06:24	Kb03	I mean, I only have about 1500 karma total
+2020-02-06 17:06:24	Kb03	so
+2020-02-06 17:06:28	hxcsp	lol
+2020-02-06 17:06:39	Kb03	(plus mine looks like absolute ass_
+2020-02-06 17:06:41	Kb03	)*
+2020-02-06 17:07:12	ihre	thats great
+2020-02-06 17:07:14	ihre	ass = nice
+2020-02-06 17:07:24	ihre	well
+2020-02-06 17:07:27	Kb03	have you seen the crackheads that roam the streets
+2020-02-06 17:07:30	ihre	depending on the ass i'd say
+2020-02-06 17:07:51	Lysdexia	I didn't get a lot of votes for mine
+2020-02-06 17:07:59	-->	DomLS3 (~DomLS3@unaffiliated/domls3) hat den Channel #reddit-sysadmin betreten
+2020-02-06 17:07:59	--	Modus #reddit-sysadmin [+v DomLS3] durch ChanServ
+2020-02-06 17:08:54	Lysdexia	Am I allowed to link my reddit post?
+2020-02-06 17:09:10	ihre	did you pay your monthly #r-s fees?
+2020-02-06 17:09:20	Sousapro	lol
+2020-02-06 17:09:27	Lysdexia	Crap, I forgot
+2020-02-06 17:09:28	 *	Kb03 pirated #r-s
+2020-02-06 17:09:41	ihre	Kb03 youre a student
+2020-02-06 17:09:43	ihre	thats okay
+2020-02-06 17:09:54	int0x1C8	https://imgur.com/AEllQtb
+2020-02-06 17:09:59	int0x1C8	my mousepad
+2020-02-06 17:10:17	ihre	it already gives me a headache
+2020-02-06 17:10:24	Lysdexia	https://preview.redd.it/s8ttk7fa3nk21.jpg?width=640&crop=smart&auto=webp&s=a1ff6138918b68c772e4baa28df35ffddbcaad77
+2020-02-06 17:10:24	hxcsp	whats the equation
+2020-02-06 17:10:26	ihre	i dont understand any of it, fml
+2020-02-06 17:10:29	Lysdexia	My build
+2020-02-06 17:10:44	Lysdexia	First build, did it last year :)
+2020-02-06 17:10:48	int0x1C8	its just an identity for the logarithm of the gamma function
+2020-02-06 17:10:54	Kb03	man, I hate traffic analysis
+2020-02-06 17:10:57	Lysdexia	Had to do max rgb
+2020-02-06 17:11:31	Kb03	I have a self-hosted VPN at home to get around some of the web filtering and got dinged for suspicious traffic. Admin says nice try, find another way :/
+2020-02-06 17:11:44	DaDawg	It's actually Red Green Cyan
+2020-02-06 17:11:51	ihre	https://i.imgur.com/lcaVq.jpg but when closed https://i.imgur.com/6LhGK.jpg :p
+2020-02-06 17:12:00	ihre	cant see shit, no leds or whatever
+2020-02-06 17:12:06	Kb03	I have an rx580 :(
+2020-02-06 17:12:34	ihre	Kb03: ovpn on port 443 ?
+2020-02-06 17:12:47	DaDawg	yeah run it on https
+2020-02-06 17:12:51	DaDawg	unless they are doing DPI
+2020-02-06 17:12:52	-->	farmfromjakestat (~farmfromj@gateway/tor-sasl/farmfromjakestat) hat den Channel #reddit-sysadmin betreten
+2020-02-06 17:12:56	int0x1C8	lol, my home PC's case is too small, got an AIO water cooler hooked up to a huge double 140mm radiator
+2020-02-06 17:12:57	Kb03	they are doing SSL stripping and DPI
+2020-02-06 17:12:59	Kb03	so, yeah
+2020-02-06 17:13:03	DaDawg	well then you can't win
+2020-02-06 17:13:07	DaDawg	they are spying on your every move
+2020-02-06 17:13:20	int0x1C8	I had to cut through the back of the case to put the rad on top of the case
+2020-02-06 17:13:30	int0x1C8	its held down with electrical tape
+2020-02-06 17:13:38	Alternity	this is for a HTPC build
+2020-02-06 17:13:54	Alternity	with some light indie gaming probably
+2020-02-06 17:14:11	Alternity	i have another server that is serving media
+2020-02-06 17:14:16	ihre	int0x1C8: the large rad was also velcro'd in place :P
+2020-02-06 17:14:18	-->	Nutella_Hotdog (18d82c59@gateway/web/dev0.sh/ip.24.216.44.89) hat den Channel #reddit-sysadmin betreten
+2020-02-06 17:14:21	Alternity	so 250gb is enough space
+2020-02-06 17:14:23	Kb03	This is the provider we use https://www.iboss.com/education/
+2020-02-06 17:14:25	ihre	with a jar to support it on the other end :^)
+2020-02-06 17:14:26	Alternity	to install a few programs and games
+2020-02-06 17:14:30	Kb03	it's proxied through an AWS dc
+2020-02-06 17:14:39	Kb03	so I'm assuming it does a bit more than ssl stripping and DPI
+2020-02-06 17:15:17	int0x1C8	DAI
+2020-02-06 17:15:23	ihre	what about ... https://guacamole.apache.org/
+2020-02-06 17:15:25	int0x1C8	deep anal inspection
+2020-02-06 17:15:31	ihre	on some cheap vps
+2020-02-06 17:15:34	ihre	with a tunnel to your home
+2020-02-06 17:15:52	Kb03	I might actually use that
+2020-02-06 17:15:57	Kb03	but the latency is so bad
+2020-02-06 17:15:58	ihre	plenty of cloud providers give you free tiers/vouchers
+2020-02-06 17:16:09	ihre	easy to keep it free of charge
+2020-02-06 17:16:20	Kb03	Yeah, my IP is being proxied through 104.225.182.252
+2020-02-06 17:16:24	Kb03	which is a DC somewhere
+2020-02-06 17:16:49	Kb03	ihre: let me grab a speedtest
+2020-02-06 17:16:51	ihre	"zscaler" ugh
+2020-02-06 17:17:18	-->	interop_madness (~interop_m@unaffiliated/interop-madness/x-8858653) hat den Channel #reddit-sysadmin betreten
+2020-02-06 17:17:22	StrongBad	what speedtest are you using?
+2020-02-06 17:17:50	ihre	iperf over lan
+2020-02-06 17:17:51	+corn266	the speed mcqueen test
+2020-02-06 17:17:54	ihre	:D
+2020-02-06 17:18:12	StrongBad	yeah I was hoping he was gonna use iperf
+2020-02-06 17:18:14	Kb03	lol, the CROSH ping command doesn't even work
+2020-02-06 17:18:25	Kb03	StrongBad: this is a chromebook
+2020-02-06 17:18:37	Kb03	wait a minute
+2020-02-06 17:18:44	Kb03	I just realized they gave me termius
+2020-02-06 17:18:50	Kb03	which means I can port forward
+2020-02-06 17:18:51	Kb03	hmm
+2020-02-06 17:19:03	StrongBad	I think there are iperf apps for chrome
+2020-02-06 17:19:17	Kb03	but I'd need them to be whitelisted :)
+2020-02-06 17:19:18	MadCamel	if you can't ssh out and you're entirely behind a traffic inspecting tls inspecting proxy.. Tunnel over websocket. https://github.com/mhzed/wstunnel
+2020-02-06 17:19:30	Kb03	I can ssh out
+2020-02-06 17:19:33	MadCamel	so many web apps use websocket that there's a 99% chance it's not blocked.
+2020-02-06 17:19:36	MadCamel	oh.
+2020-02-06 17:19:53	ihre	oh that reminds me of https://github.com/AlexandreFenyo/vpn-over-dns
+2020-02-06 17:19:56	DimeCadmium	Kb03: you might be able to get away with hiding it as DNS? I expect there's something out there for that
+2020-02-06 17:20:18	ihre	https://github.com/Intika-VPN-OverDNS/iodine that one specifically
+2020-02-06 17:20:18	DimeCadmium	lol
+2020-02-06 17:20:24	DimeCadmium	nvm, jinx
+2020-02-06 17:20:30	ihre	:D
+2020-02-06 17:20:38	-->	gareppa (~gareppa@unaffiliated/gareppa) hat den Channel #reddit-sysadmin betreten
+2020-02-06 17:20:58	Kb03	Ooh, I can manually set DNS servers
+2020-02-06 17:21:05	Kb03	but the question is will it allow me to use them
+2020-02-06 17:21:06	MadCamel	dns tunneling works. But the speed leaves something to be desired. It's more for IRC on those flights that have paid wifi :)
+2020-02-06 17:21:14	ihre	also
+2020-02-06 17:21:15	ihre	https://blog.benjojo.co.uk/post/dns-filesystem-true-cloud-storage-dnsfs
+2020-02-06 17:21:18	ihre	:P
+2020-02-06 17:22:08	Kb03	Damn, DNS is locked via an extention
+2020-02-06 17:22:19	Kb03	and ofc the task manager is locked so I can't kill the pid
+2020-02-06 17:22:47	<--	shoh (92c832be@unaffiliated/shoh) hat den IRC verlassen (Ping timeout: 260 seconds)
+2020-02-06 17:22:55	DimeCadmium	MadCamel: well, the speed on those flights leaves something to be desired anyway :D
+2020-02-06 17:23:05	DimeCadmium	although I hear it's much better than it was last time I used it (in like 2012)
+2020-02-06 17:23:33	<--	kdc (~kdc@102.133.226.130) hat den IRC verlassen (Remote host closed the connection)
+2020-02-06 17:23:40	Hatter	int0x1C8: I don't know man, it's not really making me laugh
+2020-02-06 17:24:16	Hatter	alright it just did a little
+2020-02-06 17:24:45	int0x1C8	there's 6 more
+2020-02-06 17:26:49	+A-KO	sigh
+2020-02-06 17:26:56	+A-KO	I love getting calls in the morning for infrastructure I don't fucking manage
+2020-02-06 17:26:58	+A-KO	and never managed
+2020-02-06 17:27:01	+A-KO	fucking love it
+2020-02-06 17:27:09	Kb03	but, yeah. I love the admin for my school. I believe his words were "Don't break anything and I don't care as it's how I learned"
+2020-02-06 17:27:40	dsockwell	but breaking things is a much faster way to learn because you have to destroy the evidence or fix it
+2020-02-06 17:27:41	MechKing	Anyone else listening to IBM's Security Webinar?
+2020-02-06 17:27:57	+A-KO	no?
+2020-02-06 17:28:00	MechKing	With their "X-Force Red Team"?
+2020-02-06 17:28:10	+A-KO	ibm is irrelevant
+2020-02-06 17:28:18	StrongBad	god that is so corny MechKing
+2020-02-06 17:28:23	StrongBad	security people think they're so cool
+2020-02-06 17:28:33	+corn266	red leader standing by
+2020-02-06 17:28:36	StrongBad	"x-force ultra laser blase hackers for good"
+2020-02-06 17:28:59	MadCamel	Kb03: install termux and build up a linux environment.. Should be able to bypass all settings that way :)
+2020-02-06 17:29:08	+A-KO	I can't find my car key....
+2020-02-06 17:29:10	+A-KO	ggwp
+2020-02-06 17:29:12	PublicWiFi	anyone wanna play terraria? :D
+2020-02-06 17:29:17	int0x1C8	you don't learn by not breaking shit
+2020-02-06 17:29:27	+A-KO	think my boss is mad at me because I was like "dude, we don't and never managed that infrastructure." and he was like "yeah but we manage authentication."
+2020-02-06 17:29:30	int0x1C8	you learn by breaking shit then having to fix it before anyone notices
+2020-02-06 17:29:32	Kb03	MadCamel: I've already got termux installed :)
+2020-02-06 17:29:36	StrongBad	he's walking the line between IT-bro and actual-sysadmin int0x1C8
+2020-02-06 17:29:39	dsockwell	exactly int0x1C8
+2020-02-06 17:29:48	+A-KO	and turns out they just never set the fucking infrastructure up correctly
+2020-02-06 17:29:55	+A-KO	not my problem?
+2020-02-06 17:29:56	+A-KO	sigh
+2020-02-06 17:29:59	Kb03	I'm not going to break shit because I have a horror story about breaking shut
+2020-02-06 17:30:00	Kb03	shit*
+2020-02-06 17:30:00	dsockwell	idk i had the luxury of mismanaging a network that had an SLA of 'fuck you'
+2020-02-06 17:30:05	Alternity	pay me and i'll make it my problem
+2020-02-06 17:30:13	PublicWiFi	i break stuff all the time when im tinkering with something new
+2020-02-06 17:30:19	PublicWiFi	i took down the corp website for like 30 minutes one time lol
+2020-02-06 17:30:28	Kb03	I break shit in my VM's, not in prod
+2020-02-06 17:30:33	+A-KO	I took down MFA for the entire company once
+2020-02-06 17:30:36	PublicWiFi	look at you mr. proper
+2020-02-06 17:30:36	+A-KO	NOT DOING THAT AGAIN
+2020-02-06 17:30:38	PublicWiFi	;P
+2020-02-06 17:30:41	PublicWiFi	oh fuck
+2020-02-06 17:30:44	PublicWiFi	that's scary LL
+2020-02-06 17:30:46	PublicWiFi	LOL
+2020-02-06 17:30:59	MechKing	StrongBad lol, it is IBM.. so :)
+2020-02-06 17:31:05	+A-KO	IBM is completely worthless
+2020-02-06 17:31:07	+A-KO	they should just go away
+2020-02-06 17:31:13	+A-KO	they're completely irrelevant in anything modern computing
+2020-02-06 17:31:13	MechKing	IBM MaaS60 is an alright MDM
+2020-02-06 17:31:18	Kb03	The only time I broke something was when I was experimenting with LOIC and I managed to DoS my school's website off of 1 laptop
+2020-02-06 17:31:24	Kb03	no botnets, nothing
+2020-02-06 17:31:26	+A-KO	why the fuck would you use anything other than InTune or JAMF for MDM?
+2020-02-06 17:31:31	Kb03	just a shitty wordpress site and a shitty laptop
+2020-02-06 17:31:31	+A-KO	what the fuck bullshit crazy crack are you smoking?
+2020-02-06 17:31:56	int0x1C8	MechKing, its not bad, but not good, and trying to get a straight, specific answer from support is like pulling teeth
+2020-02-06 17:32:00	+A-KO	absolutely EVERYTHING else is irrelevant
+2020-02-06 17:32:04	MechKing	int0x1C8 true.
+2020-02-06 17:32:07	dsockwell	loic was a botnet
+2020-02-06 17:32:09	StrongBad	I don't think I interact with any IBM products anymore
+2020-02-06 17:32:11	dsockwell	just a voluntary one
+2020-02-06 17:32:24	StrongBad	how is that dsockwell, you type in an IP and hit go
+2020-02-06 17:32:29	+A-KO	StrongBad: Nobody building anything modern is using anything IBM
+2020-02-06 17:32:29	+corn266	>owns redhat
+2020-02-06 17:32:33	+A-KO	except Redhat I guess? lol
+2020-02-06 17:32:33	+corn266	>irrelevant
+2020-02-06 17:32:39	int0x1C8	like after we started using it, one of our phones was stolen, so hey! good chance to use this MDM!
+2020-02-06 17:32:48	+A-KO	corn266: yeah but most of the industry is using centos so like
+2020-02-06 17:32:49	dsockwell	StrongBad: i forget exactly how it worked but everyone on 4chan installed the agent and that's where it got the packets
+2020-02-06 17:32:54	int0x1C8	look up location history, last position fix is from 2 months ago
+2020-02-06 17:32:56	+A-KO	that's downstream from RH but it's not a money thing
+2020-02-06 17:32:58	dsockwell	it wasn't a teardrop or amplification attack
+2020-02-06 17:32:58	+A-KO	nobody pays for centos
+2020-02-06 17:32:59	StrongBad	yeah it was coordinated through 4chan
+2020-02-06 17:33:05	dsockwell	it was just an army of idiots
+2020-02-06 17:33:06	StrongBad	"use LOIC on x ip"
+2020-02-06 17:33:18	-->	OGMatt (~OGMatt@89.238.141.232) hat den Channel #reddit-sysadmin betreten
+2020-02-06 17:33:20	+corn266	missed opportunity 'cents for centos'
+2020-02-06 17:33:28	-->	TuxedoJack (~TuxedoJac@24-155-161-53.static.grandenetworks.net) hat den Channel #reddit-sysadmin betreten
+2020-02-06 17:33:28	--	Modus #reddit-sysadmin [+v TuxedoJack] durch ChanServ
+2020-02-06 17:33:33	dsockwell	oh i assumed it was automatic, like you left the agent running and it watched 4chan for you
+2020-02-06 17:33:45	dsockwell	i never used it
+2020-02-06 17:33:48	+A-KO	seriously. Like compared to the amount of shit that's out there. Redhat's market is *small* for RHEL, or rather; smaller than what's deployed and almost non-existent in comparison.
+2020-02-06 17:33:52	Kb03	But, yeah. I did that, fuck, when I was 13 I think
+2020-02-06 17:34:03	+A-KO	You've got like government using RHEL, maybe some big orgs that want the support.
+2020-02-06 17:34:05	int0x1C8	so I wanted to know "under what conditions or whatever does it send a new position update? if there are none how can we assure the location is at least from the same day"
+2020-02-06 17:34:09	int0x1C8	never got an answer
+2020-02-06 17:34:10	+A-KO	but beyond that, absolutely everyone else is using free distros
+2020-02-06 17:34:23	+A-KO	they're mooching off of CentOS effectively
+2020-02-06 17:34:28	@Code_Man65	Home Depot uses CentOS
+2020-02-06 17:34:31	@Code_Man65	As does EA
+2020-02-06 17:34:35	+A-KO	blizzard uses centos
+2020-02-06 17:34:43	MechKing	Code_Man65 how do you know? =x
+2020-02-06 17:34:47	StrongBad	have you actually used IBM's MDM or are you just a rabid fanboy of that other shit A-KO
+2020-02-06 17:34:47	Kb03	Menards (if you live in the midwest) uses windows
+2020-02-06 17:34:53	@Code_Man65	Because I know people MechKing
+2020-02-06 17:35:01	int0x1C8	I thought everyone used opensuse
+2020-02-06 17:35:03	-->	ApocalypseCow (~apocalyps@shadowcat/actuallyamemberof/lollipopguild.insomnia) hat den Channel #reddit-sysadmin betreten
+2020-02-06 17:35:10	Kb03	also, funnily enough, the paint machines have teamviewer installed but no network connection
+2020-02-06 17:35:10	@Code_Man65	Fuck YaST
+2020-02-06 17:35:13	dsockwell	i'm still mad about scientificlinux
+2020-02-06 17:35:26	dsockwell	they shut it down or sth
+2020-02-06 17:35:56	int0x1C8	people can just roll their own
+2020-02-06 17:36:05	+A-KO	StrongBad: Because nothing else matters in the industry? Like, chances are you're using MDM so people can access things like e-mail, documents, etc. So you've got an O365 deployment likely. And at that point Intune is *fucking free* so why bother with anything else?
+2020-02-06 17:36:39	Kb03	Ha! my school doesn't use MDM
+2020-02-06 17:36:39	+A-KO	JAMF is a strong contendor for anything Apple-related, but only marginally because JAMF stays close to the mac ecosystem and a lot of mac folks know how to use it.
+2020-02-06 17:36:41	Kb03	at all
+2020-02-06 17:37:08	int0x1C8	we use maas360 to find stolen/lost phones and track data usage
+2020-02-06 17:37:10	int0x1C8	that's about it
+2020-02-06 17:37:29	StrongBad	A-KO: so yer a fanboy and don't actually have any direct experience with IBM MDM
+2020-02-06 17:37:33	MadCamel	side note: JAMF will happily run in a VM while your real mac remains unmanaged..
+2020-02-06 17:37:47	+A-KO	it's not a matter of fanboyism, it's a matter of just pure cost.
+2020-02-06 17:37:48	+A-KO	like
+2020-02-06 17:37:53	+A-KO	why pay for something you literally get for free?
+2020-02-06 17:38:03	@Code_Man65	StrongBad:  IBM products are pretty much universally over-complicated with shit support
+2020-02-06 17:38:03	StrongBad	why rant about why IBM MDM sucks when you don't even know about it though
+2020-02-06 17:38:05	int0x1C8	we don't get it for free
+2020-02-06 17:38:06	+A-KO	99% of the time you basically effectively need device/app policies and device/app-wipe.
+2020-02-06 17:39:06	-->	nicky (bc53e57f@bl18-229-127.dsl.telepac.pt) hat den Channel #reddit-sysadmin betreten
+2020-02-06 17:39:40	nicky	hi, anyone familiar with
+2020-02-06 17:39:43	Alternity	jamf is the best option if you're all ipad/iphone/mac
+2020-02-06 17:39:50	dsockwell	oh this is the worst one ever
+2020-02-06 17:39:59	+corn266	yes, i'm familiar with
+2020-02-06 17:40:01	int0x1C8	we're a strictly no apple shop
+2020-02-06 17:40:02	+A-KO	pretty much Alternity
+2020-02-06 17:40:03	Alternity	well really, it's the only option when it comes to mac management
+2020-02-06 17:40:14	Alternity	my last job they bought tons of apples
+2020-02-06 17:40:15	dsockwell	nicky: are you gonna make us beg for even the vaguest hint about what you want?
+2020-02-06 17:40:18	Alternity	owner really liked apple
+2020-02-06 17:40:24	Alternity	he eve had the trashcan mac
+2020-02-06 17:40:31	int0x1C8	my boss and I hate apple
+2020-02-06 17:40:31	+A-KO	sigh I'm so fucking pissed about being woken up for infrastructure I don't run
+2020-02-06 17:40:34	+A-KO	and my boss thinks we run it
+2020-02-06 17:40:37	+A-KO	because he's new to the team
+2020-02-06 17:40:47	dsockwell	that's a bummer A-KO
+2020-02-06 17:40:49	Alternity	sounds like u need to train him better
+2020-02-06 17:40:51	+A-KO	an entirely different team that entire fucking infrastructure up
+2020-02-06 17:40:56	+A-KO	and manages that infrastructure
+2020-02-06 17:41:09	mrbell1984	A-KO tell him then
+2020-02-06 17:41:29	+A-KO	I tried, he got saucy with me over it
+2020-02-06 17:41:29	+A-KO	lol
+2020-02-06 17:41:31	+A-KO	Like
+2020-02-06 17:41:36	+A-KO	if I'm going to get a call at 6AM over something?
+2020-02-06 17:41:45	+A-KO	then it better be infrastructure I own
+2020-02-06 17:42:06	nicky	dsockwell no :)  I suppose I can manage my endpoint from there I have successfully installed the package .deb on a linux box but have no clue about this message when login from web browser:  in No trusted Administration Servers found.
+2020-02-06 17:42:40	nicky	I've addded my AD servers there...
+2020-02-06 17:42:45	teh_f4ll3n	https://i.imgflip.com/3odrlc.jpg
+2020-02-06 17:42:49	nicky	at the json file under /etc
+2020-02-06 17:43:35	int0x1C8	wat
+2020-02-06 17:43:41	dsockwell	you have to tell us what software you want to use
+2020-02-06 17:44:02	dsockwell	you know what, afk i'm out
+2020-02-06 17:44:33	nicky	dsockwell I've installed the deb package https://www.kaspersky.com/small-to-medium-business-security/downloads/security-center on a linux box
+2020-02-06 17:44:49	nicky	and it's running just fine except I can't login
+2020-02-06 17:45:04	dsockwell	the KGB can and that's what matters
+2020-02-06 17:45:26	technonerd	theres a reason the govt ousted them ;)
+2020-02-06 17:45:28	nicky	something about trusted servers
+2020-02-06 17:45:43	PublicWiFi	man its hard selling o365
+2020-02-06 17:46:01	PublicWiFi	O365 Business suite breakeven with a standard  volume license is crazy fast
+2020-02-06 17:46:04	PublicWiFi	like 1.5 years
+2020-02-06 17:46:13	PublicWiFi	so if you run your volume license more than 1.5 years you are green
+2020-02-06 17:46:34	PublicWiFi	why would i go for o365 then? whats the real advantage?
+2020-02-06 17:46:36	PublicWiFi	for office suite i mean
+2020-02-06 17:46:54	rgrizz	Forgive my ignorance
+2020-02-06 17:47:09	rgrizz	is o365 a completely online app?
+2020-02-06 17:47:19	rgrizz	or is it something that's installed on each PC?
+2020-02-06 17:47:23	+AnonymooseReddtr	..
+2020-02-06 17:47:25	+AnonymooseReddtr	depends
+2020-02-06 17:47:26	PublicWiFi	both
+2020-02-06 17:47:29	rgrizz	Okay
+2020-02-06 17:47:30	StrongBad	I use outlook to touch o365
+2020-02-06 17:47:32	darkscrypt	rgrizz: it's often installed
+2020-02-06 17:47:34	PublicWiFi	cheapest one is online app online
+2020-02-06 17:47:34	StrongBad	it's hosted exchange
+2020-02-06 17:47:37	+AnonymooseReddtr	...
+2020-02-06 17:47:44	+AnonymooseReddtr	Office 365 is a suite
+2020-02-06 17:47:45	+AnonymooseReddtr	so
+2020-02-06 17:47:46	darkscrypt	rgrizz: office 365 typically means all of your ms office install
+2020-02-06 17:47:47	PublicWiFi	online app only*
+2020-02-06 17:47:56	+AnonymooseReddtr	ya'll are just spewing bullshit lol
+2020-02-06 17:47:59	PublicWiFi	you can get "essentials" which is web app only
+2020-02-06 17:48:01	PublicWiFi	-.-
+2020-02-06 17:48:02	rgrizz	Thanks for the clarification
+2020-02-06 17:48:14	PublicWiFi	AnonymooseReddtr: get gud ;P
+2020-02-06 17:48:29	+AnonymooseReddtr	Office 365 is a suite of products :) made up of online services (Exchange, SharePoint, Teams)  and desktop apps
+2020-02-06 17:48:40	+corn266	I am a professional IT and Office 365 refers to a circular office layout
+2020-02-06 17:48:47	rgrizz	lol
+2020-02-06 17:48:48	PublicWiFi	yeah yeah semantics xDD
+2020-02-06 17:48:51	+AnonymooseReddtr	depending on your subscription level you get access to different products and features
+2020-02-06 17:48:55	+AnonymooseReddtr	lol corn266
+2020-02-06 17:48:56	PublicWiFi	corn266: xD
+2020-02-06 17:49:05	+AnonymooseReddtr	corn266 wouldn't that be Office 360?
+2020-02-06 17:49:09	PublicWiFi	why would i subscribe to office 365 business
+2020-02-06 17:49:16	PublicWiFi	when the break even point is 1.5 years
+2020-02-06 17:49:28	PublicWiFi	if i just buy the software
+2020-02-06 17:49:39	PublicWiFi	which is covered, security-wise, for 10ih
+2020-02-06 17:49:42	PublicWiFi	10ish
+2020-02-06 17:50:03	darkscrypt	i wonder if the pay to own version of office will gradually fade from existence
+2020-02-06 17:50:10	darkscrypt	ms is wanting to go full sass
+2020-02-06 17:50:18	darkscrypt	saas
+2020-02-06 17:50:19	dsockwell	adobe is suing people who keep their installed versions
+2020-02-06 17:50:20	+AnonymooseReddtr	10ish?
+2020-02-06 17:50:21	+AnonymooseReddtr	what
+2020-02-06 17:50:31	darkscrypt	dsockwell: are they really? i have yet to hear that lol
+2020-02-06 17:50:35	dsockwell	so yeah i bet msft can do it
+2020-02-06 17:50:39	int0x1C8	we'll be stuck on whatever the last version is that is on-prem
+2020-02-06 17:50:55	<--	lasagna (uid83460@donger/pasta) hat den IRC verlassen (Quit: Connection closed for inactivity)
+2020-02-06 17:51:06	PublicWiFi	if i buy office 2019 outright instead of office365 sub model, in 1.5 or so years the price is the same
+2020-02-06 17:51:13	PublicWiFi	so after 1.5 years, the standard purchase is the better buy
+2020-02-06 17:51:13	+AnonymooseReddtr	as of Oct 2020 MS will require current versions of office to access O365 services
+2020-02-06 17:51:19	darkscrypt	https://www.vice.com/en_us/article/a3xk3p/adobe-tells-users-they-can-get-sued-for-using-old-versions-of-photoshop
+2020-02-06 17:51:20	darkscrypt	damn
+2020-02-06 17:51:21	PublicWiFi	what's the incentive to do o365
+2020-02-06 17:51:27	dsockwell	https://www.dpreview.com/news/7744137117/adobe-informs-users-that-using-old-versions-of-cc-apps-could-lead-to-lawsuits-from-third-parties
+2020-02-06 17:51:34	+AnonymooseReddtr	https://www.groovypost.com/news/microsoft-end-support-standalone-office-by-2020/
+2020-02-06 17:51:39	dsockwell	so i guess i was wrong, they themselves did not sue but did send a threatening sue-y letter
+2020-02-06 17:51:40	PublicWiFi	wowwwwwww
+2020-02-06 17:51:45	technonerd	scare tatics to get them to upgrade?
+2020-02-06 17:51:58	<--	gareppa (~gareppa@unaffiliated/gareppa) hat den IRC verlassen (Quit: Leaving)
+2020-02-06 17:52:04	PublicWiFi	oh
+2020-02-06 17:52:13	dsockwell	yeah technonerd but i think they would go through with it tbh
+2020-02-06 17:52:15	PublicWiFi	they are just disconnecting th eold version from o365
+2020-02-06 17:52:15	dsockwell	lawsuits are scary
+2020-02-06 17:52:17	StrongBad	I'm not gonna upgrade my Lightroom install
+2020-02-06 17:52:22	PublicWiFi	who dont use onedrive or anything
+2020-02-06 17:52:25	StrongBad	fuck you adobe
+2020-02-06 17:52:25	PublicWiFi	we dont*
+2020-02-06 17:52:59	PublicWiFi	this is why copyright law is retarded
+2020-02-06 17:53:25	@cryptic1	you sound like a pirate PublicWiFi
+2020-02-06 17:53:30	+AnonymooseReddtr	arrrrr
+2020-02-06 17:53:33	@cryptic1	piracy is not permitted here
+2020-02-06 17:53:34	@cryptic1	BANT
+2020-02-06 17:53:38	PublicWiFi	it ruins innovation
+2020-02-06 17:53:42	PublicWiFi	rip
+2020-02-06 17:53:47	PublicWiFi	FIND ME SEA LEGS
+2020-02-06 17:53:49	+AnonymooseReddtr	lol
+2020-02-06 17:53:52	+AnonymooseReddtr	leutenant dan
+2020-02-06 17:54:09	darkscrypt	PublicWiFi: yeah, that's absolute ridiculous
+2020-02-06 17:54:19	darkscrypt	i just read the vice article on it.
+2020-02-06 17:54:20	technonerd	what happens when the authoritarian servers go down and you cant open office to edit a docx?
+2020-02-06 17:54:29	teh_f4ll3n	darkscrypt: Adobe what, m8? Have they finally gone off the deep end?
+2020-02-06 17:54:31	technonerd	thanks autocorrect
+2020-02-06 17:54:52	int0x1C8	rofl
+2020-02-06 17:54:56	int0x1C8	authoritarian servers
+2020-02-06 17:55:14	teh_f4ll3n	not technically a lie
+2020-02-06 17:55:42	int0x1C8	I'm gonna start using that term instead of DC
+2020-02-06 17:56:25	dsockwell	i love it
+2020-02-06 17:56:58	mrbell1984	Authoritarian Servers is more of a mouthful thatn domain controllers
+2020-02-06 17:57:05	mrbell1984	just call them top dogs
+2020-02-06 17:57:14	+A-KO	s/dogs/dawgs
+2020-02-06 17:57:14	+layer-3ight	mrbell1984 meant: "just call them top dawgs"
+2020-02-06 17:57:22	dsockwell	say KGBs instead of KDCs
+2020-02-06 17:57:22	mrbell1984	ha ha!
+2020-02-06 17:57:33	mrbell1984	<< laughing
+2020-02-06 17:57:36	+corn266	cryptic1: >pretending that you're not a but pirate
+2020-02-06 17:57:39	teh_f4ll3n	did someone say KGB?
+2020-02-06 17:57:44	dsockwell	yes i did
+2020-02-06 17:57:47	dsockwell	hello
+2020-02-06 17:57:47	+A-KO	you're now on a list
+2020-02-06 17:57:52	technonerd	ied.. aed.. same thing right?
+2020-02-06 17:57:57	dsockwell	absolutely
+2020-02-06 17:58:01	+A-KO	okay
+2020-02-06 17:58:04	+A-KO	here's a thing
+2020-02-06 17:58:11	+A-KO	if I interview you for a Senior Windows AD Engineer position
+2020-02-06 17:58:14	+A-KO	and you don't know what an SPN is
+2020-02-06 17:58:17	+A-KO	DO NOT FUCKING APPLY TO MY JOB
+2020-02-06 17:58:17	<--	nicky (bc53e57f@bl18-229-127.dsl.telepac.pt) hat den IRC verlassen (Remote host closed the connection)
+2020-02-06 17:58:18	+A-KO	THANKS
+2020-02-06 17:58:55	dsockwell	A-KO: what if they call it a KGB for real?
+2020-02-06 17:59:04	+A-KO	I'd laugh
+2020-02-06 17:59:09	+A-KO	and be fine as long as they knew how the shit worked
+2020-02-06 17:59:50	dsockwell	what if they then sent TGTs and shit to the actual KGB not the KDC?
+2020-02-06 17:59:58	@Code_Man65	Really A-KO?  Someone didn't know what an SPN was?
+2020-02-06 18:00:02	technonerd	SPN refers to a fabulous TV show on the CW,
+2020-02-06 18:00:04	+A-KO	yes Code_Man65
+2020-02-06 18:00:09	@Code_Man65	Jesus
+2020-02-06 18:00:10	+A-KO	Code_Man65: not one, but 3 people in fact.
+2020-02-06 18:00:27	+A-KO	I basically fail the interview right there
+2020-02-06 18:00:28	+A-KO	to be honest
+2020-02-06 18:01:06	<--	csed (~CSED]@cbg-off-client.mpi-cbg.de) hat den IRC verlassen (Ping timeout: 265 seconds)
+2020-02-06 18:01:32	<--	trekkie1701c (~trekkie17@ec2-52-15-173-116.us-east-2.compute.amazonaws.com) hat den IRC verlassen (Quit: :P)
+2020-02-06 18:01:45	-->	Testikel (~Testikel@ip-62-235-56-244.dsl.scarlet.be) hat den Channel #reddit-sysadmin betreten
+2020-02-06 18:02:04	<--	tapoxi (~ted@146.115.176.113) hat den IRC verlassen (Ping timeout: 265 seconds)
+2020-02-06 18:02:11	veam	Anyone had issues with their DC removing computers from AD in the past couple days?
+2020-02-06 18:02:16	+A-KO	no?
+2020-02-06 18:02:17	-->	agent_white (~agent_whi@unaffiliated/agent-white/x-6197888) hat den Channel #reddit-sysadmin betreten
+2020-02-06 18:02:18	+A-KO	check logs?
+2020-02-06 18:02:23	veam	We are
+2020-02-06 18:02:42	-->	tapoxi (~ted@146.115.176.113) hat den Channel #reddit-sysadmin betreten
+2020-02-06 18:02:56	+A-KO	DCs don't just "remove computers from the domain"
+2020-02-06 18:03:00	+A-KO	like, that's not how that works
+2020-02-06 18:03:00	+A-KO	lol
+2020-02-06 18:03:17	veam	Ya I agree lol
+2020-02-06 18:03:22	int0x1C8	tbf I didn't know what an SPN was until a few weeks ago
+2020-02-06 18:03:54	+A-KO	int0x1C8: yeah but you're not applying to my senior AD/Windows role :)
+2020-02-06 18:03:56	<--	Nutella_Hotdog (18d82c59@gateway/web/dev0.sh/ip.24.216.44.89) hat den IRC verlassen (Quit: TechSupport user disconnecting)
+2020-02-06 18:04:21	int0x1C8	I can, where you work?
+2020-02-06 18:05:04	mrbell1984	A-KO does SPN stand for small penis nob
+2020-02-06 18:05:08	ekaj	^
+2020-02-06 18:05:21	int0x1C8	shitting penis nipples
+2020-02-06 18:05:26	mrbell1984	ha ha
+2020-02-06 18:06:05	Hatter	mrbell1984: look if you're going to make funny acronyms, don't have two letters be synonymous, alright?
+2020-02-06 18:06:19	mrbell1984	hatter aight boss
+2020-02-06 18:06:26	<--	patmorgan235 (~patmorgan@64.225.24.156) hat den IRC verlassen (Read error: Connection reset by peer)
+2020-02-06 18:06:29	<--	mdel (uid25573@gateway/web/irccloud.com/x-lvohdwogttbnmznn) hat den IRC verlassen (Quit: Connection closed for inactivity)
+2020-02-06 18:06:59	int0x1C8	don't listen to Hatter
+2020-02-06 18:07:05	-->	SiAnDoG__ (~514nDoG@gateway/tor-sasl/siandog) hat den Channel #reddit-sysadmin betreten
+2020-02-06 18:07:07	-->	patmorgan235 (~patmorgan@64.225.24.156) hat den Channel #reddit-sysadmin betreten
+2020-02-06 18:07:12	mrbell1984	could be couple things though right?
+2020-02-06 18:07:58	mrbell1984	Service Provider Name, Symantec Protection Network, Smart Protection Network, Service Provider Network, Sony Pictures Network, Source Port Number
+2020-02-06 18:08:01	mrbell1984	and many many more
+2020-02-06 18:08:25	teh_f4ll3n	What's SPN? :D
+2020-02-06 18:08:28	<--	matty_r (~admin@45.83.91.27) hat den IRC verlassen (Ping timeout: 260 seconds)
+2020-02-06 18:08:30	Hatter	yeah that wasn't my point though
+2020-02-06 18:08:45	mrbell1984	go play with the busses Hatter
+2020-02-06 18:08:58	Hatter	what's that supposed to mean
+2020-02-06 18:09:08	mrbell1984	google it
+2020-02-06 18:10:29	dsockwell	I LIKE TO PET THE BUSSES GEORGE
+2020-02-06 18:10:35	<--	interop_madness (~interop_m@unaffiliated/interop-madness/x-8858653) hat den IRC verlassen (Read error: Connection reset by peer)
+2020-02-06 18:11:14	mrbell1984	Lennie Doesn't Get To Tend The Busses
+2020-02-06 18:11:36	<--	Lysdexia (2662fbc2@38.98.251.194) hat den IRC verlassen (Remote host closed the connection)
+2020-02-06 18:11:53	mrbell1984	Hatter have you found the answer yet? you bit slow.
+2020-02-06 18:13:17	Hatter	yeah I'm not googling that, I'm busy
+2020-02-06 18:13:31	<--	OmegaHarvest (~OmegaHarv@unaffiliated/omegaharvest) hat den IRC verlassen (Quit: Going to the moon, BRB)
+2020-02-06 18:13:50	mrbell1984	busy enough to tell me not to have two letters be synonymous with a long sentence.
+2020-02-06 18:14:38	mrbell1984	it's the same meaning as go play with traffic - "Go elsewhere and feel free to engage in risky behaviour and get lost"
+2020-02-06 18:14:40	-->	OmegaHarvest (~OmegaHarv@unaffiliated/omegaharvest) hat den Channel #reddit-sysadmin betreten
+2020-02-06 18:15:27	dsockwell	is it a regional dialect
+2020-02-06 18:15:38	dsockwell	because i always just said go play in traffic
+2020-02-06 18:16:55	mrbell1984	it is indeed same meaning though
+2020-02-06 18:17:09	teh_f4ll3n	go pet a bear is the Russian regional equivalent I think
+2020-02-06 18:17:22	technonerd	goto candy mountain
+2020-02-06 18:17:43	mrbell1984	lol go pet a bear
+2020-02-06 18:17:56	mrbell1984	that's my new saying
+2020-02-06 18:18:47	tapoxi	estranger: hello
+2020-02-06 18:18:52	tapoxi	estranger: cassandra question
+2020-02-06 18:18:56	estranger	yo
+2020-02-06 18:19:06	tapoxi	would you say timeseries data is a good fit
+2020-02-06 18:19:16	estranger	yes
+2020-02-06 18:19:31	dsockwell	what's that time series db, is it any good?
+2020-02-06 18:19:43	teh_f4ll3n	Go pet a bear" only makes sense in Russia: http://foto.krav.ru/foto/640_480/p1100383_640.jpg
+2020-02-06 18:19:52	estranger	use time window compaction
+2020-02-06 18:20:04	estranger	dsockwell influx?
+2020-02-06 18:20:13	tapoxi	estranger: does it compare well to influx?
+2020-02-06 18:20:38	dsockwell	uh i suppose so
+2020-02-06 18:20:38	estranger	influx does a lot of the aggs and stuff for you that c* doesnt
+2020-02-06 18:20:45	Hatter	I like that youtube video of the guy kicking a bear
+2020-02-06 18:20:48	tapoxi	basically have a shitload of timeseries stuff (not monitoring) and don't want to pay $$$ to influx for clustering
+2020-02-06 18:20:58	dsockwell	oh yeah Hatter i quote that bear often
+2020-02-06 18:21:04	dsockwell	WURRRRRF HARF HARF WAAAARRRRRR
+2020-02-06 18:21:04	estranger	if you need any scale go c* imo
+2020-02-06 18:21:39	estranger	you can use Kafka streams or spark to do custom aggs pretty easy, and you the
+2020-02-06 18:21:41	estranger	err
+2020-02-06 18:21:57	estranger	and you end up with a more tolerate and scalable system
+2020-02-06 18:22:04	estranger	tolerant
+2020-02-06 18:22:31	estranger	but Cassandra twcs is basically built for ts data
+2020-02-06 18:23:53	tapoxi	figures I finally end up using cassandra now that you no longer work there
+2020-02-06 18:24:03	<--	agent_white (~agent_whi@unaffiliated/agent-white/x-6197888) hat den IRC verlassen (Ping timeout: 240 seconds)
+2020-02-06 18:24:09	estranger	lol I still like it for the right uses
+2020-02-06 18:24:36	estranger	and still one of the most knowledgeable in it, I love the tech
+2020-02-06 18:24:37	teh_f4ll3n	I think this is the most pissed off I've been in a while
+2020-02-06 18:25:17	estranger	how much data you talking here
+2020-02-06 18:27:42	teh_f4ll3n	https://xkcd.com/2261/
+2020-02-06 18:27:47	tapoxi	iot data, day 48 writes per user per day
+2020-02-06 18:27:52	tapoxi	*say
+2020-02-06 18:28:21	tapoxi	~408k users
+2020-02-06 18:28:24	-->	agent_white (~agent_whi@unaffiliated/agent-white/x-6197888) hat den Channel #reddit-sysadmin betreten
+2020-02-06 18:29:10	estranger	so like 200-300 writes a second?
+2020-02-06 18:29:15	tapoxi	ya
+2020-02-06 18:29:41	estranger	3 to 5 node cluster unless you're retaining a ton
+2020-02-06 18:29:49	<--	pppingme (~pppingme@unaffiliated/pppingme) hat den IRC verlassen (Ping timeout: 255 seconds)
+2020-02-06 18:30:07	tapoxi	that's reasonable
+2020-02-06 18:30:18	-->	pppingme (~pppingme@unaffiliated/pppingme) hat den Channel #reddit-sysadmin betreten
+2020-02-06 18:30:27	tapoxi	how does it handle retention?
+2020-02-06 18:30:46	tapoxi	do we want to say, run regular queries against cassandra and throw the result into postgres?
+2020-02-06 18:31:20	estranger	it scales infinitely.. but you prob want to stay under 5tb per node
+2020-02-06 18:31:38	+corn266	heh, 6.9% ram used
+2020-02-06 18:31:40	tapoxi	got it, also reasonable
+2020-02-06 18:31:52	<--	OmegaHarvest (~OmegaHarv@unaffiliated/omegaharvest) hat den IRC verlassen (Quit: Going to the moon, BRB)
+2020-02-06 18:31:53	estranger	that's with twcs being used
+2020-02-06 18:31:54	teh_f4ll3n	ni.ce
+2020-02-06 18:32:02	estranger	default compaction like 2tb hehe
+2020-02-06 18:33:05	-->	OmegaHarvest (~OmegaHarv@unaffiliated/omegaharvest) hat den Channel #reddit-sysadmin betreten
+2020-02-06 18:33:52	-->	gareppa (~gareppa@unaffiliated/gareppa) hat den Channel #reddit-sysadmin betreten
+2020-02-06 18:34:19	tapoxi	shit, this might actually be what we use
+2020-02-06 18:34:21	rpifan	boy that was stressful
+2020-02-06 18:34:26	rpifan	computer was on the shitter
+2020-02-06 18:34:30	rpifan	big big boss was next to me
+2020-02-06 18:34:36	tapoxi	time for a cassandra spike woo woo
+2020-02-06 18:34:36	rpifan	and he was uh does it take that long to fix
+2020-02-06 18:34:42	estranger	nice.
+2020-02-06 18:34:45	rpifan	in the end i had to replace the machine as i probabnly need to format
+2020-02-06 18:34:54	rpifan	by luck we had an old one that was fine
+2020-02-06 18:35:03	estranger	I'm happy to help still with any questions/suggestions/best practices
+2020-02-06 18:35:03	<--	gareppa (~gareppa@unaffiliated/gareppa) hat den IRC verlassen (Remote host closed the connection)
+2020-02-06 18:35:05	<--	OmegaHarvest (~OmegaHarv@unaffiliated/omegaharvest) hat den IRC verlassen (Client Quit)
+2020-02-06 18:35:35	rpifan	oh was estranger
+2020-02-06 18:35:58	estranger	what was
+2020-02-06 18:36:07	+corn266	estranger: how can i find somebody to love
+2020-02-06 18:36:15	-->	OmegaHarvest (~OmegaHarv@unaffiliated/omegaharvest) hat den Channel #reddit-sysadmin betreten
+2020-02-06 18:36:22	estranger	grinder
+2020-02-06 18:36:31	+TuxedoJack	CAN
+2020-02-06 18:36:33	+TuxedoJack	ANYBODY
+2020-02-06 18:36:35	+TuxedoJack	FIND HIIIIIIIIIM
+2020-02-06 18:36:40	+TuxedoJack	SOMEBODY TO LOOOOOOOVE
+2020-02-06 18:36:41	teh_f4ll3n	best practices when beating your meat?
+2020-02-06 18:36:59	+corn266	or getting it beat, apparently
+2020-02-06 18:37:06	rpifan	estranger, i mean help with what
+2020-02-06 18:37:07	estranger	for Cassandra, morons
+2020-02-06 18:37:14	+corn266	sounds hot
+2020-02-06 18:37:17	teh_f4ll3n	you didn't clarify
+2020-02-06 18:37:26	estranger	something you peasants prob will never need
+2020-02-06 18:37:27	+corn266	probably goes by Cass cause she got dat ass
+2020-02-06 18:37:31	tapoxi	estranger: thanks if we go this route I might poke your brain
+2020-02-06 18:37:35	teh_f4ll3n	so how do I get Cassandra to beat my meat?
+2020-02-06 18:37:47	estranger	ask Apollo
+2020-02-06 18:37:48	dsockwell	teh_f4ll3n: you have to use a heavy enough anvil, it shouldn't bounce with the hammer blows
+2020-02-06 18:38:15	teh_f4ll3n	instruction unclear, peen stuck in toaster
+2020-02-06 18:38:38	dsockwell	yes and then when it's glowing orange you beat it
+2020-02-06 18:38:45	tapoxi	dont get ur penis compacted
+2020-02-06 18:39:09	rpifan	lol
+2020-02-06 18:39:27	teh_f4ll3n	but muh 2tb compaction!
+2020-02-06 18:39:43	+corn266	2thumb compaction?
+2020-02-06 18:39:53	 *	estranger evicts tombstones all over the place
+2020-02-06 18:40:56	+corn266	this isn't the 1980s
+2020-02-06 18:41:13	mrbell1984	oh yes it is
+2020-02-06 18:41:23	teh_f4ll3n	1984 all the way
+2020-02-06 18:41:35	estranger	log structured merge trees are everywhere these days
+2020-02-06 18:41:40	estranger	get used to tombstones
+2020-02-06 18:41:46	<--	OmegaHarvest (~OmegaHarv@unaffiliated/omegaharvest) hat den IRC verlassen (Quit: Going to the moon, BRB)
+2020-02-06 18:42:07	mrbell1984	you where meant to say - oh no it isn't!
+2020-02-06 18:42:30	<--	farmfromjakestat (~farmfromj@gateway/tor-sasl/farmfromjakestat) hat den IRC verlassen (Quit: My MacBook has gone to sleep. ZZZzzz…)
+2020-02-06 18:42:35	tapoxi	mmm mmm mmm microwaved pork
+2020-02-06 18:42:39	teh_f4ll3n	why? great book and I came into existence in 1984
+2020-02-06 18:42:55	tapoxi	wow someone's OLD
+2020-02-06 18:42:59	-->	OmegaHarvest (~OmegaHarv@unaffiliated/omegaharvest) hat den Channel #reddit-sysadmin betreten
+2020-02-06 18:43:06	tapoxi	why dont you go retire you OLD
+2020-02-06 18:43:16	mrbell1984	I am fairly sure there will be some grandads on IRC.
+2020-02-06 18:43:32	dsockwell	you're not a protected class until you turn 40, fuckin boomer-ass loser face
+2020-02-06 18:43:41	tapoxi	when we retire there will be many lan parties
+2020-02-06 18:43:43	dsockwell	you'll never get hired or have sex again
+2020-02-06 18:43:48	dsockwell	over 30 motherfucker
+2020-02-06 18:43:48	mrbell1984	loool
+2020-02-06 18:44:00	teh_f4ll3n	fair enough
+2020-02-06 18:44:08	 *	mrbell1984 throws some viagra to the boomers
+2020-02-06 18:44:20	StrongBad	my wife still lets me in there sometimes
+2020-02-06 18:44:35	StrongBad	life doesn't end at 30
+2020-02-06 18:44:39	StrongBad	it just gets a lot worse
+2020-02-06 18:44:42	mrbell1984	ha ha
+2020-02-06 18:45:03	dsockwell	fuck i'm on track to really fuck up my deadlines today
+2020-02-06 18:45:08	-->	Macuser (~macuser@unaffiliated/macuser) hat den Channel #reddit-sysadmin betreten
+2020-02-06 18:45:08	dsockwell	fuck!
+2020-02-06 18:45:27	dsockwell	i'm gonna geographically remove myself from irc, wish me luck
+2020-02-06 18:45:39	Sousapro	A-KO: do you actually have folks apply who don't know what an SPN is?
+2020-02-06 18:45:40	Sousapro	lol
+2020-02-06 18:45:43	teh_f4ll3n	and worse, and worse, and worse... with every year. Just as you think you've hit rock bottom, life proves you wrong
+2020-02-06 18:46:21	Hatter	eww don't say lets me in there
+2020-02-06 18:46:28	<--	pppingme (~pppingme@unaffiliated/pppingme) hat den IRC verlassen (Ping timeout: 255 seconds)
+2020-02-06 18:46:44	dsockwell	what's especially gross about that?
+2020-02-06 18:46:55	Hatter	I'm not sure but I don't like it
+2020-02-06 18:46:55	Sousapro	like how can you actually administer windows stuff at all and not run into service principal names?
+2020-02-06 18:47:03	dsockwell	ok then
+2020-02-06 18:47:04	+corn266	Hatter: you sound moist
+2020-02-06 18:47:07	+corn266	are you moist?
+2020-02-06 18:47:14	Hatter	I don't like that word either
+2020-02-06 18:47:25	dsockwell	i dont understand the hatred for the word 'moist'
+2020-02-06 18:47:25	+corn266	either?
+2020-02-06 18:47:31	teh_f4ll3n	damp?
+2020-02-06 18:47:32	+corn266	it usually means you're gay
+2020-02-06 18:47:34	dsockwell	is it just overused?
+2020-02-06 18:47:39	dsockwell	dank?
+2020-02-06 18:47:41	+corn266	not that there's anything wrong with that
+2020-02-06 18:48:46	<--	tapoxi (~ted@146.115.176.113) hat den IRC verlassen (Quit: WeeChat 2.7)
+2020-02-06 18:49:23	mrbell1984	Hatter is moist
+2020-02-06 18:49:33	 *	mrbell1984 throws Hatter some viagra
+2020-02-06 18:49:44	alazare619	fucking mundo
+2020-02-06 18:49:49	<--	teh_f4ll3n (~teh_f4ll3@dhcp-892b8656.ucd.ie) hat den IRC verlassen (Quit: shit himself because too OLD)
+2020-02-06 18:50:18	<--	rpifan (~rpifan@62.55.240.54) hat den IRC verlassen (Quit: Leaving)
+2020-02-06 18:50:42	+giant_it_burrit	goes where he pelases
+2020-02-06 18:52:06	mrbell1984	aw dayyym I just got a nodejs notification update on my linux boxes
+2020-02-06 18:52:22	mrbell1984	12.15.0 now bosh!
+2020-02-06 18:52:51	alazare619	giant_it_burrit why you leaving the spookcopter
+2020-02-06 18:53:26	alazare619	giant_it_burrit also you didnt reply to my discord messages
+2020-02-06 18:53:33	+giant_it_burrit	i reacted
+2020-02-06 18:53:43	alazare619	what are you a emo
+2020-02-06 18:53:49	alazare619	fucking spell words
+2020-02-06 18:53:52	alazare619	dont just react
+2020-02-06 18:53:58	alazare619	you snowflake
+2020-02-06 18:55:19	-->	Fehlfarben_ (~foo@x2f7fb27.dyn.telefonica.de) hat den Channel #reddit-sysadmin betreten
+2020-02-06 18:57:04	Sousapro	 jesus, windows
+2020-02-06 18:57:18	Sousapro	Winning GPO: [Default Setting]
+2020-02-06 18:57:19	-->	pppingme (~pppingme@unaffiliated/pppingme) hat den Channel #reddit-sysadmin betreten
+2020-02-06 18:57:36	Sousapro	THATS NOT HOW GROUP POLICY IS SUPPOSED TO WORK
+2020-02-06 18:57:39	<--	Fehlfarben (~foo@x2f7fbda.dyn.telefonica.de) hat den IRC verlassen (Ping timeout: 265 seconds)
+2020-02-06 18:58:42	-->	Rootsudo (~rootsudo@unaffiliated/rootsudo) hat den Channel #reddit-sysadmin betreten
+2020-02-06 18:59:36	Sousapro	let me go beat up local group policy
+2020-02-06 19:00:42	hxcsp	Sousapro: did you force it
+2020-02-06 19:01:01	hxcsp	try /forceharder
+2020-02-06 19:01:23	Sousapro	square peg in round hole, heard
+2020-02-06 19:02:12	mrbell1984	can group policy take people to court for forcing it to do things
+2020-02-06 19:02:31	Sousapro	with what I've seen at this job, yes
+2020-02-06 19:03:43	mrbell1984	lol
+2020-02-06 19:04:50	alazare619	Sousapro dc2003?
+2020-02-06 19:05:08	Sousapro	DC 2012R2
+2020-02-06 19:05:20	Sousapro	just checked local security policy and it's set to not configured
+2020-02-06 19:05:40	Sousapro	so not configured is overriding a valid group policy
+2020-02-06 19:06:10	alazare619	gpupdate /sync
+2020-02-06 19:06:12	alazare619	dont do /force
+2020-02-06 19:06:37	alazare619	gpupdate /force doesnt actually force it
+2020-02-06 19:06:43	alazare619	gpupdate /sync does however
+2020-02-06 19:07:37	Sousapro	okay, next GPUpdate will be synchronous
+2020-02-06 19:08:02	PublicWiFi	man..
+2020-02-06 19:08:09	DaDawg	does Funwaa have an API
+2020-02-06 19:08:12	PublicWiFi	if i move data from a drive, format it to a different filesystem, then move it back
+2020-02-06 19:08:22	PublicWiFi	veeam is gonna want to recatalog all that data at once isn't it
+2020-02-06 19:08:27	PublicWiFi	on the next backup
+2020-02-06 19:08:59	mrbell1984	alazare619 you would think /sync would mean sync and /force would be force
+2020-02-06 19:09:15	Sousapro	sometimes you just really need a reboot
+2020-02-06 19:09:33	Sousapro	it makes sense
+2020-02-06 19:09:37	alazare619	certain policies cant apply during normal operation
+2020-02-06 19:09:45	alazare619	some can only apply prior to network initilization
+2020-02-06 19:09:53	alazare619	when in doubt gpupdate /boot /sync
+2020-02-06 19:10:28	Sousapro	I know helpdesk guys who will gpupdate /force /boot /sync for anything
+2020-02-06 19:10:44	Sousapro	BREAK ALL THE THINGS
+2020-02-06 19:10:51	Sousapro	why do I have 12 printers?
+2020-02-06 19:10:53	Sousapro	lol
+2020-02-06 19:11:04	alazare619	lmao the /force serves no purpose :P
+2020-02-06 19:11:06	-->	farmfromjakestat (~farmfromj@gateway/tor-sasl/farmfromjakestat) hat den Channel #reddit-sysadmin betreten
+2020-02-06 19:11:13	Sousapro	yup lol
+2020-02-06 19:11:19	-->	Spr1ng (~Spr1ng@unaffiliated/spr1ng) hat den Channel #reddit-sysadmin betreten
+2020-02-06 19:11:21	alazare619	like gpupdate /force really has no purpose...gpupdate does what gpupdate /force does
+2020-02-06 19:11:24	alazare619	nothing diffrent
+2020-02-06 19:11:24	alazare619	different
+2020-02-06 19:11:30	Sousapro	except reapplying preferences that shouldn't be reapplied
+2020-02-06 19:11:42	alazare619	one day ill spell different right but until then I have grammarly
+2020-02-06 19:12:03	alazare619	Sousapro it only re-applies whats changed
+2020-02-06 19:12:10	alazare619	so if the preference never changed it wont re-apply
+2020-02-06 19:12:29	alazare619	unless they are using replace...in which case then it will blink i think
+2020-02-06 19:12:50	Sousapro	I always thought it would reapply all gpos
+2020-02-06 19:13:11	alazare619	its more like a reset
+2020-02-06 19:13:13	Sousapro	https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/gpupdate
+2020-02-06 19:13:21	Sousapro	I hate when their documentation is off
+2020-02-06 19:13:23	alazare619	but the description doesnt actually describe it properly
+2020-02-06 19:13:36	alazare619	because alot of policies cant apply during normal operation
+2020-02-06 19:13:55	alazare619	what it basically does is heres the gpo's you should have here try to re-apply
+2020-02-06 19:14:04	alazare619	while gpupdate does the same
+2020-02-06 19:14:05	<--	jackedin (~jackedin@64.42.179.51) hat den IRC verlassen (Quit: Leaving)
+2020-02-06 19:14:20	alazare619	if gpupdate doesnt work gpupdate /force 99/100 times wont work
+2020-02-06 19:14:34	alazare619	the only change is gpupdate only adds new
+2020-02-06 19:14:40	alazare619	and gpupdate force does new + existing
+2020-02-06 19:14:47	Sousapro	yeah, I literally only do gpupdate 99% of the time
+2020-02-06 19:14:53	Sousapro	after verifying replication of the policy
+2020-02-06 19:15:19	alazare619	just live on a prayer and repadmin /syncall AdeP
+2020-02-06 19:15:52	Sousapro	lol
+2020-02-06 19:16:00	Sousapro	stop stealing my favorite command
+2020-02-06 19:16:32	alazare619	how i trouble shoot replication issues
+2020-02-06 19:16:33	Sousapro	there's no reason to push replication faster than 4x an hour right?
+2020-02-06 19:16:43	alazare619	have i ran repadmin /syncall AdeP
+2020-02-06 19:16:47	alazare619	No? run it
+2020-02-06 19:16:50	Sousapro	lol
+2020-02-06 19:16:52	alazare619	Yes? Run it again
+2020-02-06 19:17:11	alazare619	is it still broken
+2020-02-06 19:17:20	alazare619	remove the dc and delete it
+2020-02-06 19:17:26	Sousapro	lol
+2020-02-06 19:17:35	Sousapro	the kill it with fire approach to troubleshooting
+2020-02-06 19:17:37	Sousapro	I like it
+2020-02-06 19:17:39	alazare619	dc's are expendable idk why anyone worrys so much about them
+2020-02-06 19:17:50	 *	catbeard destroys your dc
+2020-02-06 19:17:52	Sousapro	because they are dense and only have one
+2020-02-06 19:17:53	catbeard	it's gone
+2020-02-06 19:17:56	alazare619	everyone here treats dc's like they are gods...
+2020-02-06 19:17:58	alazare619	its annoying
+2020-02-06 19:18:02	Sousapro	they are important
+2020-02-06 19:18:07	Sousapro	but easily replaceable
+2020-02-06 19:18:10	alazare619	^
+2020-02-06 19:18:15	Sousapro	I can do one in about 30 minutes
+2020-02-06 19:18:16	alazare619	takes like 5 mins to spin up a new DC
+2020-02-06 19:18:22	alazare619	I have a template in vmware
+2020-02-06 19:18:23	Sousapro	most of which is waiting for replication
+2020-02-06 19:18:24	alazare619	boom done
+2020-02-06 19:18:24	catbeard	still have to be there
+2020-02-06 19:18:30	catbeard	what if they do it overnight after you've gone home
+2020-02-06 19:18:32	Sousapro	alazare619: same
+2020-02-06 19:18:43	Sousapro	catbeard: the other DCs will do their jobs?
+2020-02-06 19:18:54	catbeard	and what if all of your dcs catch fire
+2020-02-06 19:18:59	alazare619	yea i typically run the rule of 3
+2020-02-06 19:19:03	Sousapro	catbeard: you have bigger problems
+2020-02-06 19:19:05	+corn266	call the fire dept
+2020-02-06 19:19:06	alazare619	2 vm's and 1 RODC thats physical
+2020-02-06 19:19:09	catbeard	fair
+2020-02-06 19:19:29	Sousapro	I run two virtual GCs at every site with a physical one at our primary data center
+2020-02-06 19:20:02	Alternity	physical DC? is it 2010?
+2020-02-06 19:20:08	Sousapro	WS 2019
+2020-02-06 19:20:24	Sousapro	you don't want a $1000 1U physical DC somewhere?
+2020-02-06 19:20:24	khelpw	I legit just replaced a physical DC with a VM on Monday
+2020-02-06 19:20:35	Sousapro	just in case your virtualization environment implodes?
+2020-02-06 19:20:49	alazare619	I always keep 1 physical rodc
+2020-02-06 19:20:49	khelpw	It's on a standalone Hyper-V host, with local storage.
+2020-02-06 19:20:52	alazare619	Exactly
+2020-02-06 19:20:56	Alternity	if anyone is still scared of virtualized DC's in 2020
+2020-02-06 19:20:59	Alternity	it's time for a new career
+2020-02-06 19:21:00	khelpw	Our BDC at that site is still physical.
+2020-02-06 19:21:03	Sousapro	khelpw: fine, that works lol
+2020-02-06 19:21:20	khelpw	But that thing is set to get the axe in the next couple weeks hopefully.
+2020-02-06 19:21:21	Alternity	you should be thinking about how do i get my DC into a docker container ;)
+2020-02-06 19:21:29	khelpw	This client is backwards as fuck though
+2020-02-06 19:21:30	Sousapro	Alternity: I have 20 virtual DCs lol
+2020-02-06 19:21:38	khelpw	They don't have DHCP enabled anywhere...For security.
+2020-02-06 19:21:40	Sousapro	with one physical as a backup
+2020-02-06 19:22:07	alazare619	I've had a few cases where the rodc saved my shit  cause San shot shit or other situations
+2020-02-06 19:22:08	khelpw	Instead they have an excel spreadsheet documenting the static addresses assigned to every server, printer, workstation, and phone.
+2020-02-06 19:22:13	<--	NiSt (~NiSt@37.159.83.79) hat den IRC verlassen (Ping timeout: 268 seconds)
+2020-02-06 19:22:15	Sousapro	Alternity: yeah, they destroyed my dream when they said no infra in nano
+2020-02-06 19:22:26	Sousapro	khelpw: jesus are they insane?
+2020-02-06 19:22:28	Alternity	i dont think you can use the AD DS role in nano
+2020-02-06 19:22:32	khelpw	Even my more sensible client has a secondary DC hosted on a separate, standalone ESXI instance.
+2020-02-06 19:22:37	khelpw	No, just big dumb
+2020-02-06 19:22:41	khelpw	I'm slowly un-dumbing them
+2020-02-06 19:22:48	Alternity	i mean, i wouldn't put my only to DC VM's on the same physical host...
+2020-02-06 19:22:54	Sousapro	why not just use radius auth for DHCP?
+2020-02-06 19:22:59	Sousapro	or port whitelisting?
+2020-02-06 19:23:02	Sousapro	or both
+2020-02-06 19:23:04	Sousapro	try both
+2020-02-06 19:23:13	khelpw	Recently got them changed over from using windows server backup   going to tape drives over to a datto
+2020-02-06 19:23:22	khelpw	because none of that is even necessary - they have a flat network with only 1 location.
+2020-02-06 19:23:37	Sousapro	what about offline archives?
+2020-02-06 19:23:47	Sousapro	or does literally no one care about that anymore?
+2020-02-06 19:23:54	khelpw	Literally no one
+2020-02-06 19:24:08	khelpw	Fucking AWS glacier or something if you have some compliance box to check
+2020-02-06 19:24:21	Sousapro	khelpw: that's what I do over on azure blob for veeam
+2020-02-06 19:24:37	khelpw	Yeah, same dealie, or backblaze, whatever your cloud of choice
+2020-02-06 19:24:49	Sousapro	I just would like the offline revenge proof backups for a business
+2020-02-06 19:24:57	khelpw	In this case though, we've got short term local, 1 year off-site via datto.
+2020-02-06 19:25:02	Sousapro	it would take me like five minutes to end all backups here
+2020-02-06 19:25:18	Sousapro	I would never do it
+2020-02-06 19:25:21	khelpw	all encrypted everywhere etc. Good stuff.
+2020-02-06 19:25:32	Sousapro	but it scares the hell out of me that is the standard state of affairs
+2020-02-06 19:25:59	alazare619	Alternity its not "afraid of virtualized" its incase san goes down or something else it minimizes potential downtime
+2020-02-06 19:26:14	Sousapro	khelpw: yeah, it's good to not be the next guy on the internet who forgot to encrypt data in a cloud provider lol
+2020-02-06 19:26:18	Sousapro	alazare619: ++
+2020-02-06 19:26:30	alazare619	i've had a few situations where everything went down and because i have a RODC it was minimal
+2020-02-06 19:26:44	alazare619	cheap insurance to minimize the afterhours time i have to put in
+2020-02-06 19:26:57	Sousapro	I will say that I like the standalone Hyper-V instance with local storage
+2020-02-06 19:27:09	Sousapro	I may consider that when I upgrade the physical DC next time
+2020-02-06 19:27:17	Sousapro	no reason not to if there's no integration elsewhere
+2020-02-06 19:27:43	Sousapro	I guess I really just don't care about that box very much
+2020-02-06 19:27:57	<--	th4ntis (~th4ntis@2605:a000:122c:1da:2d62:3a44:ed9e:93b5) hat den IRC verlassen (Quit: Konversation terminated!)
+2020-02-06 19:27:59	Sousapro	needs almost no maintenance and i'll just spin it back up if it dies
+2020-02-06 19:28:04	-->	th4ntis_ (~th4ntis@cpe-173-90-78-32.neo.res.rr.com) hat den Channel #reddit-sysadmin betreten
+2020-02-06 19:28:05	khelpw	Especially because you get the 1p2v license with retail. For a lot of low-cost clients it's a good solution
+2020-02-06 19:28:22	khelpw	GIves you a lot of options in terms of backups/snapshots etc, and good recoverability options.
+2020-02-06 19:28:32	Sousapro	lol I bet someone has used that with both DCs on the same host before
+2020-02-06 19:28:45	PublicWiFi	anyone here ever used osTicket?
+2020-02-06 19:28:49	PublicWiFi	I'm thinking of self hosting it maybe
+2020-02-06 19:29:18	-->	desugen (ProudFrogg@gateway/vpn/privateinternetaccess/proudfrogger) hat den Channel #reddit-sysadmin betreten
+2020-02-06 19:29:30	alazare619	its pretty flexible
+2020-02-06 19:29:35	alazare619	thats all I can say good about it
+2020-02-06 19:29:35	<--	SAGC (~SysAdminG@unaffiliated/sysadmingonecraz) hat den IRC verlassen (Quit: Leaving)
+2020-02-06 19:31:37	Sousapro	PublicWiFi: better than no ticketing system
+2020-02-06 19:31:45	Alternity	afaik osticket is fine
+2020-02-06 19:31:49	alazare619	better then spiceworks
+2020-02-06 19:31:50	alazare619	lmao
+2020-02-06 19:31:55	Sousapro	lol you're not wwrong
+2020-02-06 19:31:59	<--	desgenesis (~ProudFrog@unaffiliated/proudfrogger) hat den IRC verlassen (Ping timeout: 260 seconds)
+2020-02-06 19:32:21	Sousapro	spiceworks cloud is nice if you want ticketing working in like literally 5 minutes and you're 100 people or less
+2020-02-06 19:32:45	Sousapro	I've been using jira/jira service desk and it's been pretty decent
+2020-02-06 19:33:14	Sousapro	sysadmin/engineering tasks in Jira and customer support in service desk
+2020-02-06 19:34:31	alazare619	we use connectwise here
+2020-02-06 19:34:34	alazare619	its garbage
+2020-02-06 19:34:40	alazare619	but better then spiceworks
+2020-02-06 19:37:07	alazare619	if I were to make a recommendation it would be OTRS and its easily deployed via docker
+2020-02-06 19:37:17	alazare619	https://github.com/juanluisbaptiste/docker-otrs
+2020-02-06 19:38:36	Jangles	Anybody here had success in throttling YouTube bandwidth by GPO (Policy-based-QoS)?
+2020-02-06 19:39:05	+corn266	the only docking i do
+2020-02-06 19:39:10	+corn266	is in KSP with the ISS
+2020-02-06 19:39:32	AaronXu	is there a way to log into office 365 email accounts as admin? without reseting everyones password
+2020-02-06 19:39:55	+AnonymooseReddtr	AaronXu why would you want to do that
+2020-02-06 19:39:56	Jangles	Issue seems to be that you need to specify by IP address, and YouTube has thousands, so then my thought was to have a GPO "lock" YouTube down to a single IP, then throttle bandwidth for that one IP, though I don't know how YouTube's content delivery network functions.
+2020-02-06 19:40:12	alazare619	what
+2020-02-06 19:40:14	alazare619	WHAT
+2020-02-06 19:40:20	alazare619	WHAT THE ACTUAL FUCK DID I READ
+2020-02-06 19:40:27	+AnonymooseReddtr	lol alazare619
+2020-02-06 19:40:29	alazare619	just do it at the firewall/router like a normal human
+2020-02-06 19:41:06	AaronXu	its a request from legal council
+2020-02-06 19:41:09	<--	Rootsudo (~rootsudo@unaffiliated/rootsudo) hat den IRC verlassen (Quit: Textual IRC Client: www.textualapp.com)
+2020-02-06 19:41:10	Jangles	You can throttle a site in Windows Firewall (rather than block/allow), or do you mean the network firewall?
+2020-02-06 19:41:13	+corn266	Jangles: google has a specific subnet for media
+2020-02-06 19:41:32	-->	Rootsudo (~rootsudo@unaffiliated/rootsudo) hat den Channel #reddit-sysadmin betreten
+2020-02-06 19:42:01	+corn266	https://support.google.com/a/answer/1279090?hl=en
+2020-02-06 19:42:07	Rootsudo	BLARRRGGGG
+2020-02-06 19:42:14	Rootsudo	I love you all.
+2020-02-06 19:42:17	Rootsudo	just kidding, it's hate.
+2020-02-06 19:43:56	alazare619	what should i doordash for lunch today...
+2020-02-06 19:44:15	vinrock	"...I'm at the upper end of the millennial spectrum, maybe even gen X."
+2020-02-06 19:44:17	vinrock	wut
+2020-02-06 19:44:25	hxcsp	why is Scott Ian in every single documentary that involves somebody playing a guitar somehow
+2020-02-06 19:44:41	DaDawg	trustworthy 2 first names
+2020-02-06 19:46:25	technonerd	scotty doesnt know
+2020-02-06 19:47:52	Rootsudo	i got that reference
+2020-02-06 19:47:55	-->	Leonarbro (~Leonarbro@S01067824af93741c.cg.shawcable.net) hat den Channel #reddit-sysadmin betreten
+2020-02-06 19:47:57	Rootsudo	but it was old for me even back in highschool
+2020-02-06 19:48:59	Rootsudo	I should do a shitty transport rule
+2020-02-06 19:49:06	<--	patmorgan235 (~patmorgan@64.225.24.156) hat den IRC verlassen (Read error: Connection reset by peer)
+2020-02-06 19:49:37	Jangles	alazare619: So, were you referring to SonicWall/Fortinet bandwidth management?
+2020-02-06 19:49:46	-->	patmorgan235 (~patmorgan@64.225.24.156) hat den Channel #reddit-sysadmin betreten
+2020-02-06 19:51:16	alazare619	Jangles any firewall/router
+2020-02-06 19:51:27	alazare619	my UDM at home does it
+2020-02-06 19:52:39	Jangles	Per site/user? Wouldn't want just a generic pool, but per user, and specifically YouTube (70 percent of the traffic is YouTube 'cause the users stream their music that way, though top boss guy is fine with that, just needs to be 360p or whatever for everybody).
+2020-02-06 19:54:03	StrongBad	any of you use APC netbotz?
+2020-02-06 19:55:08	Sousapro	AaronXu: you can either do a compliance search or you can grant full access to the mailbox
+2020-02-06 19:55:12	Sousapro	What's the intention?
+2020-02-06 22:22:04	-->	dewowzer (dewowzer@gateway/vpn/protonvpn/dewowzer) hat den Channel #reddit-sysadmin betreten
+2020-02-06 22:22:04	--	Das Thema von #reddit-sysadmin lautet: ""Home of r/sysadmin | No Politics | Can't speak? Register! https://goo.gl/Pp1KQj | New? Try #reddit-sysadmin-support | /r/sysadmingaming | Keep it safe for work. | Don't post personal info."
+2020-02-06 22:22:04	--	Thema wurde festgelegt von ravioli (~ravioli@donger/pasta) am Fr, 24 Jan 2020 18:58:50
+2020-02-06 22:22:04	--	Channel #reddit-sysadmin: 501 Nicks (7 Operatoren, 17 ge-voice-te, 477 normale)
+2020-02-06 22:22:06	--	Channel erstellt am Do, 29 Dez 2011 19:56:36
+2020-02-06 22:22:54	<--	GWM (~GWM@unaffiliated/gwm) hat den IRC verlassen (Ping timeout: 268 seconds)
+2020-02-06 22:23:24	<--	zen262176 (~58613918@unaffiliated/mrbell1984) hat den IRC verlassen (Quit: The Lounge - https://thelounge.chat)
+2020-02-06 22:26:53	Hunterkll	ahahaha
+2020-02-06 22:27:03	Hunterkll	"you guys are on the right path i'd keep going"
+2020-02-06 22:27:09	Hunterkll	me: AHAHAHAAHAHAAHAH
+2020-02-06 22:27:38	Sousapro	nothing quite like the second opinion 100% confirming what you've been telling them lol
+2020-02-06 22:28:22	pcspkr	Hunterkll: why does your company arrange a conference call to second guess you?
+2020-02-06 22:28:40	-->	zen262176 (~zen262176@unaffiliated/mrbell1984) hat den Channel #reddit-sysadmin betreten
+2020-02-06 22:28:40	Sousapro	pcspkr: probably because he told them it would be painful and they didn't like hearing it
+2020-02-06 22:28:47	Hunterkll	pcspkr, no, they misinterpreted shit from microsoft thinking that azure AD/intune could do MFA login for the macOS main login
+2020-02-06 22:28:54	Sousapro	LOL
+2020-02-06 22:29:00	Hunterkll	so they told us to stop all our efforst, we're doing intune/microsoft authenticator, have a nice day
+2020-02-06 22:29:23	Hunterkll	i'm like "but that's impossible, this is the best solution"" "well lets ask apple" (a huge CYA blame everyone else  person is the one who's throwing wrenches)
+2020-02-06 22:29:36	Hunterkll	so now he's like "we have to have an internal call to discuss this after this to see what route we're going"
+2020-02-06 22:29:44	Hunterkll	while apple's like : "you're literally doing it the same way we do"
+2020-02-06 22:29:54	Hunterkll	and he's like "we have to discuss this further"
+2020-02-06 22:30:04	Sousapro	Project Manager?
+2020-02-06 22:30:07	Hunterkll	nope
+2020-02-06 22:30:28	Hunterkll	pcspkr, but yea, someone was whispering false tales 2 management layers up and stuff like that
+2020-02-06 22:30:30	Hunterkll	so this is hilarious
+2020-02-06 22:30:43	yuken	Hunterkll, you never linked me your write-up ;(
+2020-02-06 22:30:46	Hunterkll	always ends up like this when they try and better solution and then get smacked down because we did research
+2020-02-06 22:30:47	Hunterkll	yuken, i never found it
+2020-02-06 22:30:48	Hunterkll	lol
+2020-02-06 22:30:50	yuken	:(
+2020-02-06 22:30:54	yuken	you're a meanie.
+2020-02-06 22:31:03	Sousapro	Hunterkll: it's like they hired you because you were an expert in something
+2020-02-06 22:31:08	Sousapro	s/were/are
+2020-02-06 22:31:09	+layer-3ight	Sousapro meant: "Hunterkll: it's like they hired you because you are an expert in something"
+2020-02-06 22:31:10	Hunterkll	gasp
+2020-02-06 22:31:28	Sousapro	they're still going to try to spin this
+2020-02-06 22:31:29	Hunterkll	Sousapro, i mean, this is all about OS X management/MFA/etc, and i primarily run SCCM/SCOM :P
+2020-02-06 22:31:32	Hunterkll	oh for sure
+2020-02-06 22:31:35	yuken	Hunterkll, so for real, how much do you make? You mentioned being in D.C, but I believe you live nowhere near there
+2020-02-06 22:31:42	yuken	so you went on a flight for your job as an on-call guy.
+2020-02-06 22:31:46	Hunterkll	yuken, company is HQ'd in DC, i live about a hundred miles away
+2020-02-06 22:31:47	yuken	that must mean you make $$$$$$ at minimum.
+2020-02-06 22:31:48	Hunterkll	no
+2020-02-06 22:31:52	Hunterkll	i travel a shitload for personal reasons
+2020-02-06 22:31:54	Hunterkll	and work remotely
+2020-02-06 22:31:57	yuken	oh.
+2020-02-06 22:32:02	Sousapro	I make $hamsandwich
+2020-02-06 22:32:05	yuken	so do you make $$$$$ or $$$$$$?
+2020-02-06 22:32:05	Sousapro	oh and kudos
+2020-02-06 22:32:11	Sousapro	can I spend kudos on rent?
+2020-02-06 22:32:13	yuken	if you don't mind me asking*
+2020-02-06 22:33:53	+aName	Sousapro No, you can only spend exposure on rent.
+2020-02-06 22:34:12	Sousapro	aName: isn't exposure something you die from? :P
+2020-02-06 22:34:29	hxcsp	Sousapro: only if you live in China
+2020-02-06 22:34:30	+aName	Sousapro Yeah you have to be careful not to get too much of it.
+2020-02-06 22:34:43	-->	sideone (~sideone@mail.traeger.com) hat den Channel #reddit-sysadmin betreten
+2020-02-06 22:34:55	Hatter	whatever guys I'm leaving early
+2020-02-06 22:35:03	hxcsp	fine whatever
+2020-02-06 22:35:11	+aName	Sousapro That's why no one knows who did the illustration on the dollar bill - he had too much exposure.
+2020-02-06 22:35:22	Sousapro	now that I've got kerberos auth templates issued, I can disable domain controller and DCA certs and remove them from the DCs right?
+2020-02-06 22:35:48	Sousapro	s/certs/templates on the enterprise CA
+2020-02-06 22:35:49	+layer-3ight	Sousapro meant: "now that I've got kerberos auth templates issued, I can disable domain controller and DCA templates on the enterprise CA and remove them from the DCs right?"
+2020-02-06 22:38:32	Sousapro	that's a dumb question. that should definitely work
+2020-02-06 22:38:36	-->	BIOS_Hell (46a86042@wsip-70-168-96-66.oc.oc.cox.net) hat den Channel #reddit-sysadmin betreten
+2020-02-06 22:38:48	Sousapro	this is what I get for trying to systems work with a bad cold
+2020-02-06 22:39:18	<--	zen262176 (~zen262176@unaffiliated/mrbell1984) hat den IRC verlassen (Quit: The Lounge - https://thelounge.chat)
+2020-02-06 22:39:29	-->	zen262176 (~zen262176@unaffiliated/mrbell1984) hat den Channel #reddit-sysadmin betreten
+2020-02-06 22:39:29	BIOS_Hell	Any suggestions for resetting BIOS password on a laptop that has no OS on it, short of taking it apart?
+2020-02-06 22:40:09	wasutton3	BIOS_Hell: linux live cd and some voodoo commands
+2020-02-06 22:40:15	wasutton3	maybe kali has something installed
+2020-02-06 22:43:03	@mistiry	BIOS password should be agnostic of an OS installation
+2020-02-06 22:43:30	ekaj	just fucked up a server rip
+2020-02-06 22:43:33	+corn266	Arch123
+2020-02-06 22:43:52	@mistiry	If you can access the motherboard, there might be a jumper for resetting the BIOS password
+2020-02-06 22:44:16	BIOS_Hell	there are BIOS tools, but they require an OS to run on
+2020-02-06 22:44:24	BIOS_Hell	yeah I just don't feel like disassembling a laptop
+2020-02-06 22:47:48	PublicWiFi	My GAL refuses to update lol
+2020-02-06 22:47:55	<--	zen262176 (~zen262176@unaffiliated/mrbell1984) hat den IRC verlassen (Quit: The Lounge - https://thelounge.chat)
+2020-02-06 22:47:56	+corn266	tell her to take ahike
+2020-02-06 22:48:03	@JollyRgrs	PublicWiFi: dump her and find a new gal
+2020-02-06 22:48:03	PublicWiFi	even when i run Update-GlobalAddressList etc etc, it still says its not updated in exchange
+2020-02-06 22:48:05	PublicWiFi	rip
+2020-02-06 22:48:07	PublicWiFi	rip x2
+2020-02-06 22:48:20	PublicWiFi	cmdlet runs without error... now
+2020-02-06 22:48:28	PublicWiFi	i had to delete a bunch of old public folders from exchange
+2020-02-06 22:48:40	-->	zen262176 (~zen262176@unaffiliated/mrbell1984) hat den Channel #reddit-sysadmin betreten
+2020-02-06 22:48:57	PublicWiFi	BIOS_Hell: remove the cmos battery?
+2020-02-06 22:49:21	yuken	Hunterkll, so wtf is going on with my VM & nVidia GPUs not doing >1607? are nVidia doing that on purpose cuz they're cukcs?
+2020-02-06 22:49:31	PublicWiFi	those are usually behind a cover so you dont have to take it al the way apart
+2020-02-06 22:50:37	Hunterkll	yuken, probably
+2020-02-06 22:50:59	CombatVet	anyone here try mounting a 2u server vertically (sideway)?
+2020-02-06 22:51:16	PublicWiFi	i have a feeling my GAL and OAB are boned cause of a migration incident
+2020-02-06 22:52:17	pcspkr	/r/sysadmin is kinda meh most of the time
+2020-02-06 22:52:34	pcspkr	people are still debating domain joining ffs
+2020-02-06 22:53:26	Sousapro	dumb question: is there any reason to not make a domain controller a global catalog?
+2020-02-06 22:53:36	Sousapro	performance?
+2020-02-06 22:53:49	yuken	Win10 1607 and below, and Windows, work fine (if I do other bullshit to make the nVidia card think it's not in a VM)
+2020-02-06 22:54:06	yuken	so if I had to guess, nVidia bribed MS with some "hey baby lemme say fuck you to these guys" money.
+2020-02-06 22:54:13	+aName	pcspkr It's not really a debate? The only time I wouldn't do it is if I knew it wouldn't be able to contact the DC once a month, and I'd be asking why that was.
+2020-02-06 22:56:06	+aName	Totally unrelated, just saw a meme that made me giggle - Lundbergh_Sunday.jpg: "If people would realize that four wheel drive does not mean four wheel stop, that would be greaaaaaat."
+2020-02-06 22:56:35	PublicWiFi	why would Update-GlobalAddressList work wihout error but still not work
+2020-02-06 22:56:39	PublicWiFi	I hate exchange so much
+2020-02-06 22:57:54	Hunterkll	yuken, no, it's probably the specific driver releases
+2020-02-06 22:58:08	Hunterkll	nVidia clamped down on virtualization uses for some cards because of datacenter cards/licensing
+2020-02-06 22:58:10	<--	that_lurker (~that_lurk@cable-tku-50ddf8-209.dhcp.inet.fi) hat den IRC verlassen (Quit: ZNC 1.7.5 - https://znc.in)
+2020-02-06 22:58:11	alazare619	aName https://twitter.com/LawrenceKS_PD/status/1206331736097017856?s=20
+2020-02-06 22:58:22	Hunterkll	i'm sure there's workarounds
+2020-02-06 22:58:31	Hunterkll	but it'd take a fair amount of work and i'm not willing to try because lazy
+2020-02-06 22:58:32	pcspkr	Hunterkll: named amd
+2020-02-06 22:58:38	Hunterkll	?
+2020-02-06 22:58:51	Hunterkll	i've seen it working before at any rate with a 1080 Ti on 1903 in a VM passed through
+2020-02-06 22:58:52	Hunterkll	but anyway
+2020-02-06 22:59:08	Hunterkll	I need an AMD card at some point for hackintosh stuff, but i'd never use it for gaming (performance gap too big)
+2020-02-06 23:00:07	+aName	alazare619 the skiing supercar?
+2020-02-06 23:00:26	<--	OGMatt (~OGMatt@89.238.141.232) hat den IRC verlassen (Quit: OGMatt)
+2020-02-06 23:00:38	Sousapro	Hunterkll: I guess it's hard for me to care at this point. radeon VII is working well and ray tracing is still slightly too slow on 2080 TI
+2020-02-06 23:00:44	Sousapro	next gen cards will be fun
+2020-02-06 23:00:45	alazare619	aName just follow their twitter lawrence kansas police department's twitter is full of awesome straight savage memes
+2020-02-06 23:00:52	+aName	alazare619 Ah
+2020-02-06 23:01:24	+aName	Wondering if the roads are cleared up
+2020-02-06 23:01:24	alazare619	aName https://i.imgur.com/IjHYTbk.jpg heres an example too
+2020-02-06 23:01:31	-->	that_lurker (~that_lurk@cable-tku-50ddf8-209.dhcp.inet.fi) hat den Channel #reddit-sysadmin betreten
+2020-02-06 23:01:32	+aName	I was out last night and took a slide
+2020-02-06 23:01:38	+aName	Which is ... fun
+2020-02-06 23:01:41	Hunterkll	Church-, did you see that the headphone jack, if hardware kill switch disabled, becomes a tx/rx serial port?
+2020-02-06 23:01:42	Hunterkll	lol
+2020-02-06 23:01:53	Church-	Hunterkll: Yeah it's fucking rad lol
+2020-02-06 23:02:05	+aName	alazare619 lol @ Jan's prius
+2020-02-06 23:02:26	Hunterkll	Church-, it has like 1/10th of the connectivity of my ipaqs, so i'm designing a fuckin adapter rig to replace what i do with the ipaqs
+2020-02-06 23:02:34	Church-	lol
+2020-02-06 23:02:45	Hunterkll	Church-, ipaq has parallel, serial, 2x PCMCIA, IRDA, CF, SDIO, etc broken out on the bottom port for sleeves
+2020-02-06 23:02:53	Hunterkll	even has audio and other stuff for a GSM sleeve
+2020-02-06 23:03:12	alazare619	aName first post https://twitter.com/LawrenceKS_PD look out for a neck beard guy
+2020-02-06 23:03:18	alazare619	shit they are looking for us
+2020-02-06 23:03:28	<--	CombatVet (~c4@gateway/tor-sasl/combatvet) hat den IRC verlassen (Remote host closed the connection)
+2020-02-06 23:03:56	@JollyRgrs	Just in case he’s changed clothes, try to look for the neck beard guy with the open mouth probably buying lip balm with a big wad of cash.
+2020-02-06 23:03:59	+aName	alazare619 See - that's a beard on a neck, not a neckbeard, if you ask me
+2020-02-06 23:03:59	-->	CombatVet (~c4@gateway/tor-sasl/combatvet) hat den Channel #reddit-sysadmin betreten
+2020-02-06 23:04:07	+aName	alazare619 Too well kept to be a proper neckbeard
+2020-02-06 23:04:24	<--	BIOS_Hell (46a86042@wsip-70-168-96-66.oc.oc.cox.net) hat den IRC verlassen (Remote host closed the connection)
+2020-02-06 23:04:49	+aName	tbh little envious of the follicle density lol
+2020-02-06 23:05:00	alazare619	"Lawrence Police @LawrenceKS_PD · Jan 11 Update: Snow. Snow e’rywhere. And it’s colder than @RileyCountyPD ’s hearts. Please don’t crime. It’s to cold."
+2020-02-06 23:05:10	alazare619	so cold they dont want to get out of the cop cars lol
+2020-02-06 23:05:17	+aName	alazare619 You ever take a sociology class?
+2020-02-06 23:05:28	+aName	alazare619 First thing they teach you is the relationship between temperature and crime.
+2020-02-06 23:05:40	alazare619	i figured as much
+2020-02-06 23:05:45	alazare619	its why they keep prisons so cold
+2020-02-06 23:05:48	alazare619	ask me how i know this lol
+2020-02-06 23:06:02	-->	Macuser (~macuser@unaffiliated/macuser) hat den Channel #reddit-sysadmin betreten
+2020-02-06 23:06:06	+aName	Considering that at any given time, something like 1% of the US population is in prison...
+2020-02-06 23:06:10	+aName	I can take a guess.
+2020-02-06 23:07:09	-->	SAGC (~SysAdminG@unaffiliated/sysadmingonecraz) hat den Channel #reddit-sysadmin betreten
+2020-02-06 23:07:38	+DomLS3	Ok....
+2020-02-06 23:08:00	yuken	Hunterkll, this happens w/o nVidia drivers.
+2020-02-06 23:08:00	+DomLS3	Veeam, Zerto, Altaro, or what else is the absolute #1 in backup (for both physical AND virtual)
+2020-02-06 23:08:04	yuken	the latest release works under 1607.
+2020-02-06 23:08:07	+DomLS3	Including cost
+2020-02-06 23:08:08	<--	Code_Man65 (~Code_Man6@unaffiliated/code-man65/x-4804736) hat den IRC verlassen (Quit: Why is the alphabet in that order? Is it because of that song?)
+2020-02-06 23:08:23	+DomLS3	Im assuming veeam but I need validation for an argument
+2020-02-06 23:09:09	alazare619	never tried zerto or altaro
+2020-02-07 11:00:20	-->	dewowzer (dewowzer@gateway/vpn/protonvpn/dewowzer) hat den Channel #reddit-sysadmin betreten
+2020-02-07 11:00:20	--	Das Thema von #reddit-sysadmin lautet: ""Home of r/sysadmin | No Politics | Can't speak? Register! https://goo.gl/Pp1KQj | New? Try #reddit-sysadmin-support | /r/sysadmingaming | Keep it safe for work. | Don't post personal info."
+2020-02-07 11:00:20	--	Thema wurde festgelegt von ravioli (~ravioli@donger/pasta) am Fr, 24 Jan 2020 18:58:50
+2020-02-07 11:00:21	--	Channel #reddit-sysadmin: 491 Nicks (6 Operatoren, 16 ge-voice-te, 469 normale)
+2020-02-07 11:00:22	--	Channel erstellt am Do, 29 Dez 2011 19:56:36
+2020-02-07 11:07:17	<--	ghost43 (~daer@gateway/tor-sasl/daer) hat den IRC verlassen (Remote host closed the connection)
+2020-02-07 11:08:01	-->	ghost43 (~daer@gateway/tor-sasl/daer) hat den Channel #reddit-sysadmin betreten
+2020-02-07 11:14:54	-->	rpifan (~rpifan@62.55.240.54) hat den Channel #reddit-sysadmin betreten
+2020-02-07 11:14:59	rpifan	ohhhhhh im blinded by the light
+2020-02-07 11:24:00	mijndert	all of the lights
+2020-02-07 11:26:53	<--	Alpha3031[m] (alpha3031m@wikipedia/Alpha3031) hat den IRC verlassen (Quit: killed)
+2020-02-07 11:27:17	<--	monoxane (monoxane1@gateway/shell/matrix.org/x-kssvnjbvdkzmsowu) hat den IRC verlassen (Quit: killed)
+2020-02-07 11:27:24	<--	mkowalski (mkowalskim@gateway/shell/matrix.org/x-zbrsktcuveahpgib) hat den IRC verlassen (Quit: killed)
+2020-02-07 11:29:39	<--	DomLS3 (~DomLS3@unaffiliated/domls3) hat den IRC verlassen (Ping timeout: 240 seconds)
+2020-02-07 11:35:46	<--	pedro__ (~DodgeThis@246.102.90.149.rev.vodafone.pt) hat den IRC verlassen (Quit: Leaving)
+2020-02-07 11:36:07	-->	teh_f4ll3n (~teh_f4ll3@dhcp-892b8656.ucd.ie) hat den Channel #reddit-sysadmin betreten
+2020-02-07 11:38:46	rpifan	no one around me can judge me
+2020-02-07 11:44:18	ihre	why doesnt the office365 outlook search function also search for email groups you're part of ? :\

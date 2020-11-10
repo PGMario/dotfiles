@@ -1,0 +1,1866 @@
+2020-02-04 12:35:30		Neue Tastenbelegung (Kontext "default"): meta-meta-OQ => /bar scroll buflist * e
+2020-02-04 12:35:30		Neue Tastenbelegung (Kontext "default"): meta-meta-OP => /bar scroll buflist * b
+2020-02-04 12:35:30		Neue Tastenbelegung (Kontext "default"): meta-OQ => /bar scroll buflist * +100%
+2020-02-04 12:35:30		Neue Tastenbelegung (Kontext "default"): meta-OP => /bar scroll buflist * -100%
+2020-02-04 12:35:30		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-02-04 12:36:00		[core]
+2020-02-04 12:36:00		  away     command  filter   key      plugin   reload   set      version
+2020-02-04 12:36:00		  bar      cursor   help     layout   print    repeat   unset    wait   
+2020-02-04 12:36:00		  buffer   debug    history  mouse    proxy    save     upgrade  window 
+2020-02-04 12:36:00		  color    eval     input    mute     quit     secure   uptime 
+2020-02-04 12:36:00		[exec]
+2020-02-04 12:36:00		  exec
+2020-02-04 12:36:00		[irc]
+2020-02-04 12:36:00		  admin       die         lusers      ping        saquit      userhost  
+2020-02-04 12:36:00		  allchan     disconnect  map         pong        server      users     
+2020-02-04 12:36:00		  allpv       halfop      me          query       service     version   
+2020-02-04 12:36:00		  allserv     ignore      mode        quiet       servlist    voice     
+2020-02-04 12:36:00		  ban         info        motd        quote       squery      wallchops 
+2020-02-04 12:36:00		  cap         invite      msg         reconnect   squit       wallops   
+2020-02-04 12:36:00		  connect     ison        names       rehash      stats       who       
+2020-02-04 12:36:00		  ctcp        join        nick        remove      summon      whois     
+2020-02-04 12:36:00		  cycle       kick        notice      restart     time        whowas    
+2020-02-04 12:36:00		  dcc         kickban     notify      sajoin      topic     
+2020-02-04 12:36:00		  dehalfop    kill        op          samode      trace     
+2020-02-04 12:36:00		  deop        links       oper        sanick      unban     
+2020-02-04 12:36:00		  devoice     list        part        sapart      unquiet   
+2020-02-04 12:36:00		[logger]
+2020-02-04 12:36:00		  logger
+2020-02-04 12:36:00		[relay]
+2020-02-04 12:36:00		  relay
+2020-02-04 12:36:00		[buflist]
+2020-02-04 12:36:00		  buflist
+2020-02-04 12:36:00		[trigger]
+2020-02-04 12:36:00		  trigger
+2020-02-04 12:36:00		[alias]
+2020-02-04 12:36:00		  AAWAY    BEEP     CLOSE    KB       N        T        WC     
+2020-02-04 12:36:00		  alias    BYE      EXIT     LEAVE    Q        UB       WI     
+2020-02-04 12:36:00		  AME      C        IG       M        REDRAW   UMODE    WII    
+2020-02-04 12:36:00		  AMSG     CHAT     J        MSGBUF   SAY      V        WW     
+2020-02-04 12:36:00		  ANICK    CL       K        MUB      SIGNOFF  W      
+2020-02-04 12:36:00		[ruby]
+2020-02-04 12:36:00		  ruby
+2020-02-04 12:36:00		[fset]
+2020-02-04 12:36:00		  fset
+2020-02-04 12:36:00		[python]
+2020-02-04 12:36:00		  python
+2020-02-04 12:36:00		[aspell]
+2020-02-04 12:36:00		  aspell
+2020-02-04 12:36:00		[script]
+2020-02-04 12:36:00		  script
+2020-02-04 12:36:00		[xfer]
+2020-02-04 12:36:00		  me  xfer
+2020-02-04 12:36:00		[fifo]
+2020-02-04 12:36:00		  fifo
+2020-02-04 12:36:00		[charset]
+2020-02-04 12:36:00		  charset
+2020-02-04 12:36:00		[perl]
+2020-02-04 12:36:00		  perl
+2020-02-04 12:54:36	=!=	irc: Der Befehl "nick" kann nur im IRC-Buffer ausgeführt werden (Server oder Channel)
+2020-02-04 12:54:45		[core]
+2020-02-04 12:54:45		  away     command  filter   key      plugin   reload   set      version
+2020-02-04 12:54:45		  bar      cursor   help     layout   print    repeat   unset    wait   
+2020-02-04 12:54:45		  buffer   debug    history  mouse    proxy    save     upgrade  window 
+2020-02-04 12:54:45		  color    eval     input    mute     quit     secure   uptime 
+2020-02-04 12:54:45		[exec]
+2020-02-04 12:54:45		  exec
+2020-02-04 12:54:45		[irc]
+2020-02-04 12:54:45		  admin       die         lusers      ping        saquit      userhost  
+2020-02-04 12:54:45		  allchan     disconnect  map         pong        server      users     
+2020-02-04 12:54:45		  allpv       halfop      me          query       service     version   
+2020-02-04 12:54:45		  allserv     ignore      mode        quiet       servlist    voice     
+2020-02-04 12:54:45		  ban         info        motd        quote       squery      wallchops 
+2020-02-04 12:54:45		  cap         invite      msg         reconnect   squit       wallops   
+2020-02-04 12:54:45		  connect     ison        names       rehash      stats       who       
+2020-02-04 12:54:45		  ctcp        join        nick        remove      summon      whois     
+2020-02-04 12:54:45		  cycle       kick        notice      restart     time        whowas    
+2020-02-04 12:54:45		  dcc         kickban     notify      sajoin      topic     
+2020-02-04 12:54:45		  dehalfop    kill        op          samode      trace     
+2020-02-04 12:54:45		  deop        links       oper        sanick      unban     
+2020-02-04 12:54:45		  devoice     list        part        sapart      unquiet   
+2020-02-04 12:54:45		[logger]
+2020-02-04 12:54:45		  logger
+2020-02-04 12:54:45		[relay]
+2020-02-04 12:54:45		  relay
+2020-02-04 12:54:45		[buflist]
+2020-02-04 12:54:45		  buflist
+2020-02-04 12:54:45		[trigger]
+2020-02-04 12:54:45		  trigger
+2020-02-04 12:54:45		[alias]
+2020-02-04 12:54:45		  AAWAY    BEEP     CLOSE    KB       N        T        WC     
+2020-02-04 12:54:45		  alias    BYE      EXIT     LEAVE    Q        UB       WI     
+2020-02-04 12:54:45		  AME      C        IG       M        REDRAW   UMODE    WII    
+2020-02-04 12:54:45		  AMSG     CHAT     J        MSGBUF   SAY      V        WW     
+2020-02-04 12:54:45		  ANICK    CL       K        MUB      SIGNOFF  W      
+2020-02-04 12:54:45		[ruby]
+2020-02-04 12:54:45		  ruby
+2020-02-04 12:54:45		[fset]
+2020-02-04 12:54:45		  fset
+2020-02-04 12:54:45		[python]
+2020-02-04 12:54:45		  python
+2020-02-04 12:54:45		[aspell]
+2020-02-04 12:54:45		  aspell
+2020-02-04 12:54:45		[script]
+2020-02-04 12:54:45		  script
+2020-02-04 12:54:45		[xfer]
+2020-02-04 12:54:45		  me  xfer
+2020-02-04 12:54:45		[fifo]
+2020-02-04 12:54:45		  fifo
+2020-02-04 12:54:45		[charset]
+2020-02-04 12:54:45		  charset
+2020-02-04 12:54:45		[perl]
+2020-02-04 12:54:45		  perl
+2020-02-04 13:06:01	=!=	zu wenig Argumente für den Befehl "/query" (nutze die Hilfe für den Befehl: /help query)
+2020-02-04 13:06:05		fifo: Pipe geschlossen
+2020-02-04 14:27:52		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-02-04 14:27:56	=!=	Fehler: Einstellung "irc.server.freenode.addresses" wurde nicht gefunden
+2020-02-04 14:28:12	=!=	Fehler: Der Befehl "/network" ist nicht bekannt. Für eine Hilfe nutze /help
+2020-02-04 14:28:17		kein Server
+2020-02-04 14:28:20	=!=	Fehler: Der Befehl "/servers" ist nicht bekannt. Für eine Hilfe nutze /help
+2020-02-04 14:28:37		[irc]  /server  list|listfull [<name>]
+2020-02-04 14:28:37		                add <name> <hostname>[/<port>] [-temp] [-<option>[=<value>]] [-no<option>]
+2020-02-04 14:28:37		                copy|rename <name> <new_name>
+2020-02-04 14:28:37		                reorder <name> [<name>...]
+2020-02-04 14:28:37		                open <name>|-all [<name>...]
+2020-02-04 14:28:37		                del|keep <name>
+2020-02-04 14:28:37		                deloutq|jump|raw
+2020-02-04 14:28:37		auflisten, hinzufügen oder entfernen von IRC-Servern
+2020-02-04 14:28:37		    list: listet Server auf (ohne Angabe von Argumente wird diese Liste standardmäßig ausgegeben)
+2020-02-04 14:28:37		listfull: listet alle Server auf, mit detaillierten Informationen zu jedem einzelnen Server
+2020-02-04 14:28:37		     add: erstellt einen neuen Server
+2020-02-04 14:28:37		    name: Servername, dient der internen Nutzung und zur Darstellung; dieser Name wird genutzt um sich mit dem Server zu verbinden (/connect name) und um die entsprechenden Optionen anzupassen: irc.server.name.xxx
+2020-02-04 14:28:37		hostname: Name oder IP-Adresse des Servers. Optional kann zusätzlich der Port festgelegt werden (Standard-Port: 6667). Mehrere Adressen können durch Kommata getrennt werden
+2020-02-04 14:28:37		   -temp: erstellt temporären Server (wird nicht gespeichert)
+2020-02-04 14:28:37		  option: legt die Optionen für den Server fest (die Boolean-Optionen können weggelassen werden)
+2020-02-04 14:28:37		nooption: stellt die Boolean Einstellung auf 'off' (Beispiel: -nossl)
+2020-02-04 14:28:37		    copy: erstellt eine Kopie des Servers
+2020-02-04 14:28:37		  rename: benennt den Server um
+2020-02-04 14:28:37		 reorder: Anordnung der Server ändern
+2020-02-04 14:28:37		    open: öffnen den Serverbuffer, ohne eine Verbindung herzustellen
+2020-02-04 14:28:37		    keep: übernimmt den Server in die Konfigurationsdatei (nur sinnvoll bei temporär angelegten Servern)
+2020-02-04 14:28:37		     del: entfernt einen Server
+2020-02-04 14:28:37		 deloutq: löscht bei allen Servern alle ausgehende Nachrichten, die in der Warteschlange stehen (dies betrifft alle Nachrichten die WeeChat gerade sendet)
+2020-02-04 14:28:37		    jump: springt zum Server-Buffer
+2020-02-04 14:28:37		     raw: öffnet Buffer mit Roh-IRC-Daten
+2020-02-04 14:28:37		Beispiele:
+2020-02-04 14:28:37		  /server listfull
+2020-02-04 14:28:37		  /server add freenode chat.freenode.net
+2020-02-04 14:28:37		  /server add freenode chat.freenode.net/6697 -ssl -autoconnect
+2020-02-04 14:28:37		  /server add chatspike irc.chatspike.net/6667,irc.duckspike.net/6667
+2020-02-04 14:28:37		  /server copy freenode freenode-test
+2020-02-04 14:28:37		  /server rename freenode-test freenode2
+2020-02-04 14:28:37		  /server reorder freenode2 freenode
+2020-02-04 14:28:37		  /server del freenode
+2020-02-04 14:28:37		  /server deloutq
+2020-02-04 14:28:57		kein Server
+2020-02-04 14:28:59		kein Server
+2020-02-04 14:29:32		irc: Server freenode wurde angelegt
+2020-02-04 14:29:44		Einstellung geändert: irc.server.freenode.addresses = "chat.freenode.net/6697"  (Standardwert falls NULL: "")
+2020-02-04 14:29:57		Einstellung geändert: irc.server.freenode.ssl = on  (Standardwert falls NULL: off)
+2020-02-04 14:30:07		Einstellung geändert: irc.server.freenode.sasl_mechanism = plain  (Standardwert falls NULL: plain)
+2020-02-04 14:30:31		Einstellung geändert: irc.server.freenode.sasl_username = "dewowzer"  (Standardwert falls NULL: "")
+2020-02-04 14:31:17		Einstellung geändert: irc.server.freenode.sasl_password = "T8G5y&#E6!!D7$Rjqtj#PTS"  (Standardwert falls NULL: "")
+2020-02-04 14:31:26		Einstellungen unter sec.conf gesichert
+2020-02-04 14:31:26		Einstellungen unter weechat.conf gesichert
+2020-02-04 14:31:26		Einstellungen unter plugins.conf gesichert
+2020-02-04 14:31:26		Einstellungen unter charset.conf gesichert
+2020-02-04 14:31:26		Einstellungen unter logger.conf gesichert
+2020-02-04 14:31:26		Einstellungen unter exec.conf gesichert
+2020-02-04 14:31:26		Einstellungen unter trigger.conf gesichert
+2020-02-04 14:31:26		Einstellungen unter aspell.conf gesichert
+2020-02-04 14:31:26		Einstellungen unter alias.conf gesichert
+2020-02-04 14:31:26		Einstellungen unter buflist.conf gesichert
+2020-02-04 14:31:26		Einstellungen unter fifo.conf gesichert
+2020-02-04 14:31:26		Einstellungen unter xfer.conf gesichert
+2020-02-04 14:31:26		Einstellungen unter irc.conf gesichert
+2020-02-04 14:31:26		Einstellungen unter relay.conf gesichert
+2020-02-04 14:31:26		Einstellungen unter ruby.conf gesichert
+2020-02-04 14:31:26		Einstellungen unter python.conf gesichert
+2020-02-04 14:31:26		Einstellungen unter perl.conf gesichert
+2020-02-04 14:31:26		Einstellungen unter script.conf gesichert
+2020-02-04 14:31:26		Einstellungen unter fset.conf gesichert
+2020-02-04 14:33:08		Einstellung geändert: irc.server_default.username = "dewowzer"  (Standardwert: "")
+2020-02-04 14:33:45		Einstellung geändert: irc.server_default.username = "dewowzer"  (Standardwert: "")
+2020-02-04 14:34:28		Einstellung geändert: irc.server_default.nicks = "dewowzer"  (Standardwert: "")
+2020-02-04 14:34:54		Einstellung geändert: irc.server_default.realname = "12345"  (Standardwert: "")
+2020-02-04 14:35:29		Einstellung geändert: irc.server_default.ssl = on  (Standardwert: off)
+2020-02-04 14:35:59		Einstellung geändert: irc.server_default.usermode = "+i"  (Standardwert: "")
+2020-02-04 14:36:05		Einstellungen unter sec.conf gesichert
+2020-02-04 14:36:05		Einstellungen unter weechat.conf gesichert
+2020-02-04 14:36:05		Einstellungen unter plugins.conf gesichert
+2020-02-04 14:36:05		Einstellungen unter charset.conf gesichert
+2020-02-04 14:36:05		Einstellungen unter logger.conf gesichert
+2020-02-04 14:36:05		Einstellungen unter exec.conf gesichert
+2020-02-04 14:36:05		Einstellungen unter trigger.conf gesichert
+2020-02-04 14:36:05		Einstellungen unter aspell.conf gesichert
+2020-02-04 14:36:05		Einstellungen unter alias.conf gesichert
+2020-02-04 14:36:05		Einstellungen unter buflist.conf gesichert
+2020-02-04 14:36:05		Einstellungen unter fifo.conf gesichert
+2020-02-04 14:36:05		Einstellungen unter xfer.conf gesichert
+2020-02-04 14:36:05		Einstellungen unter irc.conf gesichert
+2020-02-04 14:36:05		Einstellungen unter relay.conf gesichert
+2020-02-04 14:36:05		Einstellungen unter ruby.conf gesichert
+2020-02-04 14:36:05		Einstellungen unter python.conf gesichert
+2020-02-04 14:36:05		Einstellungen unter perl.conf gesichert
+2020-02-04 14:36:05		Einstellungen unter script.conf gesichert
+2020-02-04 14:36:05		Einstellungen unter fset.conf gesichert
+2020-02-04 14:38:31		irc: Server oftc wurde angelegt
+2020-02-04 14:39:22		Einstellung geändert: irc.server.oftc.password = "T8G5y&#E6!!D7$Rjqtj#PTS"  (Standardwert falls NULL: "")
+2020-02-04 14:55:05		Einstellung geändert: irc.server.oftc.command = "/msg NickServ identify T8G5y&#E6!!D7$Rjqtj#PTS dewowzer"  (Standardwert falls NULL: "")
+2020-02-04 14:55:49		[crypt] (sec.conf)
+2020-02-04 14:55:49		  sec.crypt.cipher = aes256
+2020-02-04 14:55:49		  sec.crypt.hash_algo = sha256
+2020-02-04 14:55:49		  sec.crypt.passphrase_file = ""
+2020-02-04 14:55:49		  sec.crypt.salt = on
+2020-02-04 14:55:49		[startup] (weechat.conf)
+2020-02-04 14:55:49		  weechat.startup.command_after_plugins = ""
+2020-02-04 14:55:49		  weechat.startup.command_before_plugins = ""
+2020-02-04 14:55:49		  weechat.startup.display_logo = on
+2020-02-04 14:55:49		  weechat.startup.display_version = on
+2020-02-04 14:55:49		  weechat.startup.sys_rlimit = ""
+2020-02-04 14:55:49		[look] (weechat.conf)
+2020-02-04 14:55:49		  weechat.look.align_end_of_lines = message
+2020-02-04 14:55:49		  weechat.look.align_multiline_words = on
+2020-02-04 14:55:49		  weechat.look.bar_more_down = "++"
+2020-02-04 14:55:49		  weechat.look.bar_more_left = "<<"
+2020-02-04 14:55:49		  weechat.look.bar_more_right = ">>"
+2020-02-04 14:55:49		  weechat.look.bar_more_up = "--"
+2020-02-04 14:55:49		  weechat.look.bare_display_exit_on_input = on
+2020-02-04 14:55:49		  weechat.look.bare_display_time_format = "%H:%M"
+2020-02-04 14:55:49		  weechat.look.buffer_auto_renumber = on
+2020-02-04 14:55:49		  weechat.look.buffer_notify_default = all
+2020-02-04 14:55:49		  weechat.look.buffer_position = end
+2020-02-04 14:55:49		  weechat.look.buffer_search_case_sensitive = off
+2020-02-04 14:55:49		  weechat.look.buffer_search_force_default = off
+2020-02-04 14:55:49		  weechat.look.buffer_search_regex = off
+2020-02-04 14:55:49		  weechat.look.buffer_search_where = prefix_message
+2020-02-04 14:55:49		  weechat.look.buffer_time_format = "%H:%M:%S"
+2020-02-04 14:55:49		  weechat.look.color_basic_force_bold = off
+2020-02-04 14:55:49		  weechat.look.color_inactive_buffer = on
+2020-02-04 14:55:49		  weechat.look.color_inactive_message = on
+2020-02-04 14:55:49		  weechat.look.color_inactive_prefix = on
+2020-02-04 14:55:49		  weechat.look.color_inactive_prefix_buffer = on
+2020-02-04 14:55:49		  weechat.look.color_inactive_time = off
+2020-02-04 14:55:49		  weechat.look.color_inactive_window = on
+2020-02-04 14:55:49		  weechat.look.color_nick_offline = off
+2020-02-04 14:55:49		  weechat.look.color_pairs_auto_reset = 5
+2020-02-04 14:55:49		  weechat.look.color_real_white = off
+2020-02-04 14:55:49		  weechat.look.command_chars = ""
+2020-02-04 14:55:49		  weechat.look.command_incomplete = off
+2020-02-04 14:55:49		  weechat.look.confirm_quit = off
+2020-02-04 14:55:49		  weechat.look.confirm_upgrade = off
+2020-02-04 14:55:49		  weechat.look.day_change = on
+2020-02-04 14:55:49		  weechat.look.day_change_message_1date = "-- %a, %d %b %Y --"
+2020-02-04 14:55:49		  weechat.look.day_change_message_2dates = "-- %%a, %%d %%b %%Y (%a, %d %b %Y) --"
+2020-02-04 14:55:49		  weechat.look.eat_newline_glitch = off
+2020-02-04 14:55:49		  weechat.look.emphasized_attributes = ""
+2020-02-04 14:55:49		  weechat.look.highlight = ""
+2020-02-04 14:55:49		  weechat.look.highlight_regex = ""
+2020-02-04 14:55:49		  weechat.look.highlight_tags = ""
+2020-02-04 14:55:49		  weechat.look.hotlist_add_conditions = "${away} || ${buffer.num_displayed} == 0 || ${info:relay_client_count,weechat,connected} > 0"
+2020-02-04 14:55:49		  weechat.look.hotlist_buffer_separator = ", "
+2020-02-04 14:55:49		  weechat.look.hotlist_count_max = 2
+2020-02-04 14:55:49		  weechat.look.hotlist_count_min_msg = 2
+2020-02-04 14:55:49		  weechat.look.hotlist_names_count = 3
+2020-02-04 14:55:49		  weechat.look.hotlist_names_length = 0
+2020-02-04 14:55:49		  weechat.look.hotlist_names_level = 12
+2020-02-04 14:55:49		  weechat.look.hotlist_names_merged_buffers = off
+2020-02-04 14:55:49		  weechat.look.hotlist_prefix = "H: "
+2020-02-04 14:55:49		  weechat.look.hotlist_remove = merged
+2020-02-04 14:55:49		  weechat.look.hotlist_short_names = on
+2020-02-04 14:55:49		  weechat.look.hotlist_sort = group_time_asc
+2020-02-04 14:55:49		  weechat.look.hotlist_suffix = ""
+2020-02-04 14:55:49		  weechat.look.hotlist_unique_numbers = on
+2020-02-04 14:55:49		  weechat.look.input_cursor_scroll = 20
+2020-02-04 14:55:49		  weechat.look.input_share = none
+2020-02-04 14:55:49		  weechat.look.input_share_overwrite = off
+2020-02-04 14:55:49		  weechat.look.input_undo_max = 32
+2020-02-04 14:55:49		  weechat.look.item_away_message = on
+2020-02-04 14:55:49		  weechat.look.item_buffer_filter = "*"
+2020-02-04 14:55:49		  weechat.look.item_buffer_zoom = "!"
+2020-02-04 14:55:49		  weechat.look.item_mouse_status = "M"
+2020-02-04 14:55:49		  weechat.look.item_time_format = "%H:%M"
+2020-02-04 14:55:49		  weechat.look.jump_current_to_previous_buffer = on
+2020-02-04 14:55:49		  weechat.look.jump_previous_buffer_when_closing = on
+2020-02-04 14:55:49		  weechat.look.jump_smart_back_to_buffer = on
+2020-02-04 14:55:49		  weechat.look.key_bind_safe = on
+2020-02-04 14:55:49		  weechat.look.key_grab_delay = 800
+2020-02-04 14:55:49		  weechat.look.mouse = off
+2020-02-04 14:55:49		  weechat.look.mouse_timer_delay = 100
+2020-02-04 14:55:49		  weechat.look.nick_color_force = ""
+2020-02-04 14:55:49		  weechat.look.nick_color_hash = djb2
+2020-02-04 14:55:49		  weechat.look.nick_color_stop_chars = "_|["
+2020-02-04 14:55:49		  weechat.look.nick_prefix = ""
+2020-02-04 14:55:49		  weechat.look.nick_suffix = ""
+2020-02-04 14:55:49		  weechat.look.paste_auto_add_newline = on
+2020-02-04 14:55:49		  weechat.look.paste_bracketed = on
+2020-02-04 14:55:49		  weechat.look.paste_bracketed_timer_delay = 10
+2020-02-04 14:55:49		  weechat.look.paste_max_lines = 1
+2020-02-04 14:55:49		  weechat.look.prefix_action = " *"
+2020-02-04 14:55:49		  weechat.look.prefix_align = right
+2020-02-04 14:55:49		  weechat.look.prefix_align_max = 0
+2020-02-04 14:55:49		  weechat.look.prefix_align_min = 0
+2020-02-04 14:55:49		  weechat.look.prefix_align_more = "+"
+2020-02-04 14:55:49		  weechat.look.prefix_align_more_after = on
+2020-02-04 14:55:49		  weechat.look.prefix_buffer_align = right
+2020-02-04 14:55:49		  weechat.look.prefix_buffer_align_max = 0
+2020-02-04 14:55:49		  weechat.look.prefix_buffer_align_more = "+"
+2020-02-04 14:55:49		  weechat.look.prefix_buffer_align_more_after = on
+2020-02-04 14:55:49		  weechat.look.prefix_error = "=!="
+2020-02-04 14:55:49		  weechat.look.prefix_join = "-->"
+2020-02-04 14:55:49		  weechat.look.prefix_network = "--"
+2020-02-04 14:55:49		  weechat.look.prefix_quit = "<--"
+2020-02-04 14:55:49		  weechat.look.prefix_same_nick = ""
+2020-02-04 14:55:49		  weechat.look.prefix_suffix = "|"
+2020-02-04 14:55:49		  weechat.look.quote_nick_prefix = "<"
+2020-02-04 14:55:49		  weechat.look.quote_nick_suffix = ">"
+2020-02-04 14:55:49		  weechat.look.quote_time_format = "%H:%M:%S"
+2020-02-04 14:55:49		  weechat.look.read_marker = line
+2020-02-04 14:55:49		  weechat.look.read_marker_always_show = off
+2020-02-04 14:55:49		  weechat.look.read_marker_string = "- "
+2020-02-04 14:55:49		  weechat.look.save_config_on_exit = on
+2020-02-04 14:55:49		  weechat.look.save_config_with_fsync = off
+2020-02-04 14:55:49		  weechat.look.save_layout_on_exit = none
+2020-02-04 14:55:49		  weechat.look.scroll_amount = 3
+2020-02-04 14:55:49		  weechat.look.scroll_bottom_after_switch = off
+2020-02-04 14:55:49		  weechat.look.scroll_page_percent = 100
+2020-02-04 14:55:49		  weechat.look.search_text_not_found_alert = on
+2020-02-04 14:55:49		  weechat.look.separator_horizontal = "-"
+2020-02-04 14:55:49		  weechat.look.separator_vertical = ""
+2020-02-04 14:55:49		  weechat.look.tab_width = 1
+2020-02-04 14:55:49		  weechat.look.time_format = "%a, %d %b %Y %T"
+2020-02-04 14:55:49		  weechat.look.window_auto_zoom = off
+2020-02-04 14:55:49		  weechat.look.window_separator_horizontal = on
+2020-02-04 14:55:49		  weechat.look.window_separator_vertical = on
+2020-02-04 14:55:49		  weechat.look.window_title = ""
+2020-02-04 14:55:49		  weechat.look.word_chars_highlight = "!\u00A0,-,_,|,alnum"
+2020-02-04 14:55:49		  weechat.look.word_chars_input = "!\u00A0,-,_,|,alnum"
+2020-02-04 14:55:49		[color] (weechat.conf)
+2020-02-04 14:55:49		  weechat.color.bar_more = lightmagenta
+2020-02-04 14:55:49		  weechat.color.chat = default
+2020-02-04 14:55:49		  weechat.color.chat_bg = default
+2020-02-04 14:55:49		  weechat.color.chat_buffer = white
+2020-02-04 14:55:49		  weechat.color.chat_channel = white
+2020-02-04 14:55:49		  weechat.color.chat_day_change = cyan
+2020-02-04 14:55:49		  weechat.color.chat_delimiters = green
+2020-02-04 14:55:49		  weechat.color.chat_highlight = yellow
+2020-02-04 14:55:49		  weechat.color.chat_highlight_bg = magenta
+2020-02-04 14:55:49		  weechat.color.chat_host = cyan
+2020-02-04 14:55:49		  weechat.color.chat_inactive_buffer = default
+2020-02-04 14:55:49		  weechat.color.chat_inactive_window = default
+2020-02-04 14:55:49		  weechat.color.chat_nick = lightcyan
+2020-02-04 14:55:49		  weechat.color.chat_nick_colors = "cyan,magenta,green,brown,lightblue,default,lightcyan,lightmagenta,lightgreen,blue"
+2020-02-04 14:55:49		  weechat.color.chat_nick_offline = default
+2020-02-04 14:55:49		  weechat.color.chat_nick_offline_highlight = default
+2020-02-04 14:55:49		  weechat.color.chat_nick_offline_highlight_bg = blue
+2020-02-04 14:55:49		  weechat.color.chat_nick_other = cyan
+2020-02-04 14:55:49		  weechat.color.chat_nick_prefix = green
+2020-02-04 14:55:49		  weechat.color.chat_nick_self = white
+2020-02-04 14:55:49		  weechat.color.chat_nick_suffix = green
+2020-02-04 14:55:49		  weechat.color.chat_prefix_action = white
+2020-02-04 14:55:49		  weechat.color.chat_prefix_buffer = brown
+2020-02-04 14:55:49		  weechat.color.chat_prefix_buffer_inactive_buffer = default
+2020-02-04 14:55:49		  weechat.color.chat_prefix_error = yellow
+2020-02-04 14:55:49		  weechat.color.chat_prefix_join = lightgreen
+2020-02-04 14:55:49		  weechat.color.chat_prefix_more = lightmagenta
+2020-02-04 14:55:49		  weechat.color.chat_prefix_network = magenta
+2020-02-04 14:55:49		  weechat.color.chat_prefix_quit = lightred
+2020-02-04 14:55:49		  weechat.color.chat_prefix_suffix = green
+2020-02-04 14:55:49		  weechat.color.chat_read_marker = magenta
+2020-02-04 14:55:49		  weechat.color.chat_read_marker_bg = default
+2020-02-04 14:55:49		  weechat.color.chat_server = brown
+2020-02-04 14:55:49		  weechat.color.chat_tags = red
+2020-02-04 14:55:49		  weechat.color.chat_text_found = yellow
+2020-02-04 14:55:49		  weechat.color.chat_text_found_bg = lightmagenta
+2020-02-04 14:55:49		  weechat.color.chat_time = default
+2020-02-04 14:55:49		  weechat.color.chat_time_delimiters = brown
+2020-02-04 14:55:49		  weechat.color.chat_value = cyan
+2020-02-04 14:55:49		  weechat.color.chat_value_null = blue
+2020-02-04 14:55:49		  weechat.color.emphasized = yellow
+2020-02-04 14:55:49		  weechat.color.emphasized_bg = magenta
+2020-02-04 14:55:49		  weechat.color.input_actions = lightgreen
+2020-02-04 14:55:49		  weechat.color.input_text_not_found = red
+2020-02-04 14:55:49		  weechat.color.item_away = yellow
+2020-02-04 14:55:49		  weechat.color.nicklist_away = cyan
+2020-02-04 14:55:49		  weechat.color.nicklist_group = green
+2020-02-04 14:55:49		  weechat.color.separator = blue
+2020-02-04 14:55:49		  weechat.color.status_count_highlight = magenta
+2020-02-04 14:55:49		  weechat.color.status_count_msg = brown
+2020-02-04 14:55:49		  weechat.color.status_count_other = default
+2020-02-04 14:55:49		  weechat.color.status_count_private = green
+2020-02-04 14:55:49		  weechat.color.status_data_highlight = lightmagenta
+2020-02-04 14:55:49		  weechat.color.status_data_msg = yellow
+2020-02-04 14:55:49		  weechat.color.status_data_other = default
+2020-02-04 14:55:49		  weechat.color.status_data_private = lightgreen
+2020-02-04 14:55:49		  weechat.color.status_filter = green
+2020-02-04 14:55:49		  weechat.color.status_more = yellow
+2020-02-04 14:55:49		  weechat.color.status_mouse = green
+2020-02-04 14:55:49		  weechat.color.status_name = white
+2020-02-04 14:55:49		  weechat.color.status_name_ssl = lightgreen
+2020-02-04 14:55:49		  weechat.color.status_nicklist_count = default
+2020-02-04 14:55:49		  weechat.color.status_number = yellow
+2020-02-04 14:55:49		  weechat.color.status_time = default
+2020-02-04 14:55:49		[completion] (weechat.conf)
+2020-02-04 14:55:49		  weechat.completion.base_word_until_cursor = on
+2020-02-04 14:55:49		  weechat.completion.command_inline = on
+2020-02-04 14:55:49		  weechat.completion.default_template = "%(nicks)|%(irc_channels)"
+2020-02-04 14:55:49		  weechat.completion.nick_add_space = on
+2020-02-04 14:55:49		  weechat.completion.nick_case_sensitive = off
+2020-02-04 14:55:49		  weechat.completion.nick_completer = ":"
+2020-02-04 14:55:49		  weechat.completion.nick_first_only = off
+2020-02-04 14:55:49		  weechat.completion.nick_ignore_chars = "[]`_-^"
+2020-02-04 14:55:49		  weechat.completion.partial_completion_alert = on
+2020-02-04 14:55:49		  weechat.completion.partial_completion_command = off
+2020-02-04 14:55:49		  weechat.completion.partial_completion_command_arg = off
+2020-02-04 14:55:49		  weechat.completion.partial_completion_count = on
+2020-02-04 14:55:49		  weechat.completion.partial_completion_other = off
+2020-02-04 14:55:49		  weechat.completion.partial_completion_templates = "config_options"
+2020-02-04 14:55:49		[history] (weechat.conf)
+2020-02-04 14:55:49		  weechat.history.display_default = 5
+2020-02-04 14:55:49		  weechat.history.max_buffer_lines_minutes = 0
+2020-02-04 14:55:49		  weechat.history.max_buffer_lines_number = 4096
+2020-02-04 14:55:49		  weechat.history.max_commands = 100
+2020-02-04 14:55:49		  weechat.history.max_visited_buffers = 50
+2020-02-04 14:55:49		[network] (weechat.conf)
+2020-02-04 14:55:49		  weechat.network.connection_timeout = 60
+2020-02-04 14:55:49		  weechat.network.gnutls_ca_file = "/etc/ssl/certs/ca-certificates.crt"
+2020-02-04 14:55:49		  weechat.network.gnutls_handshake_timeout = 30
+2020-02-04 14:55:49		  weechat.network.proxy_curl = ""
+2020-02-04 14:55:49		[plugin] (weechat.conf)
+2020-02-04 14:55:49		  weechat.plugin.autoload = "*"
+2020-02-04 14:55:49		  weechat.plugin.debug = off
+2020-02-04 14:55:49		  weechat.plugin.extension = ".so,.dll"
+2020-02-04 14:55:49		  weechat.plugin.path = "%h/plugins"
+2020-02-04 14:55:49		  weechat.plugin.save_config_on_unload = on
+2020-02-04 14:55:49		[bar] (weechat.conf)
+2020-02-04 14:55:49		  weechat.bar.buflist.color_bg = default
+2020-02-04 14:55:49		  weechat.bar.buflist.color_delim = default
+2020-02-04 14:55:49		  weechat.bar.buflist.color_fg = default
+2020-02-04 14:55:49		  weechat.bar.buflist.conditions = ""
+2020-02-04 14:55:49		  weechat.bar.buflist.filling_left_right = vertical
+2020-02-04 14:55:49		  weechat.bar.buflist.filling_top_bottom = columns_vertical
+2020-02-04 14:55:49		  weechat.bar.buflist.hidden = off
+2020-02-04 14:55:49		  weechat.bar.buflist.items = "buflist"  (Standardwert: "")
+2020-02-04 14:55:49		  weechat.bar.buflist.position = left
+2020-02-04 14:55:49		  weechat.bar.buflist.priority = 0
+2020-02-04 14:55:49		  weechat.bar.buflist.separator = on
+2020-02-04 14:55:49		  weechat.bar.buflist.size = 0
+2020-02-04 14:55:49		  weechat.bar.buflist.size_max = 0
+2020-02-04 14:55:49		  weechat.bar.buflist.type = root
+2020-02-04 14:55:49		  weechat.bar.fset.color_bg = default
+2020-02-04 14:55:49		  weechat.bar.fset.color_delim = cyan
+2020-02-04 14:55:49		  weechat.bar.fset.color_fg = default
+2020-02-04 14:55:49		  weechat.bar.fset.conditions = "${buffer.full_name} == fset.fset"
+2020-02-04 14:55:49		  weechat.bar.fset.filling_left_right = vertical
+2020-02-04 14:55:49		  weechat.bar.fset.filling_top_bottom = horizontal
+2020-02-04 14:55:49		  weechat.bar.fset.hidden = off
+2020-02-04 14:55:49		  weechat.bar.fset.items = "fset"  (Standardwert: "")
+2020-02-04 14:55:49		  weechat.bar.fset.position = top
+2020-02-04 14:55:49		  weechat.bar.fset.priority = 0
+2020-02-04 14:55:49		  weechat.bar.fset.separator = on
+2020-02-04 14:55:49		  weechat.bar.fset.size = 3
+2020-02-04 14:55:49		  weechat.bar.fset.size_max = 3
+2020-02-04 14:55:49		  weechat.bar.fset.type = window
+2020-02-04 14:55:49		  weechat.bar.input.color_bg = default
+2020-02-04 14:55:49		  weechat.bar.input.color_delim = cyan
+2020-02-04 14:55:49		  weechat.bar.input.color_fg = default
+2020-02-04 14:55:49		  weechat.bar.input.conditions = ""
+2020-02-04 14:55:49		  weechat.bar.input.filling_left_right = vertical
+2020-02-04 14:55:49		  weechat.bar.input.filling_top_bottom = horizontal
+2020-02-04 14:55:49		  weechat.bar.input.hidden = off
+2020-02-04 14:55:49		  weechat.bar.input.items = "[input_prompt]+(away),[input_search],[input_paste],input_text"
+2020-02-04 14:55:49		  weechat.bar.input.position = bottom
+2020-02-04 14:55:49		  weechat.bar.input.priority = 1000
+2020-02-04 14:55:49		  weechat.bar.input.separator = off
+2020-02-04 14:55:49		  weechat.bar.input.size = 1
+2020-02-04 14:55:49		  weechat.bar.input.size_max = 0
+2020-02-04 14:55:49		  weechat.bar.input.type = window
+2020-02-04 14:55:49		  weechat.bar.nicklist.color_bg = default
+2020-02-04 14:55:49		  weechat.bar.nicklist.color_delim = cyan
+2020-02-04 14:55:49		  weechat.bar.nicklist.color_fg = default
+2020-02-04 14:55:49		  weechat.bar.nicklist.conditions = "${nicklist}"
+2020-02-04 14:55:49		  weechat.bar.nicklist.filling_left_right = vertical
+2020-02-04 14:55:49		  weechat.bar.nicklist.filling_top_bottom = columns_vertical
+2020-02-04 14:55:49		  weechat.bar.nicklist.hidden = off
+2020-02-04 14:55:49		  weechat.bar.nicklist.items = "buffer_nicklist"
+2020-02-04 14:55:49		  weechat.bar.nicklist.position = right
+2020-02-04 14:55:49		  weechat.bar.nicklist.priority = 200
+2020-02-04 14:55:49		  weechat.bar.nicklist.separator = on
+2020-02-04 14:55:49		  weechat.bar.nicklist.size = 0
+2020-02-04 14:55:49		  weechat.bar.nicklist.size_max = 0
+2020-02-04 14:55:49		  weechat.bar.nicklist.type = window
+2020-02-04 14:55:49		  weechat.bar.status.color_bg = blue
+2020-02-04 14:55:49		  weechat.bar.status.color_delim = cyan
+2020-02-04 14:55:49		  weechat.bar.status.color_fg = default
+2020-02-04 14:55:49		  weechat.bar.status.conditions = ""
+2020-02-04 14:55:49		  weechat.bar.status.filling_left_right = vertical
+2020-02-04 14:55:49		  weechat.bar.status.filling_top_bottom = horizontal
+2020-02-04 14:55:49		  weechat.bar.status.hidden = off
+2020-02-04 14:55:49		  weechat.bar.status.items = "[time],[buffer_last_number],[buffer_plugin],buffer_number+:+buffer_name+(buffer_modes)+{buffer_nicklist_count}+buffer_zoom+buffer_filter,scroll,[lag],[hotlist],completion"
+2020-02-04 14:55:49		  weechat.bar.status.position = bottom
+2020-02-04 14:55:49		  weechat.bar.status.priority = 500
+2020-02-04 14:55:49		  weechat.bar.status.separator = off
+2020-02-04 14:55:49		  weechat.bar.status.size = 1
+2020-02-04 14:55:49		  weechat.bar.status.size_max = 0
+2020-02-04 14:55:49		  weechat.bar.status.type = window
+2020-02-04 14:55:49		  weechat.bar.title.color_bg = blue
+2020-02-04 14:55:49		  weechat.bar.title.color_delim = cyan
+2020-02-04 14:55:49		  weechat.bar.title.color_fg = default
+2020-02-04 14:55:49		  weechat.bar.title.conditions = ""
+2020-02-04 14:55:49		  weechat.bar.title.filling_left_right = vertical
+2020-02-04 14:55:49		  weechat.bar.title.filling_top_bottom = horizontal
+2020-02-04 14:55:49		  weechat.bar.title.hidden = off
+2020-02-04 14:55:49		  weechat.bar.title.items = "buffer_title"
+2020-02-04 14:55:49		  weechat.bar.title.position = top
+2020-02-04 14:55:49		  weechat.bar.title.priority = 500
+2020-02-04 14:55:49		  weechat.bar.title.separator = off
+2020-02-04 14:55:49		  weechat.bar.title.size = 1
+2020-02-04 14:55:49		  weechat.bar.title.size_max = 0
+2020-02-04 14:55:49		  weechat.bar.title.type = window
+2020-02-04 14:55:49		[default] (charset.conf)
+2020-02-04 14:55:49		  charset.default.decode = "iso-8859-1"
+2020-02-04 14:55:49		  charset.default.encode = ""
+2020-02-04 14:55:49		[look] (logger.conf)
+2020-02-04 14:55:49		  logger.look.backlog = 20
+2020-02-04 14:55:49		  logger.look.backlog_conditions = ""
+2020-02-04 14:55:49		[color] (logger.conf)
+2020-02-04 14:55:49		  logger.color.backlog_end = default
+2020-02-04 14:55:49		  logger.color.backlog_line = default
+2020-02-04 14:55:49		[file] (logger.conf)
+2020-02-04 14:55:49		  logger.file.auto_log = on
+2020-02-04 14:55:49		  logger.file.flush_delay = 120
+2020-02-04 14:55:49		  logger.file.fsync = off
+2020-02-04 14:55:49		  logger.file.info_lines = off
+2020-02-04 14:55:49		  logger.file.mask = "$plugin.$name.weechatlog"
+2020-02-04 14:55:49		  logger.file.name_lower_case = on
+2020-02-04 14:55:49		  logger.file.nick_prefix = ""
+2020-02-04 14:55:49		  logger.file.nick_suffix = ""
+2020-02-04 14:55:49		  logger.file.path = "%h/logs/"
+2020-02-04 14:55:49		  logger.file.replacement_char = "_"
+2020-02-04 14:55:49		  logger.file.time_format = "%Y-%m-%d %H:%M:%S"
+2020-02-04 14:55:49		[command] (exec.conf)
+2020-02-04 14:55:49		  exec.command.default_options = ""
+2020-02-04 14:55:49		  exec.command.purge_delay = 0
+2020-02-04 14:55:49		[color] (exec.conf)
+2020-02-04 14:55:49		  exec.color.flag_finished = lightred
+2020-02-04 14:55:49		  exec.color.flag_running = lightgreen
+2020-02-04 14:55:49		[look] (trigger.conf)
+2020-02-04 14:55:49		  trigger.look.enabled = on
+2020-02-04 14:55:49		  trigger.look.monitor_strip_colors = off
+2020-02-04 14:55:49		[color] (trigger.conf)
+2020-02-04 14:55:49		  trigger.color.flag_command = lightgreen
+2020-02-04 14:55:49		  trigger.color.flag_conditions = yellow
+2020-02-04 14:55:49		  trigger.color.flag_post_action = lightblue
+2020-02-04 14:55:49		  trigger.color.flag_regex = lightcyan
+2020-02-04 14:55:49		  trigger.color.flag_return_code = lightmagenta
+2020-02-04 14:55:49		  trigger.color.regex = white
+2020-02-04 14:55:49		  trigger.color.replace = cyan
+2020-02-04 14:55:49		  trigger.color.trigger = green
+2020-02-04 14:55:49		  trigger.color.trigger_disabled = red
+2020-02-04 14:55:49		[trigger] (trigger.conf)
+2020-02-04 14:55:49		  trigger.trigger.beep.arguments = ""
+2020-02-04 14:55:49		  trigger.trigger.beep.command = "/print -beep"
+2020-02-04 14:55:49		  trigger.trigger.beep.conditions = "${tg_displayed} && (${tg_highlight} || ${tg_msg_pv})"
+2020-02-04 14:55:49		  trigger.trigger.beep.enabled = on
+2020-02-04 14:55:49		  trigger.trigger.beep.hook = print
+2020-02-04 14:55:49		  trigger.trigger.beep.post_action = none
+2020-02-04 14:55:49		  trigger.trigger.beep.regex = ""
+2020-02-04 14:55:49		  trigger.trigger.beep.return_code = ok
+2020-02-04 14:55:49		  trigger.trigger.cmd_pass.arguments = "5000|input_text_display;5000|history_add;5000|irc_command_auth"
+2020-02-04 14:55:49		  trigger.trigger.cmd_pass.command = ""
+2020-02-04 14:55:49		  trigger.trigger.cmd_pass.conditions = ""
+2020-02-04 14:55:49		  trigger.trigger.cmd_pass.enabled = on
+2020-02-04 14:55:49		  trigger.trigger.cmd_pass.hook = modifier
+2020-02-04 14:55:49		  trigger.trigger.cmd_pass.post_action = none
+2020-02-04 14:55:49		  trigger.trigger.cmd_pass.regex = "==^((/(msg|m|quote) +(-server +[^ ]+ +)?nickserv +(id|identify|set +password|ghost +[^ ]+|release +[^ ]+|regain +[^ ]+|recover +[^ ]+) +)|/oper +[^ ]+ +|/quote +pass +|/set +[^ ]*password[^ ]* +|/secure +(passphrase|decrypt|set +[^ ]+) +)(.*)==${re:1}${hide:*,${re:+}}"
+2020-02-04 14:55:49		  trigger.trigger.cmd_pass.return_code = ok
+2020-02-04 14:55:49		  trigger.trigger.cmd_pass_register.arguments = "5000|input_text_display;5000|history_add;5000|irc_command_auth"
+2020-02-04 14:55:49		  trigger.trigger.cmd_pass_register.command = ""
+2020-02-04 14:55:49		  trigger.trigger.cmd_pass_register.conditions = ""
+2020-02-04 14:55:49		  trigger.trigger.cmd_pass_register.enabled = on
+2020-02-04 14:55:49		  trigger.trigger.cmd_pass_register.hook = modifier
+2020-02-04 14:55:49		  trigger.trigger.cmd_pass_register.post_action = none
+2020-02-04 14:55:49		  trigger.trigger.cmd_pass_register.regex = "==^(/(msg|m|quote) +nickserv +register +)([^ ]+)(.*)==${re:1}${hide:*,${re:3}}${re:4}"
+2020-02-04 14:55:49		  trigger.trigger.cmd_pass_register.return_code = ok
+2020-02-04 14:55:49		  trigger.trigger.msg_auth.arguments = "5000|irc_message_auth"
+2020-02-04 14:55:49		  trigger.trigger.msg_auth.command = ""
+2020-02-04 14:55:49		  trigger.trigger.msg_auth.conditions = ""
+2020-02-04 14:55:49		  trigger.trigger.msg_auth.enabled = on
+2020-02-04 14:55:49		  trigger.trigger.msg_auth.hook = modifier
+2020-02-04 14:55:49		  trigger.trigger.msg_auth.post_action = none
+2020-02-04 14:55:49		  trigger.trigger.msg_auth.regex = "==^(.*(id|identify|set +password|register|ghost +[^ ]+|release +[^ ]+|regain +[^ ]+|recover +[^ ]+) +)(.*)==${re:1}${hide:*,${re:+}}"
+2020-02-04 14:55:49		  trigger.trigger.msg_auth.return_code = ok
+2020-02-04 14:55:49		  trigger.trigger.server_pass.arguments = "5000|input_text_display;5000|history_add"
+2020-02-04 14:55:49		  trigger.trigger.server_pass.command = ""
+2020-02-04 14:55:49		  trigger.trigger.server_pass.conditions = ""
+2020-02-04 14:55:49		  trigger.trigger.server_pass.enabled = on
+2020-02-04 14:55:49		  trigger.trigger.server_pass.hook = modifier
+2020-02-04 14:55:49		  trigger.trigger.server_pass.post_action = none
+2020-02-04 14:55:49		  trigger.trigger.server_pass.regex = "==^(/(server|connect) .*-(sasl_)?password=)([^ ]+)(.*)==${re:1}${hide:*,${re:4}}${re:5}"
+2020-02-04 14:55:49		  trigger.trigger.server_pass.return_code = ok
+2020-02-04 14:55:49		[color] (aspell.conf)
+2020-02-04 14:55:49		  aspell.color.misspelled = lightred
+2020-02-04 14:55:49		  aspell.color.suggestion = default
+2020-02-04 14:55:49		  aspell.color.suggestion_delimiter_dict = cyan
+2020-02-04 14:55:49		  aspell.color.suggestion_delimiter_word = cyan
+2020-02-04 14:55:49		[check] (aspell.conf)
+2020-02-04 14:55:49		  aspell.check.commands = "ame,amsg,away,command,cycle,kick,kickban,me,msg,notice,part,query,quit,topic"
+2020-02-04 14:55:49		  aspell.check.default_dict = ""
+2020-02-04 14:55:49		  aspell.check.during_search = off
+2020-02-04 14:55:49		  aspell.check.enabled = off
+2020-02-04 14:55:49		  aspell.check.real_time = off
+2020-02-04 14:55:49		  aspell.check.suggestions = -1
+2020-02-04 14:55:49		  aspell.check.word_min_length = 2
+2020-02-04 14:55:49		[look] (aspell.conf)
+2020-02-04 14:55:49		  aspell.look.suggestion_delimiter_dict = " / "
+2020-02-04 14:55:49		  aspell.look.suggestion_delimiter_word = ","
+2020-02-04 14:55:49		[cmd] (alias.conf)
+2020-02-04 14:55:49		  alias.cmd.AAWAY = "allserv /away"
+2020-02-04 14:55:49		  alias.cmd.AME = "allchan /me"
+2020-02-04 14:55:49		  alias.cmd.AMSG = "allchan /msg *"
+2020-02-04 14:55:49		  alias.cmd.ANICK = "allserv /nick"
+2020-02-04 14:55:49		  alias.cmd.BEEP = "print -beep"
+2020-02-04 14:55:49		  alias.cmd.BYE = "quit"
+2020-02-04 14:55:49		  alias.cmd.C = "buffer clear"
+2020-02-04 14:55:49		  alias.cmd.CHAT = "dcc chat"
+2020-02-04 14:55:49		  alias.cmd.CL = "buffer clear"
+2020-02-04 14:55:49		  alias.cmd.CLOSE = "buffer close"
+2020-02-04 14:55:49		  alias.cmd.EXIT = "quit"
+2020-02-04 14:55:49		  alias.cmd.IG = "ignore"
+2020-02-04 14:55:49		  alias.cmd.J = "join"
+2020-02-04 14:55:49		  alias.cmd.K = "kick"
+2020-02-04 14:55:49		  alias.cmd.KB = "kickban"
+2020-02-04 14:55:49		  alias.cmd.LEAVE = "part"
+2020-02-04 14:55:49		  alias.cmd.M = "msg"
+2020-02-04 14:55:49		  alias.cmd.MSGBUF = "command -buffer $1 * /input send $2-"
+2020-02-04 14:55:49		  alias.cmd.MUB = "unban *"
+2020-02-04 14:55:49		  alias.cmd.N = "names"
+2020-02-04 14:55:49		  alias.cmd.Q = "query"
+2020-02-04 14:55:49		  alias.cmd.REDRAW = "window refresh"
+2020-02-04 14:55:49		  alias.cmd.SAY = "msg *"
+2020-02-04 14:55:49		  alias.cmd.SIGNOFF = "quit"
+2020-02-04 14:55:49		  alias.cmd.T = "topic"
+2020-02-04 14:55:49		  alias.cmd.UB = "unban"
+2020-02-04 14:55:49		  alias.cmd.UMODE = "mode $nick"
+2020-02-04 14:55:49		  alias.cmd.V = "command core version"
+2020-02-04 14:55:49		  alias.cmd.W = "who"
+2020-02-04 14:55:49		  alias.cmd.WC = "window merge"
+2020-02-04 14:55:49		  alias.cmd.WI = "whois"
+2020-02-04 14:55:49		  alias.cmd.WII = "whois $1 $1"
+2020-02-04 14:55:49		  alias.cmd.WW = "whowas"
+2020-02-04 14:55:49		[completion] (alias.conf)
+2020-02-04 14:55:49		  alias.completion.MSGBUF = "%(buffers_plugins_names)"
+2020-02-04 14:55:49		[look] (buflist.conf)
+2020-02-04 14:55:49		  buflist.look.add_newline = on
+2020-02-04 14:55:49		  buflist.look.auto_scroll = 50
+2020-02-04 14:55:49		  buflist.look.display_conditions = "${buffer.hidden}==0"
+2020-02-04 14:55:49		  buflist.look.enabled = on
+2020-02-04 14:55:49		  buflist.look.mouse_jump_visited_buffer = off
+2020-02-04 14:55:49		  buflist.look.mouse_move_buffer = on
+2020-02-04 14:55:49		  buflist.look.mouse_wheel = on
+2020-02-04 14:55:49		  buflist.look.nick_prefix = off
+2020-02-04 14:55:49		  buflist.look.nick_prefix_empty = on
+2020-02-04 14:55:49		  buflist.look.signals_refresh = ""
+2020-02-04 14:55:49		  buflist.look.sort = "number,-active"
+2020-02-04 14:55:49		[format] (buflist.conf)
+2020-02-04 14:55:49		  buflist.format.buffer = "${format_number}${indent}${format_nick_prefix}${color_hotlist}${format_name}"
+2020-02-04 14:55:49		  buflist.format.buffer_current = "${color:,blue}${format_buffer}"
+2020-02-04 14:55:49		  buflist.format.hotlist = " ${color:green}(${hotlist}${color:green})"
+2020-02-04 14:55:49		  buflist.format.hotlist_highlight = "${color:magenta}"
+2020-02-04 14:55:49		  buflist.format.hotlist_low = "${color:white}"
+2020-02-04 14:55:49		  buflist.format.hotlist_message = "${color:brown}"
+2020-02-04 14:55:49		  buflist.format.hotlist_none = "${color:default}"
+2020-02-04 14:55:49		  buflist.format.hotlist_private = "${color:green}"
+2020-02-04 14:55:49		  buflist.format.hotlist_separator = "${color:default},"
+2020-02-04 14:55:49		  buflist.format.indent = "  "
+2020-02-04 14:55:49		  buflist.format.lag = " ${color:green}[${color:brown}${lag}${color:green}]"
+2020-02-04 14:55:49		  buflist.format.name = "${name}"
+2020-02-04 14:55:49		  buflist.format.nick_prefix = "${color_nick_prefix}${nick_prefix}"
+2020-02-04 14:55:49		  buflist.format.number = "${color:green}${number}${if:${number_displayed}?.: }"
+2020-02-04 14:55:49		[file] (fifo.conf)
+2020-02-04 14:55:49		  fifo.file.enabled = on
+2020-02-04 14:55:49		  fifo.file.path = "%h/weechat_fifo"
+2020-02-04 14:55:49		[look] (xfer.conf)
+2020-02-04 14:55:49		  xfer.look.auto_open_buffer = on
+2020-02-04 14:55:49		  xfer.look.progress_bar_size = 20
+2020-02-04 14:55:49		  xfer.look.pv_tags = "notify_private"
+2020-02-04 14:55:49		[color] (xfer.conf)
+2020-02-04 14:55:49		  xfer.color.status_aborted = lightred
+2020-02-04 14:55:49		  xfer.color.status_active = lightblue
+2020-02-04 14:55:49		  xfer.color.status_connecting = yellow
+2020-02-04 14:55:49		  xfer.color.status_done = lightgreen
+2020-02-04 14:55:49		  xfer.color.status_failed = lightred
+2020-02-04 14:55:49		  xfer.color.status_waiting = lightcyan
+2020-02-04 14:55:49		  xfer.color.text = default
+2020-02-04 14:55:49		  xfer.color.text_bg = default
+2020-02-04 14:55:49		  xfer.color.text_selected = white
+2020-02-04 14:55:49		[network] (xfer.conf)
+2020-02-04 14:55:49		  xfer.network.blocksize = 65536
+2020-02-04 14:55:49		  xfer.network.fast_send = on
+2020-02-04 14:55:49		  xfer.network.own_ip = ""
+2020-02-04 14:55:49		  xfer.network.port_range = ""
+2020-02-04 14:55:49		  xfer.network.send_ack = on
+2020-02-04 14:55:49		  xfer.network.speed_limit = 0
+2020-02-04 14:55:49		  xfer.network.timeout = 300
+2020-02-04 14:55:49		[file] (xfer.conf)
+2020-02-04 14:55:49		  xfer.file.auto_accept_chats = off
+2020-02-04 14:55:49		  xfer.file.auto_accept_files = off
+2020-02-04 14:55:49		  xfer.file.auto_accept_nicks = ""
+2020-02-04 14:55:49		  xfer.file.auto_check_crc32 = off
+2020-02-04 14:55:49		  xfer.file.auto_rename = on
+2020-02-04 14:55:49		  xfer.file.auto_resume = on
+2020-02-04 14:55:49		  xfer.file.convert_spaces = on
+2020-02-04 14:55:49		  xfer.file.download_path = "%h/xfer"
+2020-02-04 14:55:49		  xfer.file.upload_path = "~"
+2020-02-04 14:55:49		  xfer.file.use_nick_in_filename = on
+2020-02-04 14:55:49		[look] (irc.conf)
+2020-02-04 14:55:49		  irc.look.buffer_open_before_autojoin = on
+2020-02-04 14:55:49		  irc.look.buffer_open_before_join = off
+2020-02-04 14:55:49		  irc.look.buffer_switch_autojoin = on
+2020-02-04 14:55:49		  irc.look.buffer_switch_join = on
+2020-02-04 14:55:49		  irc.look.color_nicks_in_names = off
+2020-02-04 14:55:49		  irc.look.color_nicks_in_nicklist = off
+2020-02-04 14:55:49		  irc.look.color_nicks_in_server_messages = on
+2020-02-04 14:55:49		  irc.look.color_pv_nick_like_channel = on
+2020-02-04 14:55:49		  irc.look.ctcp_time_format = "%a, %d %b %Y %T %z"
+2020-02-04 14:55:49		  irc.look.display_away = local
+2020-02-04 14:55:49		  irc.look.display_ctcp_blocked = on
+2020-02-04 14:55:49		  irc.look.display_ctcp_reply = on
+2020-02-04 14:55:49		  irc.look.display_ctcp_unknown = on
+2020-02-04 14:55:49		  irc.look.display_host_join = on
+2020-02-04 14:55:49		  irc.look.display_host_join_local = on
+2020-02-04 14:55:49		  irc.look.display_host_quit = on
+2020-02-04 14:55:49		  irc.look.display_join_message = "329,332,333,366"
+2020-02-04 14:55:49		  irc.look.display_old_topic = on
+2020-02-04 14:55:49		  irc.look.display_pv_away_once = on
+2020-02-04 14:55:49		  irc.look.display_pv_back = on
+2020-02-04 14:55:49		  irc.look.highlight_channel = "$nick"
+2020-02-04 14:55:49		  irc.look.highlight_pv = "$nick"
+2020-02-04 14:55:49		  irc.look.highlight_server = "$nick"
+2020-02-04 14:55:49		  irc.look.highlight_tags_restrict = "irc_privmsg,irc_notice"
+2020-02-04 14:55:49		  irc.look.item_channel_modes_hide_args = "k"
+2020-02-04 14:55:49		  irc.look.item_display_server = buffer_plugin
+2020-02-04 14:55:49		  irc.look.item_nick_modes = on
+2020-02-04 14:55:49		  irc.look.item_nick_prefix = on
+2020-02-04 14:55:49		  irc.look.join_auto_add_chantype = off
+2020-02-04 14:55:49		  irc.look.msgbuffer_fallback = current
+2020-02-04 14:55:49		  irc.look.new_channel_position = none
+2020-02-04 14:55:49		  irc.look.new_pv_position = none
+2020-02-04 14:55:49		  irc.look.nick_completion_smart = speakers
+2020-02-04 14:55:49		  irc.look.nick_mode = prefix
+2020-02-04 14:55:49		  irc.look.nick_mode_empty = off
+2020-02-04 14:55:49		  irc.look.nicks_hide_password = "nickserv"
+2020-02-04 14:55:49		  irc.look.notice_as_pv = auto
+2020-02-04 14:55:49		  irc.look.notice_welcome_redirect = on
+2020-02-04 14:55:49		  irc.look.notice_welcome_tags = ""
+2020-02-04 14:55:49		  irc.look.notify_tags_ison = "notify_message"
+2020-02-04 14:55:49		  irc.look.notify_tags_whois = "notify_message"
+2020-02-04 14:55:49		  irc.look.part_closes_buffer = off
+2020-02-04 14:55:49		  irc.look.pv_buffer = independent
+2020-02-04 14:55:49		  irc.look.pv_tags = "notify_private"
+2020-02-04 14:55:49		  irc.look.raw_messages = 256
+2020-02-04 14:55:49		  irc.look.server_buffer = merge_with_core
+2020-02-04 14:55:49		  irc.look.smart_filter = on
+2020-02-04 14:55:49		  irc.look.smart_filter_chghost = on
+2020-02-04 14:55:49		  irc.look.smart_filter_delay = 5
+2020-02-04 14:55:49		  irc.look.smart_filter_join = on
+2020-02-04 14:55:49		  irc.look.smart_filter_join_unmask = 30
+2020-02-04 14:55:49		  irc.look.smart_filter_mode = "+"
+2020-02-04 14:55:49		  irc.look.smart_filter_nick = on
+2020-02-04 14:55:49		  irc.look.smart_filter_quit = on
+2020-02-04 14:55:49		  irc.look.temporary_servers = off
+2020-02-04 14:55:49		  irc.look.topic_strip_colors = off
+2020-02-04 14:55:49		[color] (irc.conf)
+2020-02-04 14:55:49		  irc.color.input_nick = lightcyan
+2020-02-04 14:55:49		  irc.color.item_channel_modes = default
+2020-02-04 14:55:49		  irc.color.item_lag_counting = default
+2020-02-04 14:55:49		  irc.color.item_lag_finished = yellow
+2020-02-04 14:55:49		  irc.color.item_nick_modes = default
+2020-02-04 14:55:49		  irc.color.message_chghost = brown
+2020-02-04 14:55:49		  irc.color.message_join = green
+2020-02-04 14:55:49		  irc.color.message_quit = red
+2020-02-04 14:55:49		  irc.color.mirc_remap = "1,-1:darkgray"
+2020-02-04 14:55:49		  irc.color.nick_prefixes = "y:lightred;q:lightred;a:lightcyan;o:lightgreen;h:lightmagenta;v:yellow;*:lightblue"
+2020-02-04 14:55:49		  irc.color.notice = green
+2020-02-04 14:55:49		  irc.color.reason_quit = default
+2020-02-04 14:55:49		  irc.color.topic_current = default
+2020-02-04 14:55:49		  irc.color.topic_new = white
+2020-02-04 14:55:49		  irc.color.topic_old = default
+2020-02-04 14:55:49		[network] (irc.conf)
+2020-02-04 14:55:49		  irc.network.autoreconnect_delay_growing = 2
+2020-02-04 14:55:49		  irc.network.autoreconnect_delay_max = 600
+2020-02-04 14:55:49		  irc.network.ban_mask_default = "*!$ident@$host"
+2020-02-04 14:55:49		  irc.network.channel_encode = off
+2020-02-04 14:55:49		  irc.network.colors_receive = on
+2020-02-04 14:55:49		  irc.network.colors_send = on
+2020-02-04 14:55:49		  irc.network.lag_check = 60
+2020-02-04 14:55:49		  irc.network.lag_max = 1800
+2020-02-04 14:55:49		  irc.network.lag_min_show = 500
+2020-02-04 14:55:49		  irc.network.lag_reconnect = 300
+2020-02-04 14:55:49		  irc.network.lag_refresh_interval = 1
+2020-02-04 14:55:49		  irc.network.notify_check_ison = 1
+2020-02-04 14:55:49		  irc.network.notify_check_whois = 5
+2020-02-04 14:55:49		  irc.network.sasl_fail_unavailable = on
+2020-02-04 14:55:49		  irc.network.send_unknown_commands = off
+2020-02-04 14:55:49		  irc.network.whois_double_nick = off
+2020-02-04 14:55:49		[server_default] (irc.conf)
+2020-02-04 14:55:49		  irc.server_default.addresses = ""
+2020-02-04 14:55:49		  irc.server_default.anti_flood_prio_high = 2
+2020-02-04 14:55:49		  irc.server_default.anti_flood_prio_low = 2
+2020-02-04 14:55:49		  irc.server_default.autoconnect = off
+2020-02-04 14:55:49		  irc.server_default.autojoin = ""
+2020-02-04 14:55:49		  irc.server_default.autoreconnect = on
+2020-02-04 14:55:49		  irc.server_default.autoreconnect_delay = 10
+2020-02-04 14:55:49		  irc.server_default.autorejoin = off
+2020-02-04 14:55:49		  irc.server_default.autorejoin_delay = 30
+2020-02-04 14:55:49		  irc.server_default.away_check = 0
+2020-02-04 14:55:49		  irc.server_default.away_check_max_nicks = 25
+2020-02-04 14:55:49		  irc.server_default.capabilities = ""
+2020-02-04 14:55:49		  irc.server_default.command = ""
+2020-02-04 14:55:49		  irc.server_default.command_delay = 0
+2020-02-04 14:55:49		  irc.server_default.connection_timeout = 60
+2020-02-04 14:55:49		  irc.server_default.ipv6 = on
+2020-02-04 14:55:49		  irc.server_default.local_hostname = ""
+2020-02-04 14:55:49		  irc.server_default.msg_kick = ""
+2020-02-04 14:55:49		  irc.server_default.msg_part = "WeeChat ${info:version}"
+2020-02-04 14:55:49		  irc.server_default.msg_quit = "WeeChat ${info:version}"
+2020-02-04 14:55:49		  irc.server_default.nicks = "dewowzer"  (Standardwert: "")
+2020-02-04 14:55:49		  irc.server_default.nicks_alternate = on
+2020-02-04 14:55:49		  irc.server_default.notify = ""
+2020-02-04 14:55:49		  irc.server_default.password = ""
+2020-02-04 14:55:49		  irc.server_default.proxy = ""
+2020-02-04 14:55:49		  irc.server_default.realname = "12345"  (Standardwert: "")
+2020-02-04 14:55:49		  irc.server_default.sasl_fail = continue
+2020-02-04 14:55:49		  irc.server_default.sasl_key = ""
+2020-02-04 14:55:49		  irc.server_default.sasl_mechanism = plain
+2020-02-04 14:55:49		  irc.server_default.sasl_password = ""
+2020-02-04 14:55:49		  irc.server_default.sasl_timeout = 15
+2020-02-04 14:55:49		  irc.server_default.sasl_username = ""
+2020-02-04 14:55:49		  irc.server_default.split_msg_max_length = 512
+2020-02-04 14:55:49		  irc.server_default.ssl = on  (Standardwert: off)
+2020-02-04 14:55:49		  irc.server_default.ssl_cert = ""
+2020-02-04 14:55:49		  irc.server_default.ssl_dhkey_size = 2048
+2020-02-04 14:55:49		  irc.server_default.ssl_fingerprint = ""
+2020-02-04 14:55:49		  irc.server_default.ssl_priorities = "NORMAL:-VERS-SSL3.0"
+2020-02-04 14:55:49		  irc.server_default.ssl_verify = on
+2020-02-04 14:55:49		  irc.server_default.usermode = "+i"  (Standardwert: "")
+2020-02-04 14:55:49		  irc.server_default.username = "dewowzer"  (Standardwert: "")
+2020-02-04 14:55:49		[server] (irc.conf)
+2020-02-04 14:55:49		  irc.server.freenode.addresses = "chat.freenode.net/6697"  (Standardwert falls NULL: "")
+2020-02-04 14:55:49		  irc.server.freenode.anti_flood_prio_high = null -> 2
+2020-02-04 14:55:49		  irc.server.freenode.anti_flood_prio_low = null -> 2
+2020-02-04 14:55:49		  irc.server.freenode.autoconnect = null -> off
+2020-02-04 14:55:49		  irc.server.freenode.autojoin = null -> ""
+2020-02-04 14:55:49		  irc.server.freenode.autoreconnect = null -> on
+2020-02-04 14:55:49		  irc.server.freenode.autoreconnect_delay = null -> 10
+2020-02-04 14:55:49		  irc.server.freenode.autorejoin = null -> off
+2020-02-04 14:55:49		  irc.server.freenode.autorejoin_delay = null -> 30
+2020-02-04 14:55:49		  irc.server.freenode.away_check = null -> 0
+2020-02-04 14:55:49		  irc.server.freenode.away_check_max_nicks = null -> 25
+2020-02-04 14:55:49		  irc.server.freenode.capabilities = null -> ""
+2020-02-04 14:55:49		  irc.server.freenode.command = null -> ""
+2020-02-04 14:55:49		  irc.server.freenode.command_delay = null -> 0
+2020-02-04 14:55:49		  irc.server.freenode.connection_timeout = null -> 60
+2020-02-04 14:55:49		  irc.server.freenode.ipv6 = null -> on
+2020-02-04 14:55:49		  irc.server.freenode.local_hostname = null -> ""
+2020-02-04 14:55:49		  irc.server.freenode.msg_kick = null -> ""
+2020-02-04 14:55:49		  irc.server.freenode.msg_part = null -> "WeeChat ${info:version}"
+2020-02-04 14:55:49		  irc.server.freenode.msg_quit = null -> "WeeChat ${info:version}"
+2020-02-04 14:55:49		  irc.server.freenode.nicks = null -> "dewowzer"
+2020-02-04 14:55:49		  irc.server.freenode.nicks_alternate = null -> on
+2020-02-04 14:55:49		  irc.server.freenode.notify = null -> ""
+2020-02-04 14:55:49		  irc.server.freenode.password = null -> ""
+2020-02-04 14:55:49		  irc.server.freenode.proxy = null -> ""
+2020-02-04 14:55:49		  irc.server.freenode.realname = null -> "12345"
+2020-02-04 14:55:49		  irc.server.freenode.sasl_fail = null -> continue
+2020-02-04 14:55:49		  irc.server.freenode.sasl_key = null -> ""
+2020-02-04 14:55:49		  irc.server.freenode.sasl_mechanism = plain  (Standardwert falls NULL: plain)
+2020-02-04 14:55:49		  irc.server.freenode.sasl_password = "T8G5y&#E6!!D7$Rjqtj#PTS"  (Standardwert falls NULL: "")
+2020-02-04 14:55:49		  irc.server.freenode.sasl_timeout = null -> 15
+2020-02-04 14:55:49		  irc.server.freenode.sasl_username = "dewowzer"  (Standardwert falls NULL: "")
+2020-02-04 14:55:49		  irc.server.freenode.split_msg_max_length = null -> 512
+2020-02-04 14:55:49		  irc.server.freenode.ssl = on  (Standardwert falls NULL: on)
+2020-02-04 14:55:49		  irc.server.freenode.ssl_cert = null -> ""
+2020-02-04 14:55:49		  irc.server.freenode.ssl_dhkey_size = null -> 2048
+2020-02-04 14:55:49		  irc.server.freenode.ssl_fingerprint = null -> ""
+2020-02-04 14:55:49		  irc.server.freenode.ssl_priorities = null -> "NORMAL:-VERS-SSL3.0"
+2020-02-04 14:55:49		  irc.server.freenode.ssl_verify = null -> on
+2020-02-04 14:55:49		  irc.server.freenode.usermode = null -> "+i"
+2020-02-04 14:55:49		  irc.server.freenode.username = null -> "dewowzer"
+2020-02-04 14:55:49		  irc.server.oftc.addresses = "irc.oftc.net/6697"  (Standardwert falls NULL: "")
+2020-02-04 14:55:49		  irc.server.oftc.anti_flood_prio_high = null -> 2
+2020-02-04 14:55:49		  irc.server.oftc.anti_flood_prio_low = null -> 2
+2020-02-04 14:55:49		  irc.server.oftc.autoconnect = null -> off
+2020-02-04 14:55:49		  irc.server.oftc.autojoin = null -> ""
+2020-02-04 14:55:49		  irc.server.oftc.autoreconnect = null -> on
+2020-02-04 14:55:49		  irc.server.oftc.autoreconnect_delay = null -> 10
+2020-02-04 14:55:49		  irc.server.oftc.autorejoin = null -> off
+2020-02-04 14:55:49		  irc.server.oftc.autorejoin_delay = null -> 30
+2020-02-04 14:55:49		  irc.server.oftc.away_check = null -> 0
+2020-02-04 14:55:49		  irc.server.oftc.away_check_max_nicks = null -> 25
+2020-02-04 14:55:49		  irc.server.oftc.capabilities = null -> ""
+2020-02-04 14:55:49		  irc.server.oftc.command = "/msg NickServ identify T8G5y&#E6!!D7$Rjqtj#PTS dewowzer"  (Standardwert falls NULL: "")
+2020-02-04 14:55:49		  irc.server.oftc.command_delay = null -> 0
+2020-02-04 14:55:49		  irc.server.oftc.connection_timeout = null -> 60
+2020-02-04 14:55:49		  irc.server.oftc.ipv6 = null -> on
+2020-02-04 14:55:49		  irc.server.oftc.local_hostname = null -> ""
+2020-02-04 14:55:49		  irc.server.oftc.msg_kick = null -> ""
+2020-02-04 14:55:49		  irc.server.oftc.msg_part = null -> "WeeChat ${info:version}"
+2020-02-04 14:55:49		  irc.server.oftc.msg_quit = null -> "WeeChat ${info:version}"
+2020-02-04 14:55:49		  irc.server.oftc.nicks = null -> "dewowzer"
+2020-02-04 14:55:49		  irc.server.oftc.nicks_alternate = null -> on
+2020-02-04 14:55:49		  irc.server.oftc.notify = null -> ""
+2020-02-04 14:55:49		  irc.server.oftc.password = "T8G5y&#E6!!D7$Rjqtj#PTS"  (Standardwert falls NULL: "")
+2020-02-04 14:55:49		  irc.server.oftc.proxy = null -> ""
+2020-02-04 14:55:49		  irc.server.oftc.realname = null -> "12345"
+2020-02-04 14:55:49		  irc.server.oftc.sasl_fail = null -> continue
+2020-02-04 14:55:49		  irc.server.oftc.sasl_key = null -> ""
+2020-02-04 14:55:49		  irc.server.oftc.sasl_mechanism = null -> plain
+2020-02-04 14:55:49		  irc.server.oftc.sasl_password = null -> ""
+2020-02-04 14:55:49		  irc.server.oftc.sasl_timeout = null -> 15
+2020-02-04 14:55:49		  irc.server.oftc.sasl_username = null -> ""
+2020-02-04 14:55:49		  irc.server.oftc.split_msg_max_length = null -> 512
+2020-02-04 14:55:49		  irc.server.oftc.ssl = on  (Standardwert falls NULL: on)
+2020-02-04 14:55:49		  irc.server.oftc.ssl_cert = null -> ""
+2020-02-04 14:55:49		  irc.server.oftc.ssl_dhkey_size = null -> 2048
+2020-02-04 14:55:49		  irc.server.oftc.ssl_fingerprint = null -> ""
+2020-02-04 14:55:49		  irc.server.oftc.ssl_priorities = null -> "NORMAL:-VERS-SSL3.0"
+2020-02-04 14:55:49		  irc.server.oftc.ssl_verify = null -> on
+2020-02-04 14:55:49		  irc.server.oftc.usermode = null -> "+i"
+2020-02-04 14:55:49		  irc.server.oftc.username = null -> "dewowzer"
+2020-02-04 14:55:49		[look] (relay.conf)
+2020-02-04 14:55:49		  relay.look.auto_open_buffer = on
+2020-02-04 14:55:49		  relay.look.raw_messages = 256
+2020-02-04 14:55:49		[color] (relay.conf)
+2020-02-04 14:55:49		  relay.color.client = cyan
+2020-02-04 14:55:49		  relay.color.status_active = lightblue
+2020-02-04 14:55:49		  relay.color.status_auth_failed = lightred
+2020-02-04 14:55:49		  relay.color.status_connecting = yellow
+2020-02-04 14:55:49		  relay.color.status_disconnected = lightred
+2020-02-04 14:55:49		  relay.color.status_waiting_auth = brown
+2020-02-04 14:55:49		  relay.color.text = default
+2020-02-04 14:55:49		  relay.color.text_bg = default
+2020-02-04 14:55:49		  relay.color.text_selected = white
+2020-02-04 14:55:49		[network] (relay.conf)
+2020-02-04 14:55:49		  relay.network.allow_empty_password = off
+2020-02-04 14:55:49		  relay.network.allowed_ips = ""
+2020-02-04 14:55:49		  relay.network.bind_address = ""
+2020-02-04 14:55:49		  relay.network.clients_purge_delay = 0
+2020-02-04 14:55:49		  relay.network.compression_level = 6
+2020-02-04 14:55:49		  relay.network.ipv6 = on
+2020-02-04 14:55:49		  relay.network.max_clients = 5
+2020-02-04 14:55:49		  relay.network.password = ""
+2020-02-04 14:55:49		  relay.network.ssl_cert_key = "%h/ssl/relay.pem"
+2020-02-04 14:55:49		  relay.network.ssl_priorities = "NORMAL:-VERS-SSL3.0"
+2020-02-04 14:55:49		  relay.network.websocket_allowed_origins = ""
+2020-02-04 14:55:49		[irc] (relay.conf)
+2020-02-04 14:55:49		  relay.irc.backlog_max_minutes = 1440
+2020-02-04 14:55:49		  relay.irc.backlog_max_number = 256
+2020-02-04 14:55:49		  relay.irc.backlog_since_last_disconnect = on
+2020-02-04 14:55:49		  relay.irc.backlog_since_last_message = off
+2020-02-04 14:55:49		  relay.irc.backlog_tags = "irc_privmsg"
+2020-02-04 14:55:49		  relay.irc.backlog_time_format = "[%H:%M] "
+2020-02-04 14:55:49		[look] (ruby.conf)
+2020-02-04 14:55:49		  ruby.look.check_license = off
+2020-02-04 14:55:49		  ruby.look.eval_keep_context = on
+2020-02-04 14:55:49		[look] (python.conf)
+2020-02-04 14:55:49		  python.look.check_license = off
+2020-02-04 14:55:49		  python.look.eval_keep_context = on
+2020-02-04 14:55:49		[look] (perl.conf)
+2020-02-04 14:55:49		  perl.look.check_license = off
+2020-02-04 14:55:49		  perl.look.eval_keep_context = on
+2020-02-04 14:55:49		[look] (script.conf)
+2020-02-04 14:55:49		  script.look.columns = "%s %n %V %v %u | %d | %t"
+2020-02-04 14:55:49		  script.look.diff_color = on
+2020-02-04 14:55:49		  script.look.diff_command = "auto"
+2020-02-04 14:55:49		  script.look.display_source = on
+2020-02-04 14:55:49		  script.look.quiet_actions = on
+2020-02-04 14:55:49		  script.look.sort = "i,p,n"
+2020-02-04 14:55:49		  script.look.translate_description = on
+2020-02-04 14:55:49		  script.look.use_keys = on
+2020-02-04 14:55:49		[color] (script.conf)
+2020-02-04 14:55:49		  script.color.status_autoloaded = cyan
+2020-02-04 14:55:49		  script.color.status_held = white
+2020-02-04 14:55:49		  script.color.status_installed = lightcyan
+2020-02-04 14:55:49		  script.color.status_obsolete = lightmagenta
+2020-02-04 14:55:49		  script.color.status_popular = yellow
+2020-02-04 14:55:49		  script.color.status_running = lightgreen
+2020-02-04 14:55:49		  script.color.status_unknown = lightred
+2020-02-04 14:55:49		  script.color.text = default
+2020-02-04 14:55:49		  script.color.text_bg = default
+2020-02-04 14:55:49		  script.color.text_bg_selected = red
+2020-02-04 14:55:49		  script.color.text_date = default
+2020-02-04 14:55:49		  script.color.text_date_selected = white
+2020-02-04 14:55:49		  script.color.text_delimiters = default
+2020-02-04 14:55:49		  script.color.text_description = default
+2020-02-04 14:55:49		  script.color.text_description_selected = white
+2020-02-04 14:55:49		  script.color.text_extension = default
+2020-02-04 14:55:49		  script.color.text_extension_selected = white
+2020-02-04 14:55:49		  script.color.text_name = cyan
+2020-02-04 14:55:49		  script.color.text_name_selected = lightcyan
+2020-02-04 14:55:49		  script.color.text_selected = white
+2020-02-04 14:55:49		  script.color.text_tags = brown
+2020-02-04 14:55:49		  script.color.text_tags_selected = yellow
+2020-02-04 14:55:49		  script.color.text_version = magenta
+2020-02-04 14:55:49		  script.color.text_version_loaded = default
+2020-02-04 14:55:49		  script.color.text_version_loaded_selected = white
+2020-02-04 14:55:49		  script.color.text_version_selected = lightmagenta
+2020-02-04 14:55:49		[scripts] (script.conf)
+2020-02-04 14:55:49		  script.scripts.autoload = on
+2020-02-04 14:55:49		  script.scripts.cache_expire = 1440
+2020-02-04 14:55:49		  script.scripts.download_timeout = 30
+2020-02-04 14:55:49		  script.scripts.hold = ""
+2020-02-04 14:55:49		  script.scripts.path = "%h/script"
+2020-02-04 14:55:49		  script.scripts.url = "https://weechat.org/files/plugins.xml.gz"
+2020-02-04 14:55:49		[look] (fset.conf)
+2020-02-04 14:55:49		  fset.look.auto_unmark = off
+2020-02-04 14:55:49		  fset.look.condition_catch_set = "${count} >= 1"
+2020-02-04 14:55:49		  fset.look.export_help_default = on
+2020-02-04 14:55:49		  fset.look.format_number = 1
+2020-02-04 14:55:49		  fset.look.marked_string = "*"
+2020-02-04 14:55:49		  fset.look.scroll_horizontal = 10
+2020-02-04 14:55:49		  fset.look.show_plugins_desc = off
+2020-02-04 14:55:49		  fset.look.sort = "~name"
+2020-02-04 14:55:49		  fset.look.unmarked_string = " "
+2020-02-04 14:55:49		  fset.look.use_color_value = off
+2020-02-04 14:55:49		  fset.look.use_keys = on
+2020-02-04 14:55:49		  fset.look.use_mute = off
+2020-02-04 14:55:49		[format] (fset.conf)
+2020-02-04 14:55:49		  fset.format.export_help = "# ${description2}"
+2020-02-04 14:55:49		  fset.format.export_option = "/set ${name} ${quoted_value}"
+2020-02-04 14:55:49		  fset.format.export_option_null = "/unset ${name}"
+2020-02-04 14:55:49		  fset.format.option1 = ""
+2020-02-04 14:55:49		  fset.format.option2 = "${marked} ${name}  ${type}  ${value2}${newline}  ${empty_name}  ${_default_value}${color:darkgray} -- ${min}..${max}${newline}  ${empty_name}  ${description}"
+2020-02-04 14:55:49		[color] (fset.conf)
+2020-02-04 14:55:49		  fset.color.default_value = default
+2020-02-04 14:55:49		  fset.color.default_value_selected = white
+2020-02-04 14:55:49		  fset.color.description = default
+2020-02-04 14:55:49		  fset.color.description_selected = white
+2020-02-04 14:55:49		  fset.color.file = default
+2020-02-04 14:55:49		  fset.color.file_changed = brown
+2020-02-04 14:55:49		  fset.color.file_changed_selected = yellow
+2020-02-04 14:55:49		  fset.color.file_selected = white
+2020-02-04 14:55:49		  fset.color.help_default_value = white
+2020-02-04 14:55:49		  fset.color.help_description = default
+2020-02-04 14:55:49		  fset.color.help_name = white
+2020-02-04 14:55:49		  fset.color.help_quotes = darkgray
+2020-02-04 14:55:49		  fset.color.help_values = default
+2020-02-04 14:55:49		  fset.color.index = cyan
+2020-02-04 14:55:49		  fset.color.index_selected = lightcyan
+2020-02-04 14:55:49		  fset.color.line_marked_bg1 = default
+2020-02-04 14:55:49		  fset.color.line_marked_bg2 = default
+2020-02-04 14:55:49		  fset.color.line_selected_bg1 = blue
+2020-02-04 14:55:49		  fset.color.line_selected_bg2 = red
+2020-02-04 14:55:49		  fset.color.marked = brown
+2020-02-04 14:55:49		  fset.color.marked_selected = yellow
+2020-02-04 14:55:49		  fset.color.max = default
+2020-02-04 14:55:49		  fset.color.max_selected = white
+2020-02-04 14:55:49		  fset.color.min = default
+2020-02-04 14:55:49		  fset.color.min_selected = white
+2020-02-04 14:55:49		  fset.color.name = default
+2020-02-04 14:55:49		  fset.color.name_changed = brown
+2020-02-04 14:55:49		  fset.color.name_changed_selected = yellow
+2020-02-04 14:55:49		  fset.color.name_selected = white
+2020-02-04 14:55:49		  fset.color.option = default
+2020-02-04 14:55:49		  fset.color.option_changed = brown
+2020-02-04 14:55:49		  fset.color.option_changed_selected = yellow
+2020-02-04 14:55:49		  fset.color.option_selected = white
+2020-02-04 14:55:49		  fset.color.parent_name = default
+2020-02-04 14:55:49		  fset.color.parent_name_selected = white
+2020-02-04 14:55:49		  fset.color.parent_value = cyan
+2020-02-04 14:55:49		  fset.color.parent_value_selected = lightcyan
+2020-02-04 14:55:49		  fset.color.quotes = darkgray
+2020-02-04 14:55:49		  fset.color.quotes_changed = default
+2020-02-04 14:55:49		  fset.color.quotes_changed_selected = white
+2020-02-04 14:55:49		  fset.color.quotes_selected = default
+2020-02-04 14:55:49		  fset.color.section = default
+2020-02-04 14:55:49		  fset.color.section_changed = brown
+2020-02-04 14:55:49		  fset.color.section_changed_selected = yellow
+2020-02-04 14:55:49		  fset.color.section_selected = white
+2020-02-04 14:55:49		  fset.color.string_values = default
+2020-02-04 14:55:49		  fset.color.string_values_selected = white
+2020-02-04 14:55:49		  fset.color.title_count_options = cyan
+2020-02-04 14:55:49		  fset.color.title_current_option = lightcyan
+2020-02-04 14:55:49		  fset.color.title_filter = yellow
+2020-02-04 14:55:49		  fset.color.title_marked_options = lightgreen
+2020-02-04 14:55:49		  fset.color.title_sort = white
+2020-02-04 14:55:49		  fset.color.type = green
+2020-02-04 14:55:49		  fset.color.type_selected = lightgreen
+2020-02-04 14:55:49		  fset.color.unmarked = default
+2020-02-04 14:55:49		  fset.color.unmarked_selected = white
+2020-02-04 14:55:49		  fset.color.value = cyan
+2020-02-04 14:55:49		  fset.color.value_changed = brown
+2020-02-04 14:55:49		  fset.color.value_changed_selected = yellow
+2020-02-04 14:55:49		  fset.color.value_selected = lightcyan
+2020-02-04 14:55:49		  fset.color.value_undef = magenta
+2020-02-04 14:55:49		  fset.color.value_undef_selected = lightmagenta
+2020-02-04 14:55:49		839 Einstellungen
+2020-02-04 14:55:53		[look] (irc.conf)
+2020-02-04 14:55:53		  irc.look.buffer_open_before_autojoin = on
+2020-02-04 14:55:53		  irc.look.buffer_open_before_join = off
+2020-02-04 14:55:53		  irc.look.buffer_switch_autojoin = on
+2020-02-04 14:55:53		  irc.look.buffer_switch_join = on
+2020-02-04 14:55:53		  irc.look.color_nicks_in_names = off
+2020-02-04 14:55:53		  irc.look.color_nicks_in_nicklist = off
+2020-02-04 14:55:53		  irc.look.color_nicks_in_server_messages = on
+2020-02-04 14:55:53		  irc.look.color_pv_nick_like_channel = on
+2020-02-04 14:55:53		  irc.look.ctcp_time_format = "%a, %d %b %Y %T %z"
+2020-02-04 14:55:53		  irc.look.display_away = local
+2020-02-04 14:55:53		  irc.look.display_ctcp_blocked = on
+2020-02-04 14:55:53		  irc.look.display_ctcp_reply = on
+2020-02-04 14:55:53		  irc.look.display_ctcp_unknown = on
+2020-02-04 14:55:53		  irc.look.display_host_join = on
+2020-02-04 14:55:53		  irc.look.display_host_join_local = on
+2020-02-04 14:55:53		  irc.look.display_host_quit = on
+2020-02-04 14:55:53		  irc.look.display_join_message = "329,332,333,366"
+2020-02-04 14:55:53		  irc.look.display_old_topic = on
+2020-02-04 14:55:53		  irc.look.display_pv_away_once = on
+2020-02-04 14:55:53		  irc.look.display_pv_back = on
+2020-02-04 14:55:53		  irc.look.highlight_channel = "$nick"
+2020-02-04 14:55:53		  irc.look.highlight_pv = "$nick"
+2020-02-04 14:55:53		  irc.look.highlight_server = "$nick"
+2020-02-04 14:55:53		  irc.look.highlight_tags_restrict = "irc_privmsg,irc_notice"
+2020-02-04 14:55:53		  irc.look.item_channel_modes_hide_args = "k"
+2020-02-04 14:55:53		  irc.look.item_display_server = buffer_plugin
+2020-02-04 14:55:53		  irc.look.item_nick_modes = on
+2020-02-04 14:55:53		  irc.look.item_nick_prefix = on
+2020-02-04 14:55:53		  irc.look.join_auto_add_chantype = off
+2020-02-04 14:55:53		  irc.look.msgbuffer_fallback = current
+2020-02-04 14:55:53		  irc.look.new_channel_position = none
+2020-02-04 14:55:53		  irc.look.new_pv_position = none
+2020-02-04 14:55:53		  irc.look.nick_completion_smart = speakers
+2020-02-04 14:55:53		  irc.look.nick_mode = prefix
+2020-02-04 14:55:53		  irc.look.nick_mode_empty = off
+2020-02-04 14:55:53		  irc.look.nicks_hide_password = "nickserv"
+2020-02-04 14:55:53		  irc.look.notice_as_pv = auto
+2020-02-04 14:55:53		  irc.look.notice_welcome_redirect = on
+2020-02-04 14:55:53		  irc.look.notice_welcome_tags = ""
+2020-02-04 14:55:53		  irc.look.notify_tags_ison = "notify_message"
+2020-02-04 14:55:53		  irc.look.notify_tags_whois = "notify_message"
+2020-02-04 14:55:53		  irc.look.part_closes_buffer = off
+2020-02-04 14:55:53		  irc.look.pv_buffer = independent
+2020-02-04 14:55:53		  irc.look.pv_tags = "notify_private"
+2020-02-04 14:55:53		  irc.look.raw_messages = 256
+2020-02-04 14:55:53		  irc.look.server_buffer = merge_with_core
+2020-02-04 14:55:53		  irc.look.smart_filter = on
+2020-02-04 14:55:53		  irc.look.smart_filter_chghost = on
+2020-02-04 14:55:53		  irc.look.smart_filter_delay = 5
+2020-02-04 14:55:53		  irc.look.smart_filter_join = on
+2020-02-04 14:55:53		  irc.look.smart_filter_join_unmask = 30
+2020-02-04 14:55:53		  irc.look.smart_filter_mode = "+"
+2020-02-04 14:55:53		  irc.look.smart_filter_nick = on
+2020-02-04 14:55:53		  irc.look.smart_filter_quit = on
+2020-02-04 14:55:53		  irc.look.temporary_servers = off
+2020-02-04 14:55:53		  irc.look.topic_strip_colors = off
+2020-02-04 14:55:53		[color] (irc.conf)
+2020-02-04 14:55:53		  irc.color.input_nick = lightcyan
+2020-02-04 14:55:53		  irc.color.item_channel_modes = default
+2020-02-04 14:55:53		  irc.color.item_lag_counting = default
+2020-02-04 14:55:53		  irc.color.item_lag_finished = yellow
+2020-02-04 14:55:53		  irc.color.item_nick_modes = default
+2020-02-04 14:55:53		  irc.color.message_chghost = brown
+2020-02-04 14:55:53		  irc.color.message_join = green
+2020-02-04 14:55:53		  irc.color.message_quit = red
+2020-02-04 14:55:53		  irc.color.mirc_remap = "1,-1:darkgray"
+2020-02-04 14:55:53		  irc.color.nick_prefixes = "y:lightred;q:lightred;a:lightcyan;o:lightgreen;h:lightmagenta;v:yellow;*:lightblue"
+2020-02-04 14:55:53		  irc.color.notice = green
+2020-02-04 14:55:53		  irc.color.reason_quit = default
+2020-02-04 14:55:53		  irc.color.topic_current = default
+2020-02-04 14:55:53		  irc.color.topic_new = white
+2020-02-04 14:55:53		  irc.color.topic_old = default
+2020-02-04 14:55:53		[network] (irc.conf)
+2020-02-04 14:55:53		  irc.network.autoreconnect_delay_growing = 2
+2020-02-04 14:55:53		  irc.network.autoreconnect_delay_max = 600
+2020-02-04 14:55:53		  irc.network.ban_mask_default = "*!$ident@$host"
+2020-02-04 14:55:53		  irc.network.channel_encode = off
+2020-02-04 14:55:53		  irc.network.colors_receive = on
+2020-02-04 14:55:53		  irc.network.colors_send = on
+2020-02-04 14:55:53		  irc.network.lag_check = 60
+2020-02-04 14:55:53		  irc.network.lag_max = 1800
+2020-02-04 14:55:53		  irc.network.lag_min_show = 500
+2020-02-04 14:55:53		  irc.network.lag_reconnect = 300
+2020-02-04 14:55:53		  irc.network.lag_refresh_interval = 1
+2020-02-04 14:55:53		  irc.network.notify_check_ison = 1
+2020-02-04 14:55:53		  irc.network.notify_check_whois = 5
+2020-02-04 14:55:53		  irc.network.sasl_fail_unavailable = on
+2020-02-04 14:55:53		  irc.network.send_unknown_commands = off
+2020-02-04 14:55:53		  irc.network.whois_double_nick = off
+2020-02-04 14:55:53		[server_default] (irc.conf)
+2020-02-04 14:55:53		  irc.server_default.addresses = ""
+2020-02-04 14:55:53		  irc.server_default.anti_flood_prio_high = 2
+2020-02-04 14:55:53		  irc.server_default.anti_flood_prio_low = 2
+2020-02-04 14:55:53		  irc.server_default.autoconnect = off
+2020-02-04 14:55:53		  irc.server_default.autojoin = ""
+2020-02-04 14:55:53		  irc.server_default.autoreconnect = on
+2020-02-04 14:55:53		  irc.server_default.autoreconnect_delay = 10
+2020-02-04 14:55:53		  irc.server_default.autorejoin = off
+2020-02-04 14:55:53		  irc.server_default.autorejoin_delay = 30
+2020-02-04 14:55:53		  irc.server_default.away_check = 0
+2020-02-04 14:55:53		  irc.server_default.away_check_max_nicks = 25
+2020-02-04 14:55:53		  irc.server_default.capabilities = ""
+2020-02-04 14:55:53		  irc.server_default.command = ""
+2020-02-04 14:55:53		  irc.server_default.command_delay = 0
+2020-02-04 14:55:53		  irc.server_default.connection_timeout = 60
+2020-02-04 14:55:53		  irc.server_default.ipv6 = on
+2020-02-04 14:55:53		  irc.server_default.local_hostname = ""
+2020-02-04 14:55:53		  irc.server_default.msg_kick = ""
+2020-02-04 14:55:53		  irc.server_default.msg_part = "WeeChat ${info:version}"
+2020-02-04 14:55:53		  irc.server_default.msg_quit = "WeeChat ${info:version}"
+2020-02-04 14:55:53		  irc.server_default.nicks = "dewowzer"  (Standardwert: "")
+2020-02-04 14:55:53		  irc.server_default.nicks_alternate = on
+2020-02-04 14:55:53		  irc.server_default.notify = ""
+2020-02-04 14:55:53		  irc.server_default.password = ""
+2020-02-04 14:55:53		  irc.server_default.proxy = ""
+2020-02-04 14:55:53		  irc.server_default.realname = "12345"  (Standardwert: "")
+2020-02-04 14:55:53		  irc.server_default.sasl_fail = continue
+2020-02-04 14:55:53		  irc.server_default.sasl_key = ""
+2020-02-04 14:55:53		  irc.server_default.sasl_mechanism = plain
+2020-02-04 14:55:53		  irc.server_default.sasl_password = ""
+2020-02-04 14:55:53		  irc.server_default.sasl_timeout = 15
+2020-02-04 14:55:53		  irc.server_default.sasl_username = ""
+2020-02-04 14:55:53		  irc.server_default.split_msg_max_length = 512
+2020-02-04 14:55:53		  irc.server_default.ssl = on  (Standardwert: off)
+2020-02-04 14:55:53		  irc.server_default.ssl_cert = ""
+2020-02-04 14:55:53		  irc.server_default.ssl_dhkey_size = 2048
+2020-02-04 14:55:53		  irc.server_default.ssl_fingerprint = ""
+2020-02-04 14:55:53		  irc.server_default.ssl_priorities = "NORMAL:-VERS-SSL3.0"
+2020-02-04 14:55:53		  irc.server_default.ssl_verify = on
+2020-02-04 14:55:53		  irc.server_default.usermode = "+i"  (Standardwert: "")
+2020-02-04 14:55:53		  irc.server_default.username = "dewowzer"  (Standardwert: "")
+2020-02-04 14:55:53		[server] (irc.conf)
+2020-02-04 14:55:53		  irc.server.freenode.addresses = "chat.freenode.net/6697"  (Standardwert falls NULL: "")
+2020-02-04 14:55:53		  irc.server.freenode.anti_flood_prio_high = null -> 2
+2020-02-04 14:55:53		  irc.server.freenode.anti_flood_prio_low = null -> 2
+2020-02-04 14:55:53		  irc.server.freenode.autoconnect = null -> off
+2020-02-04 14:55:53		  irc.server.freenode.autojoin = null -> ""
+2020-02-04 14:55:53		  irc.server.freenode.autoreconnect = null -> on
+2020-02-04 14:55:53		  irc.server.freenode.autoreconnect_delay = null -> 10
+2020-02-04 14:55:53		  irc.server.freenode.autorejoin = null -> off
+2020-02-04 14:55:53		  irc.server.freenode.autorejoin_delay = null -> 30
+2020-02-04 14:55:53		  irc.server.freenode.away_check = null -> 0
+2020-02-04 14:55:53		  irc.server.freenode.away_check_max_nicks = null -> 25
+2020-02-04 14:55:53		  irc.server.freenode.capabilities = null -> ""
+2020-02-04 14:55:53		  irc.server.freenode.command = null -> ""
+2020-02-04 14:55:53		  irc.server.freenode.command_delay = null -> 0
+2020-02-04 14:55:53		  irc.server.freenode.connection_timeout = null -> 60
+2020-02-04 14:55:53		  irc.server.freenode.ipv6 = null -> on
+2020-02-04 14:55:53		  irc.server.freenode.local_hostname = null -> ""
+2020-02-04 14:55:53		  irc.server.freenode.msg_kick = null -> ""
+2020-02-04 14:55:53		  irc.server.freenode.msg_part = null -> "WeeChat ${info:version}"
+2020-02-04 14:55:53		  irc.server.freenode.msg_quit = null -> "WeeChat ${info:version}"
+2020-02-04 14:55:53		  irc.server.freenode.nicks = null -> "dewowzer"
+2020-02-04 14:55:53		  irc.server.freenode.nicks_alternate = null -> on
+2020-02-04 14:55:53		  irc.server.freenode.notify = null -> ""
+2020-02-04 14:55:53		  irc.server.freenode.password = null -> ""
+2020-02-04 14:55:53		  irc.server.freenode.proxy = null -> ""
+2020-02-04 14:55:53		  irc.server.freenode.realname = null -> "12345"
+2020-02-04 14:55:53		  irc.server.freenode.sasl_fail = null -> continue
+2020-02-04 14:55:53		  irc.server.freenode.sasl_key = null -> ""
+2020-02-04 14:55:53		  irc.server.freenode.sasl_mechanism = plain  (Standardwert falls NULL: plain)
+2020-02-04 14:55:53		  irc.server.freenode.sasl_password = "T8G5y&#E6!!D7$Rjqtj#PTS"  (Standardwert falls NULL: "")
+2020-02-04 14:55:53		  irc.server.freenode.sasl_timeout = null -> 15
+2020-02-04 14:55:53		  irc.server.freenode.sasl_username = "dewowzer"  (Standardwert falls NULL: "")
+2020-02-04 14:55:53		  irc.server.freenode.split_msg_max_length = null -> 512
+2020-02-04 14:55:53		  irc.server.freenode.ssl = on  (Standardwert falls NULL: on)
+2020-02-04 14:55:53		  irc.server.freenode.ssl_cert = null -> ""
+2020-02-04 14:55:53		  irc.server.freenode.ssl_dhkey_size = null -> 2048
+2020-02-04 14:55:53		  irc.server.freenode.ssl_fingerprint = null -> ""
+2020-02-04 14:55:53		  irc.server.freenode.ssl_priorities = null -> "NORMAL:-VERS-SSL3.0"
+2020-02-04 14:55:53		  irc.server.freenode.ssl_verify = null -> on
+2020-02-04 14:55:53		  irc.server.freenode.usermode = null -> "+i"
+2020-02-04 14:55:53		  irc.server.freenode.username = null -> "dewowzer"
+2020-02-04 14:55:53		  irc.server.oftc.addresses = "irc.oftc.net/6697"  (Standardwert falls NULL: "")
+2020-02-04 14:55:53		  irc.server.oftc.anti_flood_prio_high = null -> 2
+2020-02-04 14:55:53		  irc.server.oftc.anti_flood_prio_low = null -> 2
+2020-02-04 14:55:53		  irc.server.oftc.autoconnect = null -> off
+2020-02-04 14:55:53		  irc.server.oftc.autojoin = null -> ""
+2020-02-04 14:55:53		  irc.server.oftc.autoreconnect = null -> on
+2020-02-04 14:55:53		  irc.server.oftc.autoreconnect_delay = null -> 10
+2020-02-04 14:55:53		  irc.server.oftc.autorejoin = null -> off
+2020-02-04 14:55:53		  irc.server.oftc.autorejoin_delay = null -> 30
+2020-02-04 14:55:53		  irc.server.oftc.away_check = null -> 0
+2020-02-04 14:55:53		  irc.server.oftc.away_check_max_nicks = null -> 25
+2020-02-04 14:55:53		  irc.server.oftc.capabilities = null -> ""
+2020-02-04 14:55:53		  irc.server.oftc.command = "/msg NickServ identify T8G5y&#E6!!D7$Rjqtj#PTS dewowzer"  (Standardwert falls NULL: "")
+2020-02-04 14:55:53		  irc.server.oftc.command_delay = null -> 0
+2020-02-04 14:55:53		  irc.server.oftc.connection_timeout = null -> 60
+2020-02-04 14:55:53		  irc.server.oftc.ipv6 = null -> on
+2020-02-04 14:55:53		  irc.server.oftc.local_hostname = null -> ""
+2020-02-04 14:55:53		  irc.server.oftc.msg_kick = null -> ""
+2020-02-04 14:55:53		  irc.server.oftc.msg_part = null -> "WeeChat ${info:version}"
+2020-02-04 14:55:53		  irc.server.oftc.msg_quit = null -> "WeeChat ${info:version}"
+2020-02-04 14:55:53		  irc.server.oftc.nicks = null -> "dewowzer"
+2020-02-04 14:55:53		  irc.server.oftc.nicks_alternate = null -> on
+2020-02-04 14:55:53		  irc.server.oftc.notify = null -> ""
+2020-02-04 14:55:53		  irc.server.oftc.password = "T8G5y&#E6!!D7$Rjqtj#PTS"  (Standardwert falls NULL: "")
+2020-02-04 14:55:53		  irc.server.oftc.proxy = null -> ""
+2020-02-04 14:55:53		  irc.server.oftc.realname = null -> "12345"
+2020-02-04 14:55:53		  irc.server.oftc.sasl_fail = null -> continue
+2020-02-04 14:55:53		  irc.server.oftc.sasl_key = null -> ""
+2020-02-04 14:55:53		  irc.server.oftc.sasl_mechanism = null -> plain
+2020-02-04 14:55:53		  irc.server.oftc.sasl_password = null -> ""
+2020-02-04 14:55:53		  irc.server.oftc.sasl_timeout = null -> 15
+2020-02-04 14:55:53		  irc.server.oftc.sasl_username = null -> ""
+2020-02-04 14:55:53		  irc.server.oftc.split_msg_max_length = null -> 512
+2020-02-04 14:55:53		  irc.server.oftc.ssl = on  (Standardwert falls NULL: on)
+2020-02-04 14:55:53		  irc.server.oftc.ssl_cert = null -> ""
+2020-02-04 14:55:53		  irc.server.oftc.ssl_dhkey_size = null -> 2048
+2020-02-04 14:55:53		  irc.server.oftc.ssl_fingerprint = null -> ""
+2020-02-04 14:55:53		  irc.server.oftc.ssl_priorities = null -> "NORMAL:-VERS-SSL3.0"
+2020-02-04 14:55:53		  irc.server.oftc.ssl_verify = null -> on
+2020-02-04 14:55:53		  irc.server.oftc.usermode = null -> "+i"
+2020-02-04 14:55:53		  irc.server.oftc.username = null -> "dewowzer"
+2020-02-04 14:55:53		210 Einstellungen (Suchmuster: "irc.*")
+2020-02-04 14:56:00		[core]
+2020-02-04 14:56:00		  away     cursor   history  mute     reload   unset    window 
+2020-02-04 14:56:00		  bar      debug    input    plugin   repeat   upgrade
+2020-02-04 14:56:00		  buffer   eval     key      print    save     uptime 
+2020-02-04 14:56:00		  color    filter   layout   proxy    secure   version
+2020-02-04 14:56:00		  command  help     mouse    quit     set      wait   
+2020-02-04 14:56:00		[exec]
+2020-02-04 14:56:00		  exec
+2020-02-04 14:56:00		[irc]
+2020-02-04 14:56:00		  admin       halfop      motd        rehash      time      
+2020-02-04 14:56:00		  allchan     ignore      msg         remove      topic     
+2020-02-04 14:56:00		  allpv       info        names       restart     trace     
+2020-02-04 14:56:00		  allserv     invite      nick        sajoin      unban     
+2020-02-04 14:56:00		  ban         ison        notice      samode      unquiet   
+2020-02-04 14:56:00		  cap         join        notify      sanick      userhost  
+2020-02-04 14:56:00		  connect     kick        op          sapart      users     
+2020-02-04 14:56:00		  ctcp        kickban     oper        saquit      version   
+2020-02-04 14:56:00		  cycle       kill        part        server      voice     
+2020-02-04 14:56:00		  dcc         links       ping        service     wallchops 
+2020-02-04 14:56:00		  dehalfop    list        pong        servlist    wallops   
+2020-02-04 14:56:00		  deop        lusers      query       squery      who       
+2020-02-04 14:56:00		  devoice     map         quiet       squit       whois     
+2020-02-04 14:56:00		  die         me          quote       stats       whowas    
+2020-02-04 14:56:00		  disconnect  mode        reconnect   summon    
+2020-02-04 14:56:00		[logger]
+2020-02-04 14:56:00		  logger
+2020-02-04 14:56:00		[relay]
+2020-02-04 14:56:00		  relay
+2020-02-04 14:56:00		[buflist]
+2020-02-04 14:56:00		  buflist
+2020-02-04 14:56:00		[trigger]
+2020-02-04 14:56:00		  trigger
+2020-02-04 14:56:00		[alias]
+2020-02-04 14:56:00		  AAWAY    BEEP     CLOSE    KB       N        T        WC     
+2020-02-04 14:56:00		  alias    BYE      EXIT     LEAVE    Q        UB       WI     
+2020-02-04 14:56:00		  AME      C        IG       M        REDRAW   UMODE    WII    
+2020-02-04 14:56:00		  AMSG     CHAT     J        MSGBUF   SAY      V        WW     
+2020-02-04 14:56:00		  ANICK    CL       K        MUB      SIGNOFF  W      
+2020-02-04 14:56:00		[ruby]
+2020-02-04 14:56:00		  ruby
+2020-02-04 14:56:00		[fset]
+2020-02-04 14:56:00		  fset
+2020-02-04 14:56:00		[python]
+2020-02-04 14:56:00		  python
+2020-02-04 14:56:00		[aspell]
+2020-02-04 14:56:00		  aspell
+2020-02-04 14:56:00		[script]
+2020-02-04 14:56:00		  script
+2020-02-04 14:56:00		[xfer]
+2020-02-04 14:56:00		  me  xfer
+2020-02-04 14:56:00		[fifo]
+2020-02-04 14:56:00		  fifo
+2020-02-04 14:56:00		[charset]
+2020-02-04 14:56:00		  charset
+2020-02-04 14:56:00		[perl]
+2020-02-04 14:56:00		  perl
+2020-02-04 14:56:12	=!=	irc: Der Befehl "part" kann nur im IRC-Buffer ausgeführt werden (Server oder Channel)
+2020-02-04 14:56:14	=!=	irc: Der Befehl "part" kann nur im IRC-Buffer ausgeführt werden (Server oder Channel)
+2020-02-04 14:56:19		fifo: Pipe geschlossen
+2020-02-04 14:56:21		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-02-04 14:57:11		Einstellung geändert: irc.server.oftc.command_delay = 5  (Standardwert falls NULL: 0)
+2020-02-04 14:59:14		Liste der vorhandenen Buffer:
+2020-02-04 14:59:14		  [1] core.weechat (Benachrichtigung: all)
+2020-02-04 14:59:14		  [1] irc.server.oftc (Benachrichtigung: all)
+2020-02-04 14:59:14		  [1] irc.server.freenode (Benachrichtigung: all)
+2020-02-04 14:59:22		Fensterliste:
+2020-02-04 14:59:22		[1] (11:0;92x55) 
+2020-02-04 15:00:44		Fensterliste:
+2020-02-04 15:00:44		[1] (11:0;196x55) 
+2020-02-04 15:01:31		Liste der vorhandenen Buffer:
+2020-02-04 15:01:31		  [1] core.weechat (Benachrichtigung: all)
+2020-02-04 15:01:31		  [1] irc.server.oftc (Benachrichtigung: all)
+2020-02-04 15:01:31		  [1] irc.server.freenode (Benachrichtigung: all)
+2020-02-04 15:35:04	=!=	Fehler: Der Befehl "/doin" ist nicht bekannt. Für eine Hilfe nutze /help
+2020-02-04 15:44:47	=!=	Fehler: Der Befehl "/clear" ist nicht bekannt. Für eine Hilfe nutze /help
+2020-02-04 16:04:51		Benachrichtigung wurde für "core.weechat": von "all" auf "message" geändert
+2020-02-04 16:04:51		Benachrichtigung wurde für "irc.server.oftc": von "all" auf "message" geändert
+2020-02-04 16:04:51		Benachrichtigung wurde für "irc.server.freenode": von "all" auf "message" geändert
+2020-02-04 16:04:51		Benachrichtigung wurde für "irc.oftc.#debian": von "all" auf "message" geändert
+2020-02-04 16:04:51		Benachrichtigung wurde für "irc.freenode.##security": von "all" auf "message" geändert
+2020-02-04 16:04:51		Benachrichtigung wurde für "irc.freenode.#debian": von "all" auf "message" geändert
+2020-02-04 16:04:51		Benachrichtigung wurde für "irc.freenode.##privacy": von "all" auf "message" geändert
+2020-02-04 16:04:51		Benachrichtigung wurde für "irc.freenode.##hackers-threatintel": von "all" auf "message" geändert
+2020-02-04 16:04:51		Benachrichtigung wurde für "irc.freenode.#positivepython": von "all" auf "message" geändert
+2020-02-04 16:04:51		Benachrichtigung wurde für "irc.freenode.#python": von "all" auf "message" geändert
+2020-02-04 16:04:51		Einstellung geändert: weechat.look.buffer_notify_default = message  (Standardwert: all)
+2020-02-04 17:00:29		fifo: Pipe geschlossen
+2020-02-04 17:00:31		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-02-04 17:04:50		Einstellung geändert: weechat.history.max_commands = 1000  (Standardwert: 100)
+2020-02-04 17:47:34		irc: Server snoonet wurde angelegt
+2020-02-04 17:48:17		Einstellung geändert: irc.server.snoonet.addresses = "irc.snoonet.org/6697"  (Standardwert falls NULL: "")
+2020-02-04 17:48:35		Einstellung geändert: irc.server.snoonet.ssl = on  (Standardwert falls NULL: on)
+2020-02-04 17:51:12		Einstellung geändert: irc.server.snoonet.password = "8b73wIL2whWjrYznfc5zAfZirx9wRsYJgxsKmi2"  (Standardwert falls NULL: "")
+2020-02-04 17:53:37		Einstellung geändert: irc.server.snoonet.command = "/msg NickServ IDENTIFY 8b73wIL2whWjrYznfc5zAfZirx9wRsYJgxsKmi2"  (Standardwert falls NULL: "")
+2020-02-04 17:53:50		Einstellung geändert: irc.server.snoonet.command_delay = 5  (Standardwert falls NULL: 0)
+2020-02-04 18:02:41		Einstellung geändert: irc.server.snoonet.sasl_username = "dewowzer"  (Standardwert falls NULL: "")
+2020-02-04 18:03:42		Einstellung geändert: irc.server.snoonet.sasl_password = "8b73wIL2whWjrYznfc5zAfZirx9wRsYJgxsKmi2"  (Standardwert falls NULL: "")
+2020-02-04 18:04:31		Einstellungen unter sec.conf gesichert
+2020-02-04 18:04:31		Einstellungen unter weechat.conf gesichert
+2020-02-04 18:04:31		Einstellungen unter plugins.conf gesichert
+2020-02-04 18:04:31		Einstellungen unter charset.conf gesichert
+2020-02-04 18:04:31		Einstellungen unter logger.conf gesichert
+2020-02-04 18:04:31		Einstellungen unter exec.conf gesichert
+2020-02-04 18:04:31		Einstellungen unter trigger.conf gesichert
+2020-02-04 18:04:31		Einstellungen unter aspell.conf gesichert
+2020-02-04 18:04:31		Einstellungen unter alias.conf gesichert
+2020-02-04 18:04:31		Einstellungen unter buflist.conf gesichert
+2020-02-04 18:04:31		Einstellungen unter fifo.conf gesichert
+2020-02-04 18:04:31		Einstellungen unter xfer.conf gesichert
+2020-02-04 18:04:31		Einstellungen unter irc.conf gesichert
+2020-02-04 18:04:31		Einstellungen unter relay.conf gesichert
+2020-02-04 18:04:31		Einstellungen unter ruby.conf gesichert
+2020-02-04 18:04:31		Einstellungen unter python.conf gesichert
+2020-02-04 18:04:31		Einstellungen unter perl.conf gesichert
+2020-02-04 18:04:31		Einstellungen unter script.conf gesichert
+2020-02-04 18:04:31		Einstellungen unter fset.conf gesichert
+2020-02-04 18:19:09		[irc]  /list  [-server <server>] [-re <regex>] [<channel>[,<channel>...]] [<target>]
+2020-02-04 18:19:09		Channels mit ihrem Thema auflisten
+2020-02-04 18:19:09		 server: an diesen Server senden (interner Name)
+2020-02-04 18:19:09		 regexp: erweiterter regulärer POSIX Ausdruck, der auf die Ausgabe angewendet werden soll (zwischen Groß- und Kleinschreibung wird nicht unterschieden. Um zwischen Groß- und Kleinschreibung zu unterscheiden muss zu Beginn "(?-i)" genutzt werden)
+2020-02-04 18:19:09		channel: aufzulistender Channel
+2020-02-04 18:19:09		 target: Servername
+2020-02-04 18:19:09		Beispiele:
+2020-02-04 18:19:09		  listet alle Channels des Servers auf (dies kann bei großen Netzwerken sehr lange dauern):
+2020-02-04 18:19:09		    /list
+2020-02-04 18:19:09		  listet den Channel #weechat auf:
+2020-02-04 18:19:09		    /list #weechat
+2020-02-04 18:19:09		  listet alle Channels auf die mit "#weechat" beginnen (dies kann bei großen Netzwerken sehr lange dauern):
+2020-02-04 18:19:09		    /list -re #weechat.*
+2020-02-04 18:43:54		irc: Server dalnet wurde angelegt
+2020-02-04 18:44:22		Einstellung geändert: irc.server.dalnet.addresses = "irc.dal.net/6697"  (Standardwert falls NULL: "")
+2020-02-04 18:44:34		Einstellung geändert: irc.server.dalnet.ssl = on  (Standardwert falls NULL: on)
+2020-02-04 18:47:37	=!=	Fehler: Der Befehl "/NickServ" ist nicht bekannt. Für eine Hilfe nutze /help
+2020-02-04 18:47:56	=!=	Fehler: Der Befehl "/NickServ" ist nicht bekannt. Für eine Hilfe nutze /help
+2020-02-04 19:08:18		Einstellung geändert: irc.server.dalnet.password = "JfZ2doCBTTfNMpuRa8TiRaQWKVsF5Qu5Z93bvo4UK"  (Standardwert falls NULL: "")
+2020-02-04 19:13:07	=!=	Keine Hilfe verfügbar. "usermode" ist weder ein Befehl noch eine Einstellung
+2020-02-04 19:26:26		fifo: Pipe geschlossen
+2020-02-04 19:26:49		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-02-04 20:23:55		fifo: Pipe geschlossen
+2020-02-05 07:24:03		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-02-05 07:32:07		Einstellung geändert: irc.server.dalnet.autoconnect = on  (Standardwert falls NULL: off)
+2020-02-05 07:33:06	=!=	Fehler mit dem Befehl "/list * -min 20" aufgetreten (nutze: /help list)
+2020-02-05 07:33:11		[irc]  /list  [-server <server>] [-re <regex>] [<channel>[,<channel>...]] [<target>]
+2020-02-05 07:33:11		Channels mit ihrem Thema auflisten
+2020-02-05 07:33:11		 server: an diesen Server senden (interner Name)
+2020-02-05 07:33:11		 regexp: erweiterter regulärer POSIX Ausdruck, der auf die Ausgabe angewendet werden soll (zwischen Groß- und Kleinschreibung wird nicht unterschieden. Um zwischen Groß- und Kleinschreibung zu unterscheiden muss zu Beginn "(?-i)" genutzt werden)
+2020-02-05 07:33:11		channel: aufzulistender Channel
+2020-02-05 07:33:11		 target: Servername
+2020-02-05 07:33:11		Beispiele:
+2020-02-05 07:33:11		  listet alle Channels des Servers auf (dies kann bei großen Netzwerken sehr lange dauern):
+2020-02-05 07:33:11		    /list
+2020-02-05 07:33:11		  listet den Channel #weechat auf:
+2020-02-05 07:33:11		    /list #weechat
+2020-02-05 07:33:11		  listet alle Channels auf die mit "#weechat" beginnen (dies kann bei großen Netzwerken sehr lange dauern):
+2020-02-05 07:33:11		    /list -re #weechat.*
+2020-02-05 07:35:29	=!=	irc: es besteht bereits eine Verbindung zum Server "dalnet"
+2020-02-05 07:35:46		fifo: Pipe geschlossen
+2020-02-05 07:35:47		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-02-05 07:36:22		[irc]  /join  [-noswitch] [-server <server>] [<channel1>[,<channel2>...]] [<key1>[,<key2>...]]
+2020-02-05 07:36:22		einen Channel betreten
+2020-02-05 07:36:22		-noswitch: es wird nicht zu dem angegebenen Channel gewechselt
+2020-02-05 07:36:22		   server: an angegebenen Server (interner Name) senden
+2020-02-05 07:36:22		  channel: Name des Channels, der betreten werden soll
+2020-02-05 07:36:22		      key: Zugriffsschlüssel für einen Channel (Channel, die einen Zugriffsschlüssel benötigen, müssen zuerst aufgeführt werden)
+2020-02-05 07:36:22		Beispiele:
+2020-02-05 07:36:22		  /join #weechat
+2020-02-05 07:36:22		  /join #geschützter_Channel,#weechat Zugriffsschlüssel
+2020-02-05 07:36:22		  /join -server freenode #weechat
+2020-02-05 07:36:22		  /join -noswitch #weechat
+2020-02-05 07:39:52	=!=	Fehler mit dem Befehl "/list * -min 100" aufgetreten (nutze: /help list)
+2020-02-05 12:33:54		charset: Terminal: UTF-8, Intern: UTF-8
+2020-02-05 12:38:29		Einstellung geändert: irc.server_default.msg_part = "Bye"  (Standardwert: "WeeChat ${info:version}")
+2020-02-05 12:38:50		Einstellung geändert: irc.server_default.msg_quit = ""  (Standardwert: "WeeChat ${info:version}")
+2020-02-05 12:39:38		Einstellung geändert: irc.server_default.msg_part = ""  (Standardwert: "WeeChat ${info:version}")
+2020-02-05 14:14:14	=!=	irc: Der Befehl "join" kann nur im IRC-Buffer ausgeführt werden (Server oder Channel)
+2020-02-05 14:50:47		Einstellung geändert: irc.server.oftc.command = "/msg NickServ identify T8G5y&#E6!!D7$Rjqtj#PTS dewowzer;/msg nickserv SET CLOAK ON"  (Standardwert falls NULL: "")
+2020-02-05 14:57:29		Einstellung geändert: irc.server.snoonet.usermode = "+ix"  (Standardwert falls NULL: "+i")
+2020-02-05 15:28:54		fifo: Pipe geschlossen
+2020-02-05 20:45:59		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-02-05 22:13:52		fifo: Pipe geschlossen
+2020-02-06 13:54:39		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-02-06 15:54:37		fifo: Pipe geschlossen
+2020-02-06 16:40:13		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-02-06 19:55:22		fifo: Pipe geschlossen
+2020-02-06 22:21:35		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-02-06 23:09:15		fifo: Pipe geschlossen
+2020-02-07 10:59:21		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-02-07 11:48:20		fifo: Pipe geschlossen
+2020-02-07 23:00:45		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-02-07 23:01:05	=!=	irc: Der Befehl "join" kann nur bei einem verbundenen IRC-Server ausgeführt werden
+2020-02-07 23:01:48		fifo: Pipe geschlossen
+2020-02-10 16:08:06		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-02-10 16:09:56		fifo: Pipe geschlossen
+2020-02-10 16:11:24		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-02-10 16:12:10		fifo: Pipe geschlossen
+2020-02-10 16:54:02		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-02-10 17:20:24		fifo: Pipe geschlossen
+2020-02-10 17:20:27		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-02-10 17:21:01		fifo: Pipe geschlossen
+2020-02-10 17:23:43		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-02-10 17:24:20		fifo: Pipe geschlossen
+2020-02-10 17:26:06		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-02-10 17:27:02		fifo: Pipe geschlossen
+2020-02-10 18:08:53		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-02-10 18:31:04		fifo: Pipe geschlossen
+2020-02-11 15:43:21		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-02-11 17:37:45		fifo: Pipe geschlossen
+2020-02-12 20:04:28		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-02-12 21:03:36		fifo: Pipe geschlossen
+2020-02-14 13:00:56		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-02-14 17:50:28		fifo: Pipe geschlossen
+2020-02-14 18:49:55		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-02-17 08:41:29		fifo: Pipe geschlossen
+2020-02-17 09:42:17		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-02-21 22:31:36		fifo: Pipe geschlossen
+2020-02-22 08:21:16		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-02-22 12:43:10		fifo: Pipe geschlossen
+2020-03-10 16:36:47		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-03-22 08:25:02	=!=	zu wenig Argumente für den Befehl "/msg" (nutze die Hilfe für den Befehl: /help msg)
+2020-03-22 08:27:44	=!=	zu wenig Argumente für den Befehl "/msg" (nutze die Hilfe für den Befehl: /help msg)
+2020-03-22 12:05:27		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-03-22 13:32:22		fifo: Pipe geschlossen
+2020-03-22 13:35:33		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-03-23 08:44:44		fifo: Pipe geschlossen
+2020-03-24 20:23:53		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-03-25 11:34:22		fifo: Pipe geschlossen
+2020-03-25 11:34:29		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-03-25 20:29:34		fifo: Pipe geschlossen
+2020-03-25 20:29:46		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-03-26 08:40:41		fifo: Pipe geschlossen
+2020-03-26 08:40:49		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-03-28 21:25:45		fifo: Pipe geschlossen
+2020-03-28 21:25:56		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-04-09 14:25:07		fifo: Pipe geschlossen
+2020-04-09 14:35:15		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-04-09 16:49:15		fifo: Pipe geschlossen
+2020-04-09 16:50:22		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-04-10 19:04:16		fifo: Pipe geschlossen
+2020-04-10 19:05:36		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-04-11 12:04:19		fifo: Pipe geschlossen
+2020-04-11 12:05:29		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-04-12 13:57:38		fifo: Pipe geschlossen
+2020-04-12 19:23:15		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-04-14 10:19:04		fifo: Pipe geschlossen
+2020-04-14 10:24:20		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-04-15 12:16:28	=!=	Fehler: Der Befehl "/search" ist nicht bekannt. Für eine Hilfe nutze /help
+2020-04-15 12:16:33		[core]
+2020-04-15 12:16:33		  away     buffer   command  debug    filter   history  key      mouse    plugin   proxy    reload   save     set      upgrade  version  window 
+2020-04-15 12:16:33		  bar      color    cursor   eval     help     input    layout   mute     print    quit     repeat   secure   unset    uptime   wait   
+2020-04-15 12:16:33		[exec]
+2020-04-15 12:16:33		  exec
+2020-04-15 12:16:33		[irc]
+2020-04-15 12:16:33		  admin       connect     devoice     invite      links       motd        op          quiet       sajoin      service     time        users       whois     
+2020-04-15 12:16:33		  allchan     ctcp        die         ison        list        msg         oper        quote       samode      servlist    topic       version     whowas    
+2020-04-15 12:16:33		  allpv       cycle       disconnect  join        lusers      names       part        reconnect   sanick      squery      trace       voice     
+2020-04-15 12:16:33		  allserv     dcc         halfop      kick        map         nick        ping        rehash      sapart      squit       unban       wallchops 
+2020-04-15 12:16:33		  ban         dehalfop    ignore      kickban     me          notice      pong        remove      saquit      stats       unquiet     wallops   
+2020-04-15 12:16:33		  cap         deop        info        kill        mode        notify      query       restart     server      summon      userhost    who       
+2020-04-15 12:16:33		[logger]
+2020-04-15 12:16:33		  logger
+2020-04-15 12:16:33		[relay]
+2020-04-15 12:16:33		  relay
+2020-04-15 12:16:33		[buflist]
+2020-04-15 12:16:33		  buflist
+2020-04-15 12:16:33		[trigger]
+2020-04-15 12:16:33		  trigger
+2020-04-15 12:16:33		[alias]
+2020-04-15 12:16:33		  AAWAY    AME      ANICK    BYE      CHAT     CLOSE    IG       K        LEAVE    MSGBUF   N        REDRAW   SIGNOFF  UB       V        WC       WII    
+2020-04-15 12:16:33		  alias    AMSG     BEEP     C        CL       EXIT     J        KB       M        MUB      Q        SAY      T        UMODE    W        WI       WW     
+2020-04-15 12:16:33		[ruby]
+2020-04-15 12:16:33		  ruby
+2020-04-15 12:16:33		[fset]
+2020-04-15 12:16:33		  fset
+2020-04-15 12:16:33		[python]
+2020-04-15 12:16:33		  python
+2020-04-15 12:16:33		[aspell]
+2020-04-15 12:16:33		  aspell
+2020-04-15 12:16:33		[script]
+2020-04-15 12:16:33		  script
+2020-04-15 12:16:33		[xfer]
+2020-04-15 12:16:33		  me  xfer
+2020-04-15 12:16:33		[fifo]
+2020-04-15 12:16:33		  fifo
+2020-04-15 12:16:33		[charset]
+2020-04-15 12:16:33		  charset
+2020-04-15 12:16:33		[perl]
+2020-04-15 12:16:33		  perl
+2020-04-23 19:32:46		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-04-29 23:12:59		fifo: Pipe geschlossen
+2020-04-30 08:50:35		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-05-14 13:26:44		fifo: Pipe geschlossen
+2020-05-14 13:29:35		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-05-14 14:51:25		fifo: Pipe geschlossen
+2020-05-14 14:52:44		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-05-27 10:15:44		fifo: Pipe geschlossen
+2020-05-27 10:33:17		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-05-27 10:34:48		fifo: Pipe geschlossen
+2020-05-27 11:30:32		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-05-28 15:51:07		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-05-28 18:40:02		fifo: Pipe geschlossen
+2020-05-29 08:54:47		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-05-29 12:20:02		fifo: Pipe geschlossen
+2020-05-29 12:33:21		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-05-31 12:32:59		fifo: Pipe geschlossen
+2020-05-31 18:16:19		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-06-02 09:18:30		fifo: Pipe geschlossen
+2020-06-02 18:09:52		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-06-04 09:19:35		fifo: Pipe geschlossen
+2020-06-04 10:18:46		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-06-04 10:41:25		fifo: Pipe geschlossen
+2020-06-04 10:41:31		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-06-05 23:44:21		fifo: Pipe geschlossen
+2020-06-06 10:43:30		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-06-06 23:23:00		fifo: Pipe geschlossen
+2020-06-07 07:52:12		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-06-07 10:37:15		fifo: Pipe geschlossen
+2020-06-07 10:41:06		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-06-07 22:32:51		fifo: Pipe geschlossen
+2020-06-08 09:04:10		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-06-08 19:46:25		fifo: Pipe geschlossen
+2020-06-08 19:46:29		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-06-08 23:14:01		fifo: Pipe geschlossen
+2020-06-09 08:53:46		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-06-12 09:03:57		fifo: Pipe geschlossen
+2020-06-12 09:06:34		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-06-12 23:02:36		fifo: Pipe geschlossen
+2020-06-15 11:28:01		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-06-15 22:49:59		fifo: Pipe geschlossen
+2020-06-16 07:21:22		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-06-16 23:12:57		fifo: Pipe geschlossen
+2020-06-17 14:17:18		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-06-17 23:28:53		fifo: Pipe geschlossen
+2020-06-18 08:58:32		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-06-19 22:30:04		fifo: Pipe geschlossen
+2020-06-21 10:23:54		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-06-21 22:30:18		fifo: Pipe geschlossen
+2020-06-22 09:21:37		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-06-22 22:19:39		fifo: Pipe geschlossen
+2020-06-23 09:12:15		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-06-23 22:44:32		fifo: Pipe geschlossen
+2020-06-24 09:46:54		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-06-25 19:14:23		fifo: Pipe geschlossen
+2020-06-29 08:32:16		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-06-29 22:55:26		fifo: Pipe geschlossen
+2020-06-30 09:10:46		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-06-30 22:30:31		fifo: Pipe geschlossen
+2020-07-01 11:41:32		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-07-01 18:59:32		fifo: Pipe geschlossen
+2020-07-02 10:17:07		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-07-02 18:44:03		fifo: Pipe geschlossen
+2020-07-03 11:15:35		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-07-03 23:24:33		fifo: Pipe geschlossen
+2020-07-04 14:15:49		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-07-04 22:53:09		fifo: Pipe geschlossen
+2020-07-05 19:58:23		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-07-05 22:41:47		fifo: Pipe geschlossen
+2020-07-06 10:03:41		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-07-06 15:53:26		fifo: Pipe geschlossen
+2020-07-06 16:04:37		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-07-06 17:38:19		fifo: Pipe geschlossen
+2020-07-07 07:51:33		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-07-07 07:55:11		fifo: Pipe geschlossen
+2020-07-07 09:19:42		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-07-07 17:43:48		fifo: Pipe geschlossen
+2020-07-08 09:45:56		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-07-08 18:04:12		fifo: Pipe geschlossen
+2020-07-09 09:23:17		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-07-09 18:51:48		fifo: Pipe geschlossen
+2020-07-10 09:28:51		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-07-10 18:22:36		fifo: Pipe geschlossen
+2020-07-13 09:11:58		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-07-13 18:06:59		fifo: Pipe geschlossen
+2020-07-14 09:02:03		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-07-14 17:48:58		fifo: Pipe geschlossen
+2020-07-15 08:58:38		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-07-15 19:00:05		fifo: Pipe geschlossen
+2020-07-16 16:12:14		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-07-16 18:15:42		fifo: Pipe geschlossen
+2020-07-17 08:59:18		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-07-17 17:25:05		fifo: Pipe geschlossen
+2020-07-20 08:54:40		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-07-20 18:15:46		fifo: Pipe geschlossen
+2020-07-21 08:58:25		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-07-21 12:15:50		fifo: Pipe geschlossen
+2020-07-21 12:18:01		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-07-21 18:24:05		fifo: Pipe geschlossen
+2020-07-22 09:12:06		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-07-22 17:19:47		fifo: Pipe geschlossen
+2020-07-23 13:41:04		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-07-23 14:33:16		fifo: Pipe geschlossen
+2020-08-06 09:08:18		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-08-06 09:21:27		fifo: Pipe geschlossen
+2020-08-06 09:23:58		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-08-06 18:07:42		fifo: Pipe geschlossen
+2020-08-07 09:01:47		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-08-07 18:09:57		fifo: Pipe geschlossen
+2020-08-08 13:13:05		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-08-09 19:49:02		fifo: Pipe geschlossen
+2020-08-10 11:28:05		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-08-10 18:24:03		fifo: Pipe geschlossen
+2020-08-11 16:14:00		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-08-11 18:04:04		fifo: Pipe geschlossen
+2020-08-12 14:55:58		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-08-12 19:03:37		fifo: Pipe geschlossen
+2020-08-13 08:54:50		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-08-13 17:46:22		fifo: Pipe geschlossen
+2020-08-14 13:22:25		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-08-14 13:35:51		fifo: Pipe geschlossen
+2020-08-14 13:37:41		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-08-14 18:11:23		fifo: Pipe geschlossen
+2020-08-17 08:51:43		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-08-17 18:47:03		fifo: Pipe geschlossen
+2020-08-18 09:17:05		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-08-18 18:02:35		fifo: Pipe geschlossen
+2020-08-19 09:10:16		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-08-19 19:26:35		fifo: Pipe geschlossen
+2020-08-20 12:20:55		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-08-21 18:03:42		fifo: Pipe geschlossen
+2020-08-24 10:08:50		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-08-24 10:28:31		fifo: Pipe geschlossen
+2020-08-24 10:34:20		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-08-24 17:41:43		fifo: Pipe geschlossen
+2020-08-24 17:43:54		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-08-24 18:44:07		fifo: Pipe geschlossen
+2020-08-25 10:04:54		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-08-25 18:57:50		fifo: Pipe geschlossen
+2020-08-26 09:12:00		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-08-26 19:03:08		fifo: Pipe geschlossen
+2020-08-27 09:07:15		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-08-27 18:38:45		fifo: Pipe geschlossen
+2020-08-28 09:14:30		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-08-28 15:48:08		fifo: Pipe geschlossen
+2020-08-31 09:21:42		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-08-31 18:55:52		fifo: Pipe geschlossen
+2020-09-01 10:59:12		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-09-01 19:11:22		fifo: Pipe geschlossen
+2020-09-02 09:12:26		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-09-02 18:59:02		fifo: Pipe geschlossen
+2020-09-03 10:56:07		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-09-03 18:45:15		fifo: Pipe geschlossen
+2020-09-04 09:21:53		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-09-04 17:51:41		fifo: Pipe geschlossen
+2020-09-07 08:40:19		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-09-08 16:32:04		fifo: Pipe geschlossen
+2020-09-08 18:24:11		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-09-08 18:55:20		fifo: Pipe geschlossen
+2020-09-09 16:48:00		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-09-09 19:09:34		fifo: Pipe geschlossen
+2020-09-10 10:44:50		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-09-10 18:41:13		fifo: Pipe geschlossen
+2020-09-11 09:10:30		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-09-11 17:55:27		fifo: Pipe geschlossen
+2020-09-14 09:08:03		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-09-14 19:18:50		fifo: Pipe geschlossen
+2020-09-15 10:21:17		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-09-15 20:03:39		fifo: Pipe geschlossen
+2020-09-16 10:21:29		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-09-16 18:51:09		fifo: Pipe geschlossen
+2020-09-17 09:11:28		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-09-17 19:55:35		fifo: Pipe geschlossen
+2020-09-18 09:11:31		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-09-18 18:40:54		fifo: Pipe geschlossen
+2020-09-22 09:00:45		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-09-22 18:45:57		fifo: Pipe geschlossen
+2020-09-23 11:34:22		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-09-23 18:57:33		fifo: Pipe geschlossen
+2020-09-24 09:19:02		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-09-24 18:57:52		fifo: Pipe geschlossen
+2020-09-25 10:11:58		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-09-25 18:58:36		fifo: Pipe geschlossen
+2020-09-28 09:45:54		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-09-28 10:04:30		fifo: Pipe geschlossen
+2020-09-28 10:06:20		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-09-28 18:40:06		fifo: Pipe geschlossen
+2020-09-29 10:44:04		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-09-29 18:28:13		fifo: Pipe geschlossen
+2020-09-30 10:43:11		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-09-30 17:08:26		fifo: Pipe geschlossen
+2020-10-01 10:49:44		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-10-01 17:39:57		fifo: Pipe geschlossen
+2020-10-02 09:16:29		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-10-02 19:06:17		fifo: Pipe geschlossen
+2020-10-05 10:53:25		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-10-05 18:28:47		fifo: Pipe geschlossen
+2020-10-06 10:27:46		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-10-06 16:38:53		fifo: Pipe geschlossen
+2020-10-08 09:13:50		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-10-08 18:05:42		fifo: Pipe geschlossen
+2020-10-09 14:47:22		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-10-09 18:17:44		fifo: Pipe geschlossen
+2020-10-12 09:27:21		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-10-12 17:52:02		fifo: Pipe geschlossen
+2020-10-13 09:37:22		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-10-14 09:28:30		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-10-14 09:32:29		fifo: Pipe geschlossen
+2020-10-14 09:36:14		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-10-14 09:38:45		fifo: Pipe geschlossen
+2020-10-14 09:42:48		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-10-14 18:41:17		fifo: Pipe geschlossen
+2020-10-15 09:50:31		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-10-15 18:25:08		fifo: Pipe geschlossen
+2020-10-16 09:11:12		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-10-16 18:45:13		fifo: Pipe geschlossen
+2020-10-16 20:46:45		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-10-17 14:11:03		fifo: Pipe geschlossen
+2020-10-17 14:15:05		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-10-17 15:00:05		fifo: Pipe geschlossen
+2020-10-17 15:11:30		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-10-17 16:03:20		fifo: Pipe geschlossen
+2020-10-17 16:03:25		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-10-17 16:31:34		fifo: Pipe geschlossen
+2020-10-17 16:40:31		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-10-19 08:29:11		fifo: Pipe geschlossen
+2020-10-19 09:04:55		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-10-19 17:59:41		fifo: Pipe geschlossen
+2020-10-20 09:08:21		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-10-20 20:00:17		fifo: Pipe geschlossen
+2020-10-21 09:13:56		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-10-21 18:04:38		fifo: Pipe geschlossen
+2020-10-23 09:09:34		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-10-23 17:57:23		fifo: Pipe geschlossen
+2020-10-24 11:49:01		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-10-26 06:12:39		fifo: Pipe geschlossen
+2020-10-26 09:57:15		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-10-26 19:02:42		fifo: Pipe geschlossen
+2020-10-27 09:09:17		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-10-27 17:54:58		fifo: Pipe geschlossen
+2020-10-28 09:34:49		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-10-28 19:06:15		fifo: Pipe geschlossen
+2020-10-29 09:09:26		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-10-29 18:40:06		fifo: Pipe geschlossen
+2020-10-30 08:28:54		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-10-30 08:41:02		fifo: Pipe geschlossen
+2020-10-31 17:04:46		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-11-01 19:30:13		fifo: Pipe geschlossen
+2020-11-01 19:35:01		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-11-02 09:36:21		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-11-02 18:26:30		fifo: Pipe geschlossen
+2020-11-02 21:05:46		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-11-03 08:22:19		fifo: Pipe geschlossen
+2020-11-03 09:10:40		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-11-03 18:07:19		fifo: Pipe geschlossen
+2020-11-04 09:06:54		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-11-04 19:07:39		fifo: Pipe geschlossen
+2020-11-05 15:34:51		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-11-05 18:49:16		fifo: Pipe geschlossen
+2020-11-06 09:12:35		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-11-06 18:16:30		fifo: Pipe geschlossen
+2020-11-07 10:00:18		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-11-07 13:23:20		fifo: Pipe geschlossen
+2020-11-09 09:11:54		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer
+2020-11-09 19:15:29		fifo: Pipe geschlossen
+2020-11-10 09:22:32		Installierte Erweiterungen: alias, aspell, buflist, charset, exec, fifo, fset, irc, logger, perl, python, relay, ruby, script, trigger, xfer

@@ -1,0 +1,89 @@
+2020-02-04 19:28:23	-->	dewowzer (dewowzer@gateway/vpn/protonvpn/dewowzer) hat den Channel #pfsense betreten
+2020-02-04 19:28:23	--	Das Thema von #pfsense lautet: "2.5.0-DEVELOPMENT snapshots now available https://www.netgate.com/blog/pfsense-2-5-0-development-snapshots-now-available.html || 2.4.4-RELEASE-p3 now out! https://www.netgate.com/blog/pfsense-2-4-4-release-p3-now-available.html || Book available now for all! - https://www.netgate.com/docs/pfsense/book/ || Need commercial support? https://www.netgate.com/support/"
+2020-02-04 19:28:23	--	Thema wurde festgelegt von Mxx (sid973@gateway/web/irccloud.com/x-apgmvswharfdbkpc) am Mi, 22 Mai 2019 02:37:22
+2020-02-04 19:28:24	--	Channel #pfsense: 571 Nicks (4 Operatoren, 0 ge-voice-te, 567 normale)
+2020-02-04 19:28:24	--	PvHinweis(ChanServ): Welcome to the Official pfSense Channel
+2020-02-04 19:28:25	--	Channel erstellt am So, 26 Nov 2006 07:42:50
+2020-02-04 19:30:09	<--	Snoras (~Snoras@gateway/tor-sasl/snoras) hat den IRC verlassen (Remote host closed the connection)
+2020-02-04 19:30:25	-->	Snoras (~Snoras@gateway/tor-sasl/snoras) hat den Channel #pfsense betreten
+2020-02-04 19:46:56	<--	LoRdN1x (~L0rdNix@unaffiliated/lordn1x) hat den IRC verlassen (Ping timeout: 265 seconds)
+2020-02-04 19:47:40	<--	warthog9 (warthog9@proxy.monkeyblade.net) hat den IRC verlassen (Ping timeout: 255 seconds)
+2020-02-04 19:49:07	-->	LoRdN1x (~L0rdNix@unaffiliated/lordn1x) hat den Channel #pfsense betreten
+2020-02-04 19:51:04	-->	GWM-Deus (~GWM@unaffiliated/gwm) hat den Channel #pfsense betreten
+2020-02-04 19:51:46	<--	threwahway (~threwahwa@c-73-241-138-120.hsd1.ca.comcast.net) hat den IRC verlassen (Ping timeout: 265 seconds)
+2020-02-04 19:53:26	-->	threwahway (~threwahwa@c-73-241-138-120.hsd1.ca.comcast.net) hat den Channel #pfsense betreten
+2020-02-04 19:54:02	<--	GWM (~GWM@unaffiliated/gwm) hat den IRC verlassen (Ping timeout: 240 seconds)
+2020-02-04 19:55:38	<--	LoRdN1x (~L0rdNix@unaffiliated/lordn1x) hat den IRC verlassen (Ping timeout: 240 seconds)
+2020-02-04 19:59:48	<--	hgeboner (~duke@v2201801700760097.supersrv.de) hat den IRC verlassen (*.net *.split)
+2020-02-04 19:59:48	<--	halden (h@lden.im) hat den IRC verlassen (*.net *.split)
+2020-02-04 20:00:30	<--	The_Prospector (~The_Prosp@unaffiliated/cornman) hat den IRC verlassen (*.net *.split)
+2020-02-04 20:00:30	<--	Spr1ng (~Spr1ng@unaffiliated/spr1ng) hat den IRC verlassen (*.net *.split)
+2020-02-04 20:00:30	<--	son1c (~son1c@gale.uberspace.de) hat den IRC verlassen (*.net *.split)
+2020-02-04 20:00:30	<--	htbrdd (sid48992@gateway/web/irccloud.com/x-jdgksbxxdbvkhtyq) hat den IRC verlassen (*.net *.split)
+2020-02-04 20:00:30	<--	ViSi0n (~none@94-226-218-239.access.telenet.be) hat den IRC verlassen (*.net *.split)
+2020-02-04 20:00:30	<--	Linlz (~Linlz@unaffiliated/linlz) hat den IRC verlassen (*.net *.split)
+2020-02-04 20:00:30	<--	Karambol (~kiju@unaffiliated/karambol) hat den IRC verlassen (*.net *.split)
+2020-02-04 20:00:30	<--	KingJ (~kj@2001:bc8:2384:dec0:ded::1) hat den IRC verlassen (*.net *.split)
+2020-02-04 20:00:30	<--	johskar (~johskar@h1.skartland.net) hat den IRC verlassen (*.net *.split)
+2020-02-04 20:00:30	<--	j0nnymoe (~j0nnymoe@unaffiliated/j0nnymoe) hat den IRC verlassen (*.net *.split)
+2020-02-04 20:00:31	<--	The_Shadows (~shadows@banaani.info) hat den IRC verlassen (*.net *.split)
+2020-02-04 20:00:31	<--	hreinnbeck (~hreinnbec@k6.is) hat den IRC verlassen (*.net *.split)
+2020-02-04 20:00:31	<--	dinoex (~dinoex@b3.dinoex.sub.de) hat den IRC verlassen (*.net *.split)
+2020-02-04 20:00:31	<--	jbeez (~jbeez@lucky13.jbeez.net) hat den IRC verlassen (*.net *.split)
+2020-02-04 20:00:31	<--	agile (~v@whilecoding.com) hat den IRC verlassen (*.net *.split)
+2020-02-04 20:00:31	<--	cypherfusion (~cypherfus@new.d3a.xyz) hat den IRC verlassen (*.net *.split)
+2020-02-04 20:00:31	<--	Kolas (~ladida@unaffiliated/kolas) hat den IRC verlassen (*.net *.split)
+2020-02-04 20:00:31	<--	reyu (~reyu@znc.reyuzenfold.com) hat den IRC verlassen (*.net *.split)
+2020-02-04 20:00:31	<--	churnd (~churnd@unaffiliated/churnd) hat den IRC verlassen (*.net *.split)
+2020-02-04 20:00:31	<--	pfak (peter@crash.pfak.org) hat den IRC verlassen (*.net *.split)
+2020-02-04 20:00:31	<--	newtmewt2 (~newtmewt@unaffiliated/newtmewt) hat den IRC verlassen (*.net *.split)
+2020-02-04 20:00:31	<--	vaxsquid- (~vaxsquid@banana.fish) hat den IRC verlassen (*.net *.split)
+2020-02-04 20:00:31	<--	chaoscon (~jeremy@smartserv/ceo/chaoscon) hat den IRC verlassen (*.net *.split)
+2020-02-04 20:00:31	<--	Berzerker (~berzerker@shuten.berzerker.com) hat den IRC verlassen (*.net *.split)
+2020-02-04 20:00:31	<--	laama_ (~lamah@unaffiliated/laama) hat den IRC verlassen (*.net *.split)
+2020-02-04 20:01:56	-->	hgeboner (~duke@v2201801700760097.supersrv.de) hat den Channel #pfsense betreten
+2020-02-04 20:01:56	-->	halden (h@lden.im) hat den Channel #pfsense betreten
+2020-02-04 20:02:14	-->	The_Prospector (~The_Prosp@unaffiliated/cornman) hat den Channel #pfsense betreten
+2020-02-04 20:02:14	-->	Spr1ng (~Spr1ng@unaffiliated/spr1ng) hat den Channel #pfsense betreten
+2020-02-04 20:02:14	-->	son1c (~son1c@gale.uberspace.de) hat den Channel #pfsense betreten
+2020-02-04 20:02:14	-->	htbrdd (sid48992@gateway/web/irccloud.com/x-jdgksbxxdbvkhtyq) hat den Channel #pfsense betreten
+2020-02-04 20:02:14	-->	ViSi0n (~none@94-226-218-239.access.telenet.be) hat den Channel #pfsense betreten
+2020-02-04 20:02:14	-->	Linlz (~Linlz@unaffiliated/linlz) hat den Channel #pfsense betreten
+2020-02-04 20:02:14	-->	Karambol (~kiju@unaffiliated/karambol) hat den Channel #pfsense betreten
+2020-02-04 20:02:14	-->	cypherfusion (~cypherfus@new.d3a.xyz) hat den Channel #pfsense betreten
+2020-02-04 20:02:14	-->	KingJ (~kj@2001:bc8:2384:dec0:ded::1) hat den Channel #pfsense betreten
+2020-02-04 20:02:14	-->	j0nnymoe (~j0nnymoe@unaffiliated/j0nnymoe) hat den Channel #pfsense betreten
+2020-02-04 20:02:14	-->	johskar (~johskar@h1.skartland.net) hat den Channel #pfsense betreten
+2020-02-04 20:02:14	-->	hreinnbeck (~hreinnbec@k6.is) hat den Channel #pfsense betreten
+2020-02-04 20:02:14	-->	pfak (peter@crash.pfak.org) hat den Channel #pfsense betreten
+2020-02-04 20:02:14	-->	jbeez (~jbeez@lucky13.jbeez.net) hat den Channel #pfsense betreten
+2020-02-04 20:02:14	-->	dinoex (~dinoex@b3.dinoex.sub.de) hat den Channel #pfsense betreten
+2020-02-04 20:02:14	-->	agile (~v@whilecoding.com) hat den Channel #pfsense betreten
+2020-02-04 20:02:14	-->	Kolas (~ladida@unaffiliated/kolas) hat den Channel #pfsense betreten
+2020-02-04 20:02:14	-->	reyu (~reyu@znc.reyuzenfold.com) hat den Channel #pfsense betreten
+2020-02-04 20:02:14	-->	churnd (~churnd@unaffiliated/churnd) hat den Channel #pfsense betreten
+2020-02-04 20:02:14	-->	newtmewt2 (~newtmewt@unaffiliated/newtmewt) hat den Channel #pfsense betreten
+2020-02-04 20:02:14	-->	vaxsquid- (~vaxsquid@banana.fish) hat den Channel #pfsense betreten
+2020-02-04 20:02:14	-->	chaoscon (~jeremy@smartserv/ceo/chaoscon) hat den Channel #pfsense betreten
+2020-02-04 20:02:14	-->	Berzerker (~berzerker@shuten.berzerker.com) hat den Channel #pfsense betreten
+2020-02-04 20:02:14	-->	laama_ (~lamah@unaffiliated/laama) hat den Channel #pfsense betreten
+2020-02-04 20:02:14	<--	Spr1ng (~Spr1ng@unaffiliated/spr1ng) hat den IRC verlassen (Max SendQ exceeded)
+2020-02-04 20:02:39	-->	The_Prospector|2 (~The_Prosp@c-67-160-14-86.hsd1.wa.comcast.net) hat den Channel #pfsense betreten
+2020-02-04 20:03:03	-->	Spr1ng (~Spr1ng@unaffiliated/spr1ng) hat den Channel #pfsense betreten
+2020-02-04 20:03:05	<--	kusznir (~kusznir@bnc.janky.solutions) hat den IRC verlassen (Ping timeout: 268 seconds)
+2020-02-04 20:03:05	<--	lightstalker (~lightstal@unaffiliated/thebrain) hat den IRC verlassen (Ping timeout: 268 seconds)
+2020-02-04 20:03:05	<--	lanestolen (~lanestole@104.244.72.225) hat den IRC verlassen (Ping timeout: 268 seconds)
+2020-02-04 20:03:05	<--	bootdisk (~bootdisk@unaffiliated/bootdisk) hat den IRC verlassen (Ping timeout: 268 seconds)
+2020-02-04 20:03:39	<--	benoliver999 (~benoliver@fsf/member/benoliver999) hat den IRC verlassen (Ping timeout: 240 seconds)
+2020-02-04 20:04:19	<--	Connor_ (~Connor@znc.fireirc.co) hat den IRC verlassen (Ping timeout: 268 seconds)
+2020-02-04 20:04:25	-->	bootdisk (~bootdisk@unaffiliated/bootdisk) hat den Channel #pfsense betreten
+2020-02-04 20:04:56	-->	benoliver999 (~benoliver@fsf/member/benoliver999) hat den Channel #pfsense betreten
+2020-02-04 20:05:08	<--	The_Prospector (~The_Prosp@unaffiliated/cornman) hat den IRC verlassen (Ping timeout: 248 seconds)
+2020-02-04 20:05:26	-->	lightstalker (~lightstal@unaffiliated/thebrain) hat den Channel #pfsense betreten
+2020-02-04 20:05:34	-->	Connor_ (~Connor@znc.fireirc.co) hat den Channel #pfsense betreten
+2020-02-04 20:05:47	<--	threwahway (~threwahwa@c-73-241-138-120.hsd1.ca.comcast.net) hat den IRC verlassen (Read error: Connection reset by peer)
+2020-02-04 20:06:18	-->	lanestolen (~lanestole@104.244.72.225) hat den Channel #pfsense betreten
+2020-02-04 20:12:39	-->	kusznir (~kusznir@bnc.janky.solutions) hat den Channel #pfsense betreten
+2020-02-04 20:17:54	-->	threwahway (~threwahwa@c-73-241-138-120.hsd1.ca.comcast.net) hat den Channel #pfsense betreten
+2020-02-04 20:19:27	--	DJ-ArcAngel ist nun als DJ_AA bekannt
+2020-02-04 20:22:59	-->	The_Shadows (~shadows@banaani.info) hat den Channel #pfsense betreten

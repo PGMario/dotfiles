@@ -340,4 +340,3 @@ hash -d pi=/home/hoopdoc/share/pi-master_usb
 hash -d tel=/home/hoopdoc/share/nokia-72
 
 ## END OF FILE #################################################################
-alias config='/usr/bin/git --git-dir=/home/hoopdoc/.cfg/ --work-tree=/home/hoopdoc'

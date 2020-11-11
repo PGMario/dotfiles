@@ -4,3 +4,6 @@
 [submodule "/home/hoopdoc/.tmux/plugins/tpm"]
 	path = /home/hoopdoc/.tmux/plugins/tpm
 	url = https://github.com/tmux-plugins/tpm
+[submodule "/home/hoopdoc/.vim/bundle/Vundle.vim"]
+	path = /home/hoopdoc/.vim/bundle/Vundle.vim
+	url = https://github.com/VundleVim/Vundle.vim.git

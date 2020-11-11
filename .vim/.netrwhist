@@ -1,8 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =6
-let g:netrw_dirhist_1='/data/dokumente/vive/test'
-let g:netrw_dirhist_2='/data/dokumente/test'
-let g:netrw_dirhist_3='/data/dl/Maperitive/Maperitive-latest/Rules'
-let g:netrw_dirhist_4='/data/dokumente/eigenes/2/charaktere'
-let g:netrw_dirhist_5='/data/dokumente/eigenes/2/orte'
-let g:netrw_dirhist_6='/home/hoopdoc/.oh-my-zsh/custom'

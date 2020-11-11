@@ -1,3 +1,6 @@
 [submodule "/home/hoopdoc/.oh-my-zsh"]
 	path = /home/hoopdoc/.oh-my-zsh
 	url = https://github.com/ohmyzsh/ohmyzsh.git
+[submodule "/home/hoopdoc/.tmux/plugins/tpm"]
+	path = /home/hoopdoc/.tmux/plugins/tpm
+	url = https://github.com/tmux-plugins/tpm

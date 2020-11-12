@@ -1,0 +1,20 @@
+---
+- hosts: localhost
+  become: yes
+  tasks:
+    - name: Create/edit user hoopdoc
+      user:
+        name: hoopdoc
+        shell: /usr/bin/zsh
+        groups: sudo,systemd-journal,netdev,bluetooth,scanner
+        append: yes
+        uid: 1000
+
+    - name: edit sudoers
+      copy:
+        content: "hoopdoc ALL=NOPASSWD: /usr/bin/mount, /usr/sbin/iftop, /usr/sbin/nethogs\n"
+        dest: /etc/sudoers.d/hoopdoc
+        owner: root
+        mode: '0440'
+        validate: /usr/sbin/visudo -csf %s
+

@@ -1,14 +1,33 @@
-#!/bin/sh
+#!/bin/bash
 
 # Because Git submodule commands cannot operate without a work tree, they must
 # be run from within $HOME (assuming this is the root of your dotfiles)
 cd "$HOME"
+
+# Install and run Ansible
+
+distribution=$(lsb_release -si)
+
+if [ "$distribution" = "Debian" ]; then
+	echo "Installing Ansible with apt"
+	sudo apt update && sudo apt install ansible
+else
+	echo "Installing Ansible with pamac"
+	pamac install ansible
+fi
+
+echo "Running Ansible Playbooks"
+ansible-playbook main.yml -K -i ansible_hosts
+
+# Init git and yadm submodules
 
 echo "Init yadm submodules"
 yadm submodule update --recursive --init
 
 echo "Init git submodules"
 git submodule update --recursive --init
+
+# Install VIM plugins defined in .vimrc
 
 echo "Install VIM plugins via Vundle"
 vim +PluginInstall +qall

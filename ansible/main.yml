@@ -1,0 +1,4 @@
+- import_playbook: basic.yml
+- import playbook: users.yml
+- import_playbook: desktop.yml
+- import_playbook: networking.yml

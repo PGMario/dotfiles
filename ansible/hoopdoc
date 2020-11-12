@@ -1,1 +1,0 @@
-hoopdoc ALL=NOPASSWD: /usr/bin/mount, /usr/sbin/iftop, /usr/sbin/nethogs

@@ -1,0 +1,29 @@
+---
+- hosts: localhost
+  become: yes
+  tasks:
+    - name: install basic packages
+      package:
+        name: "{{ item}}"
+        state: present
+      loop:
+        - zsh
+        - tmux
+        - vim
+        - neovim
+        - curl
+        - wget
+        - nmap
+        - gnupg
+        - htop
+        - glances
+        - nethogs
+        - iftop
+        - weechat
+        - flatpak
+
+    - name: Add the flathub flatpak repository remote to the system installation
+      flatpak_remote:
+        name: flathub
+        state: present
+        flatpakrepo_url: https://dl.flathub.org/repo/flathub.flatpakrepo

@@ -1,0 +1,13 @@
+---
+- hosts: localhost
+  become: yes
+  tasks:
+    - name: install work packages
+      package:
+        name: "{{ item}}"
+        state: present
+      loop:
+        - inkscape
+        - libreoffice
+        - gimp
+        

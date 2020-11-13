@@ -6,8 +6,6 @@
       user:
         name: hoopdoc
         shell: /usr/bin/zsh
-        groups: systemd-journal,netdev,scanner
-        append: yes
         uid: 1000
 
     - name: edit sudoers

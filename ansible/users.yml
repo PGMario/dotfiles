@@ -6,7 +6,7 @@
       user:
         name: hoopdoc
         shell: /usr/bin/zsh
-        groups: sudo,systemd-journal,netdev,scanner
+        groups: systemd-journal,netdev,scanner
         append: yes
         uid: 1000
 

@@ -20,6 +20,7 @@ echo "Running Ansible Playbooks"
 ansible-playbook main.yml -K -i ansible_hosts
 
 # Init git and yadm submodules
+git init
 
 echo "Init yadm submodules"
 yadm submodule update --recursive --init

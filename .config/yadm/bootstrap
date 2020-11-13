@@ -25,7 +25,7 @@ ansible-playbook ~/ansible/desktop.yml -K -i ansible_hosts
 git init
 
 echo "Init yadm submodules"
-yadm submodule update --recursive --init
+~/bin/yadm submodule update --recursive --init
 
 echo "Init git submodules"
 git submodule update --recursive --init

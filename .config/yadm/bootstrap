@@ -32,3 +32,5 @@ git submodule update --recursive --init
 
 echo "Install VIM plugins via Vundle"
 vim +PluginInstall +qall
+
+echo "DONE"

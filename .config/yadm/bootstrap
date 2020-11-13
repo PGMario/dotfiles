@@ -17,7 +17,7 @@ else
 fi
 
 echo "Running Ansible Playbooks"
-ansible-playbook main.yml -K -i ansible_hosts
+ansible-playbook ~/ansible/main.yml -K -i ansible_hosts
 
 # Init git and yadm submodules
 git init

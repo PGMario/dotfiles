@@ -1,12 +1,9 @@
-[submodule "/home/hoopdoc/.oh-my-zsh"]
-	path = /home/hoopdoc/.oh-my-zsh
-	url = https://github.com/ohmyzsh/ohmyzsh.git
-[submodule "/home/hoopdoc/.tmux/plugins/tpm"]
-	path = /home/hoopdoc/.tmux/plugins/tpm
-	url = https://github.com/tmux-plugins/tpm
-[submodule "/home/hoopdoc/.vim/bundle/Vundle.vim"]
-	path = /home/hoopdoc/.vim/bundle/Vundle.vim
-	url = https://github.com/VundleVim/Vundle.vim.git
-[submodule "/home/hoopdoc/.fzf"]
-	path = /home/hoopdoc/.fzf
+[submodule ".fzf"]
+	path = .fzf
 	url = https://github.com/junegunn/fzf.git
+[submodule ".vim/bundle/Vundle.vim"]
+	path = .vim/bundle/Vundle.vim
+	url = https://github.com/VundleVim/Vundle.vim.git
+[submodule ".tmux/plugins/tpm"]
+	path = .tmux/plugins/tpm
+	url = https://github.com/tmux-plugins/tpm

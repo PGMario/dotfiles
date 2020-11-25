@@ -15,7 +15,6 @@
       flatpak:
         name: org.mozilla.firefox
         state: present
-        remote: flathub
         method: user
   
     - name: Permit Flatpak Firefox to use ~/.mozilla

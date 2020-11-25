@@ -24,8 +24,18 @@ ansible-playbook ~/ansible/desktop.yml -K -i ansible_hosts
 # Init git and yadm submodules
 git init
 
+echo "Init and update tpm"
+~/bin/yadm submodule init ".tmux/plugins/tpm"
+~/bin/yadm submodule update --remote --merge  ".tmux/plugins/tpm"
+
+echo "Install tmux plugins via tpm"
+~/.tmux/plugins/tpm/bin/install_plugins
+
 echo "Init yadm submodules"
 ~/bin/yadm submodule update --recursive --init
+
+echo "Remote merge yadm submodules"
+~/bin/yadm submodule update --remote --merge
 
 echo "Init git submodules"
 git submodule update --recursive --init

@@ -29,7 +29,9 @@ echo "Init and update tpm"
 ~/bin/yadm submodule update --remote --merge  ".tmux/plugins/tpm"
 
 echo "Install tmux plugins via tpm"
+tmux
 ~/.tmux/plugins/tpm/bin/install_plugins
+exit
 
 echo "Init yadm submodules"
 ~/bin/yadm submodule update --recursive --init

@@ -21,6 +21,8 @@ ansible-playbook ~/ansible/basic.yml -K -i ansible_hosts
 ansible-playbook ~/ansible/users.yml -K -i ansible_hosts
 ansible-playbook ~/ansible/desktop.yml -K -i ansible_hosts
 
+echo "INSTALL TPM AND VUNDLE AND THE RESPECTIVE PLUGINS"
+
 echo "Init and update tpm"
 ~/bin/yadm submodule init ".tmux/plugins/tpm"
 ~/bin/yadm submodule update --remote --merge  ".tmux/plugins/tpm"
@@ -29,19 +31,22 @@ echo "Install tmux plugins via tpm"
 tmux start-server
 ~/.tmux/plugins/tpm/bin/install_plugins
 
-echo "Init yadm submodules"
-~/bin/yadm submodule update --recursive --init
-
-echo "Remote merge yadm submodules"
-~/bin/yadm submodule update --remote --merge
-
-echo "Init git submodules"
-git submodule update --recursive --init
+echo "Init and update Vundle"
+~/bin/yadm submodule init ".vim/bundle/Vundle.vim"
+~/bin/yadm submodule update --remote --merge  ".vim/bundle/Vundle.vim"
 
 # Install VIM plugins defined in .vimrc
 
 echo "Install VIM plugins via Vundle"
 vim +PluginInstall +qall
+
+echo "INSTALL SUBMODULES"
+
+echo "Init yadm submodules"
+~/bin/yadm submodule update --recursive --init
+
+echo "Remote merge yadm submodules"
+~/bin/yadm submodule update --remote --merge
 
 echo "Install fzf"
 ~/.fzf/install

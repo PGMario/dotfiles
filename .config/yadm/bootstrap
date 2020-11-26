@@ -21,9 +21,6 @@ ansible-playbook ~/ansible/basic.yml -K -i ansible_hosts
 ansible-playbook ~/ansible/users.yml -K -i ansible_hosts
 ansible-playbook ~/ansible/desktop.yml -K -i ansible_hosts
 
-# Init git and yadm submodules
-git init
-
 echo "Init and update tpm"
 ~/bin/yadm submodule init ".tmux/plugins/tpm"
 ~/bin/yadm submodule update --remote --merge  ".tmux/plugins/tpm"

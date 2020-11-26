@@ -22,8 +22,9 @@
         - weechat
         - flatpak
 
-    - name: Add the flathub flatpak repository remote to the system installation
+    - name: Add the flathub flatpak repository remote to the user installation
       flatpak_remote:
         name: flathub
         state: present
+        method: user
         flatpakrepo_url: https://dl.flathub.org/repo/flathub.flatpakrepo

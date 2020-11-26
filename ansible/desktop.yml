@@ -12,12 +12,14 @@
         - neovim-qt
 
     - name: install Firefox from the flathub repository
+      become_user: hoopdoc
       flatpak:
         name: org.mozilla.firefox
         state: present
         method: user
   
     - name: Permit Flatpak Firefox to use ~/.mozilla
+      become_user: hoopdoc
       shell: flatpak override --user --filesystem="$HOME/.mozilla" org.mozilla.firefox
       args:
         chdir: $HOME

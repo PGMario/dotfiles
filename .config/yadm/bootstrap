@@ -31,7 +31,6 @@ echo "Init and update tpm"
 echo "Install tmux plugins via tpm"
 tmux start-server
 ~/.tmux/plugins/tpm/bin/install_plugins
-exit
 
 echo "Init yadm submodules"
 ~/bin/yadm submodule update --recursive --init
